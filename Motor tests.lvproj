@@ -2244,7 +2244,6 @@ AddOutputFilter chunkFilter
 			<Property Name="softmotionID:0" Type="Str">{C89C22D6-09D8-451c-B54B-BE98A931F881}</Property>
 		</Item>
 		<Item Name="SC RT.vi" Type="VI" URL="../SC RT.vi">
-			<Item Name="Straight-Line Move" Type="IIO Function Block"/>
 			<Item Name="Straight-Line Move 1" Type="IIO Function Block"/>
 		</Item>
 		<Item Name="SC2 shared var.lvlib" Type="Library" URL="../SC2 shared var.lvlib"/>
