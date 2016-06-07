@@ -7,6 +7,7 @@
 	<Property Name="varPersistentID:{15FABBEA-8D84-4E80-873E-03DBC62CFC75}" Type="Ref">/Sample-changer-2/Chassis/Mod6/DIO26</Property>
 	<Property Name="varPersistentID:{17C400A1-9653-4919-8A06-B6FA6362B076}" Type="Ref">/Sample-changer-2/Chassis/Mod6/DIO8</Property>
 	<Property Name="varPersistentID:{18D0B626-B209-4F72-99E0-870ACB2EB32B}" Type="Ref">/Sample-changer-2/Chassis/Mod4/AO3</Property>
+	<Property Name="varPersistentID:{23F38905-B937-4693-A33E-DB5B4BD6CBD4}" Type="Ref">/Sample-changer-2/SC2 shared var.lvlib/Motor Done 3</Property>
 	<Property Name="varPersistentID:{27BB1210-9AC8-4991-8D3C-43B7CC8B57D0}" Type="Ref">/Sample-changer-2/Chassis/Mod6/DIO22</Property>
 	<Property Name="varPersistentID:{29C1EC05-E778-4C88-83D6-8112E06979F6}" Type="Ref">/Sample-changer-2/Chassis/Mod4/AO8</Property>
 	<Property Name="varPersistentID:{2AA49EA5-20D9-4327-8F63-43C820187EDA}" Type="Ref">/Sample-changer-2/Chassis/Mod7/DI29</Property>
@@ -48,6 +49,7 @@
 	<Property Name="varPersistentID:{5F2CC8F1-8B43-423F-8588-26686DD1B396}" Type="Ref">/Sample-changer-2/Chassis/Mod6/DIO14</Property>
 	<Property Name="varPersistentID:{5F3822F9-75F4-4223-9B60-1DEC271523BB}" Type="Ref">/Sample-changer-2/Chassis/Mod8/DO7</Property>
 	<Property Name="varPersistentID:{608D378B-C7CC-459F-AF76-FD8814D3EBF1}" Type="Ref">/Sample-changer-2/Chassis/Mod6/DIO10</Property>
+	<Property Name="varPersistentID:{65DC6185-81CA-491E-894E-0A86205015FC}" Type="Ref">/Sample-changer-2/SC2 shared var.lvlib/Converted Encoder</Property>
 	<Property Name="varPersistentID:{6601201C-2AD5-45F9-B593-446A567B1B1F}" Type="Ref">/Sample-changer-2/Chassis/Mod7/DI8</Property>
 	<Property Name="varPersistentID:{691851E6-1A3F-43E2-825B-F8577BA58D4D}" Type="Ref">/Sample-changer-2/Chassis/Mod4/AO7</Property>
 	<Property Name="varPersistentID:{6AB14E50-7EB2-4C44-B7D0-3257F5611199}" Type="Ref">/Sample-changer-2/Chassis/Mod7/DI11</Property>
@@ -73,12 +75,14 @@
 	<Property Name="varPersistentID:{8E8164DD-47D3-46AE-98A8-4A141F8720B7}" Type="Ref">/Sample-changer-2/Chassis/Mod7/DI19</Property>
 	<Property Name="varPersistentID:{9260F7C8-FD10-45C0-87E5-004D455FC7AC}" Type="Ref">/Sample-changer-2/Chassis/Mod6/DIO30</Property>
 	<Property Name="varPersistentID:{92953454-DDAB-4F21-BAAF-619EBB58BE63}" Type="Ref">/Sample-changer-2/Chassis/Mod6/DIO15</Property>
+	<Property Name="varPersistentID:{945A78C4-0AB8-486C-BF72-EF696FD44BDE}" Type="Ref">/Sample-changer-2/SC2 shared var.lvlib/Start Rotation</Property>
 	<Property Name="varPersistentID:{95E636F5-0CA1-4C0A-988A-EEE7475251A0}" Type="Ref">/Sample-changer-2/Chassis/Mod5/AI6</Property>
 	<Property Name="varPersistentID:{9699412C-599B-49DC-A765-98F381B0E464}" Type="Ref">/Sample-changer-2/Chassis/Mod5/AI17</Property>
 	<Property Name="varPersistentID:{96C5908E-2907-4DE9-93D8-60B3F7810254}" Type="Ref">/Sample-changer-2/Chassis/Mod5/AI9</Property>
 	<Property Name="varPersistentID:{9857A918-4961-4588-A676-A34B1D7EB2F1}" Type="Ref">/Sample-changer-2/Chassis/Mod5/AI22</Property>
 	<Property Name="varPersistentID:{98C944C2-5B39-477D-AC77-2F1B01409E03}" Type="Ref">/Sample-changer-2/Chassis/Mod4/AO15</Property>
 	<Property Name="varPersistentID:{9AEB12AE-229E-49E9-AA31-3195F03D9323}" Type="Ref">/Sample-changer-2/Chassis/Mod5/AI16</Property>
+	<Property Name="varPersistentID:{9B664162-CEF4-40F0-884B-A41919D3FCFD}" Type="Ref">/Sample-changer-2/SC2 shared var.lvlib/position</Property>
 	<Property Name="varPersistentID:{9EB12066-A78C-4C92-8C6B-425B7156F67C}" Type="Ref">/Sample-changer-2/Chassis/Mod6/DIO23</Property>
 	<Property Name="varPersistentID:{9F7B5AF7-3905-4072-8F9F-D9B32ECD54E7}" Type="Ref">/Sample-changer-2/Chassis/Mod4/AO14</Property>
 	<Property Name="varPersistentID:{A053120F-08B0-43AD-B328-3867D4A77E5B}" Type="Ref">/Sample-changer-2/Chassis/Mod5/AI1</Property>
@@ -96,12 +100,14 @@
 	<Property Name="varPersistentID:{BD0A6EE6-B592-4E0E-BA91-34F96833D070}" Type="Ref">/Sample-changer-2/Chassis/Mod6/DIO27</Property>
 	<Property Name="varPersistentID:{BE4BFCFB-91F7-413A-B360-8113FB9BD8B5}" Type="Ref">/Sample-changer-2/Chassis/Mod4/AO0</Property>
 	<Property Name="varPersistentID:{C2F49946-FEF5-4A03-AF65-CCF34FA10825}" Type="Ref">/Sample-changer-2/Chassis/Mod5/AI15</Property>
+	<Property Name="varPersistentID:{C32E6E18-269B-427A-8E56-64061982A291}" Type="Ref">/Sample-changer-2/SC2 shared var.lvlib/Raw Encoder</Property>
 	<Property Name="varPersistentID:{C5476310-9D1A-4296-9FAB-D9F6CE83725B}" Type="Ref">/Sample-changer-2/Chassis/Mod6/DIO19</Property>
 	<Property Name="varPersistentID:{C565F999-256E-4884-AED7-5B6ECD1FCF1D}" Type="Ref">/Sample-changer-2/Chassis/Mod7/DI17</Property>
 	<Property Name="varPersistentID:{C6A8C8AA-A7F2-4040-A68D-2C4807D880B9}" Type="Ref">/Sample-changer-2/Chassis/Mod7/DI4</Property>
 	<Property Name="varPersistentID:{C6FA38E2-D252-4672-BF05-E7E09B81352C}" Type="Ref">/Sample-changer-2/Chassis/Mod7/DI16</Property>
 	<Property Name="varPersistentID:{CAE87DFB-384B-4FDB-9FD2-77D53DD71E8A}" Type="Ref">/Sample-changer-2/Chassis/Mod7/DI9</Property>
 	<Property Name="varPersistentID:{CC49D7D8-50C3-4B32-A1C0-753C43FF3FEE}" Type="Ref">/Sample-changer-2/Chassis/Mod7/DI0</Property>
+	<Property Name="varPersistentID:{CC85A67E-564F-42EB-9663-630D5494F3CA}" Type="Ref">/Sample-changer-2/SC2 shared var.lvlib/Encoder Position</Property>
 	<Property Name="varPersistentID:{CD8756F5-E7C3-443B-9FA0-839336771037}" Type="Ref">/Sample-changer-2/Chassis/Mod8/DO4</Property>
 	<Property Name="varPersistentID:{CF25D113-A229-4021-B204-9A8A100E887B}" Type="Ref">/Sample-changer-2/Chassis/Mod7/DI21</Property>
 	<Property Name="varPersistentID:{D1DB0193-96CF-467E-9BD9-B824B53675B3}" Type="Ref">/Sample-changer-2/Chassis/Mod6/DIO1</Property>
@@ -141,6 +147,7 @@
 		<Property Name="server.vi.callsEnabled" Type="Bool">true</Property>
 		<Property Name="server.vi.propertiesEnabled" Type="Bool">true</Property>
 		<Property Name="specify.custom.address" Type="Bool">false</Property>
+		<Item Name="SC2 Host.vi" Type="VI" URL="../SC2 Host.vi"/>
 		<Item Name="Dependencies" Type="Dependencies"/>
 		<Item Name="Build Specifications" Type="Build"/>
 	</Item>
@@ -222,6 +229,20 @@ AddOutputFilter chunkFilter
 		<Property Name="target.WebServer.ViAccess" Type="Str">+*</Property>
 		<Property Name="target.webservices.SecurityAPIKey" Type="Str">PqVr/ifkAQh+lVrdPIykXlFvg12GhhQFR8H9cUhphgg=:pTe9HRlQuMfJxAG6QCGq7UvoUpJzAzWGKy5SbZ+roSU=</Property>
 		<Property Name="target.webservices.ValidTimestampWindow" Type="Int">15</Property>
+		<Item Name="Axis 1" Type="Motion Axis">
+			<Property Name="axis.class:0" Type="Int">10551361</Property>
+			<Property Name="axis.mapping:0" Type="Str">Mod2 (Slot 2, NI 9512)</Property>
+			<Property Name="axis.slotNumber:0" Type="Int">2</Property>
+			<Property Name="axis.SMVersion" Type="Int">201310</Property>
+			<Property Name="axisSetup.activeOnModeTransition:0" Type="Bool">true</Property>
+			<Property Name="deviceID:0" Type="Int">9512</Property>
+			<Property Name="limit.forward.enable:0" Type="Bool">false</Property>
+			<Property Name="limit.reverse.enable:0" Type="Bool">false</Property>
+			<Property Name="resource.type:0" Type="Int">10551297</Property>
+			<Property Name="resourceID:0" Type="Str">{704D3988-A29D-46D6-B4B1-EB88D6E3F5C3}</Property>
+			<Property Name="softmotionID:0" Type="Str">{C89C22D6-09D8-451c-B54B-BE98A931F881}</Property>
+			<Property Name="vendorID:0" Type="Int">4243</Property>
+		</Item>
 		<Item Name="Chassis" Type="cRIO Chassis">
 			<Property Name="crio.ProgrammingMode" Type="Str">express</Property>
 			<Property Name="crio.ResourceID" Type="Str">RIO0</Property>
@@ -2214,6 +2235,13 @@ AddOutputFilter chunkFilter
 					<Property Name="typeDesc" Type="Bin">&amp;1!!!"5!A!!!!!!"!!1!)1!"!!!!!!!!!!</Property>
 				</Item>
 			</Item>
+		</Item>
+		<Item Name="Coordinate Space 1" Type="Motion Coordinate Space">
+			<Property Name="axes:0:0" Type="Str">Axis 1</Property>
+			<Property Name="axes:0:Size" Type="UInt">1</Property>
+			<Property Name="resource.type:0" Type="Int">10551313</Property>
+			<Property Name="resourceID:0" Type="Str">{9FA7078E-B1E4-4344-9AC5-56631A114E2B}</Property>
+			<Property Name="softmotionID:0" Type="Str">{C89C22D6-09D8-451c-B54B-BE98A931F881}</Property>
 		</Item>
 		<Item Name="SC RT.vi" Type="VI" URL="../SC RT.vi">
 			<Item Name="Straight-Line Move" Type="IIO Function Block"/>
