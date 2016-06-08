@@ -108,6 +108,7 @@
 	<Property Name="varPersistentID:{CAE87DFB-384B-4FDB-9FD2-77D53DD71E8A}" Type="Ref">/Sample-changer-2/Chassis/Mod7/DI9</Property>
 	<Property Name="varPersistentID:{CC49D7D8-50C3-4B32-A1C0-753C43FF3FEE}" Type="Ref">/Sample-changer-2/Chassis/Mod7/DI0</Property>
 	<Property Name="varPersistentID:{CC85A67E-564F-42EB-9663-630D5494F3CA}" Type="Ref">/Sample-changer-2/SC2 shared var.lvlib/Encoder Position</Property>
+	<Property Name="varPersistentID:{CD114730-EB59-4180-8BBB-1A5EFA150BCD}" Type="Ref">/Sample-changer-2/SC2 shared var.lvlib/SC2 State Control</Property>
 	<Property Name="varPersistentID:{CD8756F5-E7C3-443B-9FA0-839336771037}" Type="Ref">/Sample-changer-2/Chassis/Mod8/DO4</Property>
 	<Property Name="varPersistentID:{CF25D113-A229-4021-B204-9A8A100E887B}" Type="Ref">/Sample-changer-2/Chassis/Mod7/DI21</Property>
 	<Property Name="varPersistentID:{D1DB0193-96CF-467E-9BD9-B824B53675B3}" Type="Ref">/Sample-changer-2/Chassis/Mod6/DIO1</Property>
