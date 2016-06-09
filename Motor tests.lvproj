@@ -1,5 +1,8 @@
 ﻿<?xml version='1.0' encoding='UTF-8'?>
 <Project Type="Project" LVVersion="15008000">
+	<Property Name="CCSymbols" Type="Str"></Property>
+	<Property Name="NI.LV.All.SourceOnly" Type="Bool">false</Property>
+	<Property Name="NI.Project.Description" Type="Str"></Property>
 	<Property Name="SMProvider.SMVersion" Type="Int">201310</Property>
 	<Property Name="varPersistentID:{0CEC9B24-065D-4AD5-87E8-4720D8916882}" Type="Ref">/Sample-changer-2/Chassis/Mod6/DIO24</Property>
 	<Property Name="varPersistentID:{0D75BFC8-8A55-4BA9-8D78-3ED400D3A7F3}" Type="Ref">/Sample-changer-2/Chassis/Mod7/DI2</Property>
@@ -67,6 +70,7 @@
 	<Property Name="varPersistentID:{7D4AF438-569D-4DAE-9A83-F60013393653}" Type="Ref">/Sample-changer-2/Chassis/Mod7/DI24</Property>
 	<Property Name="varPersistentID:{7D51A468-F40F-4518-BFE6-0B51AB81E9EB}" Type="Ref">/Sample-changer-2/Chassis/Mod6/DIO28</Property>
 	<Property Name="varPersistentID:{805FC278-BCDC-4239-A4A4-09B85894183A}" Type="Ref">/Sample-changer-2/Chassis/Mod6/DIO7</Property>
+	<Property Name="varPersistentID:{80BD5053-AFC9-44F4-A768-D59B055AEF1E}" Type="Ref">/Sample-changer-2/SC2 shared var.lvlib/SC2 Current State</Property>
 	<Property Name="varPersistentID:{810A75A8-DD27-4591-979D-2413F0ADC7B2}" Type="Ref">/Sample-changer-2/Chassis/Mod6/DIO2</Property>
 	<Property Name="varPersistentID:{8127AEE4-4E7F-4119-B347-6049B99BE9E3}" Type="Ref">/Sample-changer-2/Chassis/Mod5/AI8</Property>
 	<Property Name="varPersistentID:{85E7D3AE-6A8D-4F2D-927D-5A5D6533F75D}" Type="Ref">/Sample-changer-2/Chassis/Mod6/DIO5</Property>
@@ -75,6 +79,7 @@
 	<Property Name="varPersistentID:{8E8164DD-47D3-46AE-98A8-4A141F8720B7}" Type="Ref">/Sample-changer-2/Chassis/Mod7/DI19</Property>
 	<Property Name="varPersistentID:{9260F7C8-FD10-45C0-87E5-004D455FC7AC}" Type="Ref">/Sample-changer-2/Chassis/Mod6/DIO30</Property>
 	<Property Name="varPersistentID:{92953454-DDAB-4F21-BAAF-619EBB58BE63}" Type="Ref">/Sample-changer-2/Chassis/Mod6/DIO15</Property>
+	<Property Name="varPersistentID:{94237F2F-9F26-437B-9DBF-4AF4FA486E04}" Type="Ref">/Sample-changer-2/SC2 shared var.lvlib/Encoder Offset</Property>
 	<Property Name="varPersistentID:{945A78C4-0AB8-486C-BF72-EF696FD44BDE}" Type="Ref">/Sample-changer-2/SC2 shared var.lvlib/Start Rotation</Property>
 	<Property Name="varPersistentID:{95E636F5-0CA1-4C0A-988A-EEE7475251A0}" Type="Ref">/Sample-changer-2/Chassis/Mod5/AI6</Property>
 	<Property Name="varPersistentID:{9699412C-599B-49DC-A765-98F381B0E464}" Type="Ref">/Sample-changer-2/Chassis/Mod5/AI17</Property>
@@ -149,7 +154,9 @@
 		<Property Name="server.vi.propertiesEnabled" Type="Bool">true</Property>
 		<Property Name="specify.custom.address" Type="Bool">false</Property>
 		<Item Name="SC2 Host.vi" Type="VI" URL="../SC2 Host.vi"/>
-		<Item Name="Dependencies" Type="Dependencies"/>
+		<Item Name="Dependencies" Type="Dependencies">
+			<Item Name="SC2 states.ctl" Type="VI" URL="../SC2 states.ctl"/>
+		</Item>
 		<Item Name="Build Specifications" Type="Build"/>
 	</Item>
 	<Item Name="Sample-changer-2" Type="RT CompactRIO">
@@ -2244,11 +2251,14 @@ AddOutputFilter chunkFilter
 			<Property Name="resourceID:0" Type="Str">{9FA7078E-B1E4-4344-9AC5-56631A114E2B}</Property>
 			<Property Name="softmotionID:0" Type="Str">{C89C22D6-09D8-451c-B54B-BE98A931F881}</Property>
 		</Item>
+		<Item Name="Sample-Encoder conversion.vi" Type="VI" URL="../Sample-Encoder conversion.vi"/>
 		<Item Name="SC RT.vi" Type="VI" URL="../SC RT.vi">
 			<Item Name="Straight-Line Move 1" Type="IIO Function Block"/>
 		</Item>
 		<Item Name="SC2 shared var.lvlib" Type="Library" URL="../SC2 shared var.lvlib"/>
-		<Item Name="Dependencies" Type="Dependencies"/>
+		<Item Name="Dependencies" Type="Dependencies">
+			<Item Name="SC2 states.ctl" Type="VI" URL="../SC2 states.ctl"/>
+		</Item>
 		<Item Name="Build Specifications" Type="Build"/>
 	</Item>
 </Project>
