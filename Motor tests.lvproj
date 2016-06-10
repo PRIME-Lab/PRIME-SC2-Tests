@@ -244,11 +244,10 @@ AddOutputFilter chunkFilter
 			<Property Name="axis.SMVersion" Type="Int">201310</Property>
 			<Property Name="axisSetup.activeOnModeTransition:0" Type="Bool">true</Property>
 			<Property Name="deviceID:0" Type="Int">9512</Property>
-			<Property Name="interactivePanel.targetPosition:0" Type="Dbl">50000</Property>
 			<Property Name="limit.forward.enable:0" Type="Bool">false</Property>
 			<Property Name="limit.reverse.enable:0" Type="Bool">false</Property>
 			<Property Name="resource.type:0" Type="Int">10551297</Property>
-			<Property Name="resourceID:0" Type="Str">{DB0D4BFE-E838-4CF8-97F4-F22FDCBFEB2C}</Property>
+			<Property Name="resourceID:0" Type="Str">{A96D5F14-DDA0-4AE8-9330-A247C0DAECD1}</Property>
 			<Property Name="softmotionID:0" Type="Str">{C89C22D6-09D8-451c-B54B-BE98A931F881}</Property>
 			<Property Name="vendorID:0" Type="Int">4243</Property>
 		</Item>
@@ -2249,7 +2248,7 @@ AddOutputFilter chunkFilter
 			<Property Name="axes:0:0" Type="Str">Axis 1</Property>
 			<Property Name="axes:0:Size" Type="UInt">1</Property>
 			<Property Name="resource.type:0" Type="Int">10551313</Property>
-			<Property Name="resourceID:0" Type="Str">{A3516DE5-C084-4A9A-BF1C-83ADD6379AEC}</Property>
+			<Property Name="resourceID:0" Type="Str">{CB054AE7-55B8-4774-9B05-A4A985BD9C96}</Property>
 			<Property Name="softmotionID:0" Type="Str">{C89C22D6-09D8-451c-B54B-BE98A931F881}</Property>
 		</Item>
 		<Item Name="Sample-Encoder conversion.vi" Type="VI" URL="../Sample-Encoder conversion.vi"/>
