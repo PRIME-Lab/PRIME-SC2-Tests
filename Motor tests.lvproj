@@ -33,6 +33,7 @@
 	<Property Name="varPersistentID:{3C3ADCB5-0680-49FE-9253-D237B87A2C46}" Type="Ref">/Sample-changer-2/Chassis/Mod7/DI5</Property>
 	<Property Name="varPersistentID:{3C606C92-3E02-487D-9223-233F5D657491}" Type="Ref">/Sample-changer-2/Chassis/Mod7/DI15</Property>
 	<Property Name="varPersistentID:{3E3B95B6-02AA-4B10-A136-113CB866F74F}" Type="Ref">/Sample-changer-2/Chassis/Mod7/DI30</Property>
+	<Property Name="varPersistentID:{3ECC87AE-8394-4B64-9897-E91D5904931A}" Type="Ref">/My Computer/SC2 Monitor shared var.lvlib/Encoder Radius</Property>
 	<Property Name="varPersistentID:{40ECDEC7-AB3A-4867-88D9-68A370E6E40C}" Type="Ref">/Sample-changer-2/Chassis/Mod8/DO2</Property>
 	<Property Name="varPersistentID:{413CBB38-63A4-4895-8CE1-191853E505A6}" Type="Ref">/Sample-changer-2/Chassis/Mod7/DI20</Property>
 	<Property Name="varPersistentID:{42D5359D-AD5A-4911-99E1-360ADF3D91C7}" Type="Ref">/Sample-changer-2/SC2 shared var.lvlib/SC2 Random Change</Property>
@@ -68,6 +69,7 @@
 	<Property Name="varPersistentID:{71422E56-E9CE-494D-80A3-8651582B938C}" Type="Ref">/Sample-changer-2/Chassis/Mod6/DIO9</Property>
 	<Property Name="varPersistentID:{74B9FE31-660C-4A63-9E3F-2DAE15526AA4}" Type="Ref">/Sample-changer-2/Chassis/Mod6/DIO16</Property>
 	<Property Name="varPersistentID:{756E9142-DA5B-40CD-B1C4-2DDE8D84C665}" Type="Ref">/Sample-changer-2/Chassis/Mod8/DO1</Property>
+	<Property Name="varPersistentID:{7576764A-2418-415B-BBAA-E2DC50B40A77}" Type="Ref">/Sample-changer-2/SC2 shared var.lvlib/SC2 Encoder Loop</Property>
 	<Property Name="varPersistentID:{759CE07A-1B5D-403D-9226-35B563890063}" Type="Ref">/Sample-changer-2/Chassis/Mod5/AI7</Property>
 	<Property Name="varPersistentID:{76F8757A-C715-4720-8EAD-7603AE863A56}" Type="Ref">/Sample-changer-2/Chassis/Mod5/AI19</Property>
 	<Property Name="varPersistentID:{77CEE574-67BE-4687-9DF8-80D5A193F9A4}" Type="Ref">/Sample-changer-2/Chassis/Mod5/AI3</Property>
@@ -78,6 +80,7 @@
 	<Property Name="varPersistentID:{7C31CF8A-357A-44E2-9180-1E22EE4C9CD2}" Type="Ref">/Sample-changer-2/Chassis/Mod6/DIO3</Property>
 	<Property Name="varPersistentID:{7D4AF438-569D-4DAE-9A83-F60013393653}" Type="Ref">/Sample-changer-2/Chassis/Mod7/DI24</Property>
 	<Property Name="varPersistentID:{7D51A468-F40F-4518-BFE6-0B51AB81E9EB}" Type="Ref">/Sample-changer-2/Chassis/Mod6/DIO28</Property>
+	<Property Name="varPersistentID:{7E9C7894-D3BC-433D-BD68-1A477AA5B741}" Type="Ref">/My Computer/SC2 Monitor shared var.lvlib/Encoder Destination</Property>
 	<Property Name="varPersistentID:{805FC278-BCDC-4239-A4A4-09B85894183A}" Type="Ref">/Sample-changer-2/Chassis/Mod6/DIO7</Property>
 	<Property Name="varPersistentID:{80BD5053-AFC9-44F4-A768-D59B055AEF1E}" Type="Ref">/Sample-changer-2/SC2 shared var.lvlib/SC2 Current State</Property>
 	<Property Name="varPersistentID:{810A75A8-DD27-4591-979D-2413F0ADC7B2}" Type="Ref">/Sample-changer-2/Chassis/Mod6/DIO2</Property>
@@ -97,6 +100,7 @@
 	<Property Name="varPersistentID:{984448EA-0943-4244-B63E-1DD0B39FBA4F}" Type="Ref">/My Computer/SC2 Monitor shared var.lvlib/Motor Status</Property>
 	<Property Name="varPersistentID:{9857A918-4961-4588-A676-A34B1D7EB2F1}" Type="Ref">/Sample-changer-2/Chassis/Mod5/AI22</Property>
 	<Property Name="varPersistentID:{98C944C2-5B39-477D-AC77-2F1B01409E03}" Type="Ref">/Sample-changer-2/Chassis/Mod4/AO15</Property>
+	<Property Name="varPersistentID:{99CB2E4B-7DA2-457E-A476-A0E2F895B531}" Type="Ref">/Sample-changer-2/SC2 shared var.lvlib/SC2 Encoder destination</Property>
 	<Property Name="varPersistentID:{9AEB12AE-229E-49E9-AA31-3195F03D9323}" Type="Ref">/Sample-changer-2/Chassis/Mod5/AI16</Property>
 	<Property Name="varPersistentID:{9EB12066-A78C-4C92-8C6B-425B7156F67C}" Type="Ref">/Sample-changer-2/Chassis/Mod6/DIO23</Property>
 	<Property Name="varPersistentID:{9F7B5AF7-3905-4072-8F9F-D9B32ECD54E7}" Type="Ref">/Sample-changer-2/Chassis/Mod4/AO14</Property>
@@ -124,7 +128,6 @@
 	<Property Name="varPersistentID:{CAE87DFB-384B-4FDB-9FD2-77D53DD71E8A}" Type="Ref">/Sample-changer-2/Chassis/Mod7/DI9</Property>
 	<Property Name="varPersistentID:{CC49D7D8-50C3-4B32-A1C0-753C43FF3FEE}" Type="Ref">/Sample-changer-2/Chassis/Mod7/DI0</Property>
 	<Property Name="varPersistentID:{CC85A67E-564F-42EB-9663-630D5494F3CA}" Type="Ref">/Sample-changer-2/SC2 shared var.lvlib/SC2 Encoder Position</Property>
-	<Property Name="varPersistentID:{CD114730-EB59-4180-8BBB-1A5EFA150BCD}" Type="Ref">/Sample-changer-2/SC2 shared var.lvlib/SC2 State Control</Property>
 	<Property Name="varPersistentID:{CD8756F5-E7C3-443B-9FA0-839336771037}" Type="Ref">/Sample-changer-2/Chassis/Mod8/DO4</Property>
 	<Property Name="varPersistentID:{CF25D113-A229-4021-B204-9A8A100E887B}" Type="Ref">/Sample-changer-2/Chassis/Mod7/DI21</Property>
 	<Property Name="varPersistentID:{D1DB0193-96CF-467E-9BD9-B824B53675B3}" Type="Ref">/Sample-changer-2/Chassis/Mod6/DIO1</Property>
@@ -137,6 +140,7 @@
 	<Property Name="varPersistentID:{E1948706-BDF2-4348-B81B-AF48FAFDB65C}" Type="Ref">/Sample-changer-2/Chassis/Mod4/AO13</Property>
 	<Property Name="varPersistentID:{E3C2B892-3277-4358-A6A5-749E7C27B18A}" Type="Ref">/Sample-changer-2/Chassis/Mod5/AI25</Property>
 	<Property Name="varPersistentID:{E6076D98-043D-4CC3-A7B6-8DE3D1A225F5}" Type="Ref">/Sample-changer-2/Chassis/Mod7/DI12</Property>
+	<Property Name="varPersistentID:{E6DD3751-DA05-49D4-80DB-9670630613FC}" Type="Ref">/Sample-changer-2/SC2 shared var.lvlib/SC2 Control Loop</Property>
 	<Property Name="varPersistentID:{E8ACC7BA-4403-49E8-A654-A607C02AF0B3}" Type="Ref">/Sample-changer-2/Chassis/Mod6/DIO13</Property>
 	<Property Name="varPersistentID:{EC4C53E1-12F0-4F57-83F3-8994F371A700}" Type="Ref">/Sample-changer-2/Chassis/Mod5/AI24</Property>
 	<Property Name="varPersistentID:{EE1A4292-307D-4114-B43E-433B906AC328}" Type="Ref">/Sample-changer-2/Chassis/Mod5/AI27</Property>
@@ -149,6 +153,7 @@
 	<Property Name="varPersistentID:{FCB3FEE8-A3D0-47DD-801C-58DCBE2ADCF8}" Type="Ref">/My Computer/SC2 Monitor shared var.lvlib/Raw Encoder</Property>
 	<Property Name="varPersistentID:{FE502A7A-6DE5-466D-B05C-851D93DD9CAB}" Type="Ref">/My Computer/SC2 Monitor shared var.lvlib/Requested Sample</Property>
 	<Property Name="varPersistentID:{FED7320B-C4B9-493C-84E5-AD05E959D456}" Type="Ref">/Sample-changer-2/Chassis/Mod8/DO6</Property>
+	<Property Name="varPersistentID:{FF0671FD-94BF-49F7-9BC8-B2C8B1AF3407}" Type="Ref">/Sample-changer-2/SC2 shared var.lvlib/SC2 Encoder radius</Property>
 	<Item Name="My Computer" Type="My Computer">
 		<Property Name="IOScan.Faults" Type="Str"></Property>
 		<Property Name="IOScan.NetVarPeriod" Type="UInt">100</Property>
@@ -2367,7 +2372,7 @@ AddOutputFilter chunkFilter
 				<Property Name="Destination[1].path" Type="Path">/c/ni-rt/startup/data</Property>
 				<Property Name="Destination[1].path.type" Type="Str">&lt;none&gt;</Property>
 				<Property Name="DestinationCount" Type="Int">2</Property>
-				<Property Name="Source[0].itemID" Type="Str">{9764F72D-2923-4107-9785-511358CCEA37}</Property>
+				<Property Name="Source[0].itemID" Type="Str">{22DCCE22-130D-4C22-8458-9C1889A974B3}</Property>
 				<Property Name="Source[0].type" Type="Str">Container</Property>
 				<Property Name="Source[1].destinationIndex" Type="Int">0</Property>
 				<Property Name="Source[1].itemID" Type="Ref">/Sample-changer-2/Encoder-Decoder.vi</Property>
