@@ -4,18 +4,20 @@
 	<Property Name="NI.LV.All.SourceOnly" Type="Bool">false</Property>
 	<Property Name="NI.Project.Description" Type="Str"></Property>
 	<Property Name="SMProvider.SMVersion" Type="Int">201310</Property>
+	<Property Name="varPersistentID:{01B4D5E1-43D7-417C-B239-F058AC6891AA}" Type="Ref">/Sample-changer-2/SC2 shared var.lvlib/SC2 Change Complete</Property>
 	<Property Name="varPersistentID:{0CEC9B24-065D-4AD5-87E8-4720D8916882}" Type="Ref">/Sample-changer-2/Chassis/Mod6/DIO24</Property>
 	<Property Name="varPersistentID:{0D75BFC8-8A55-4BA9-8D78-3ED400D3A7F3}" Type="Ref">/Sample-changer-2/Chassis/Mod7/DI2</Property>
 	<Property Name="varPersistentID:{13710E2D-B0C2-42E1-BB8C-339C6C63F568}" Type="Ref">/Sample-changer-2/Chassis/Mod6/DIO0</Property>
 	<Property Name="varPersistentID:{15FABBEA-8D84-4E80-873E-03DBC62CFC75}" Type="Ref">/Sample-changer-2/Chassis/Mod6/DIO26</Property>
 	<Property Name="varPersistentID:{17C400A1-9653-4919-8A06-B6FA6362B076}" Type="Ref">/Sample-changer-2/Chassis/Mod6/DIO8</Property>
 	<Property Name="varPersistentID:{18D0B626-B209-4F72-99E0-870ACB2EB32B}" Type="Ref">/Sample-changer-2/Chassis/Mod4/AO3</Property>
-	<Property Name="varPersistentID:{23F38905-B937-4693-A33E-DB5B4BD6CBD4}" Type="Ref">/Sample-changer-2/SC2 shared var.lvlib/Motor Done 3</Property>
+	<Property Name="varPersistentID:{23F38905-B937-4693-A33E-DB5B4BD6CBD4}" Type="Ref">/Sample-changer-2/SC2 shared var.lvlib/SC2 Motor Done 3</Property>
 	<Property Name="varPersistentID:{27BB1210-9AC8-4991-8D3C-43B7CC8B57D0}" Type="Ref">/Sample-changer-2/Chassis/Mod6/DIO22</Property>
 	<Property Name="varPersistentID:{29C1EC05-E778-4C88-83D6-8112E06979F6}" Type="Ref">/Sample-changer-2/Chassis/Mod4/AO8</Property>
 	<Property Name="varPersistentID:{2AA49EA5-20D9-4327-8F63-43C820187EDA}" Type="Ref">/Sample-changer-2/Chassis/Mod7/DI29</Property>
 	<Property Name="varPersistentID:{2B52D420-C40D-48A4-B8EF-982B470C4B19}" Type="Ref">/Sample-changer-2/Chassis/Mod5/AI12</Property>
 	<Property Name="varPersistentID:{2CB1D0E1-1699-4733-8A5C-C987879FC966}" Type="Ref">/Sample-changer-2/Chassis/Mod4/AO1</Property>
+	<Property Name="varPersistentID:{2CB8402F-4640-40FC-B473-E0059327FD26}" Type="Ref">/My Computer/SC2 Monitor shared var.lvlib/Current State</Property>
 	<Property Name="varPersistentID:{2D96326E-1FBD-4E25-8567-7BFAD6EA43F5}" Type="Ref">/Sample-changer-2/Chassis/Mod5/AI29</Property>
 	<Property Name="varPersistentID:{302E5441-4FE7-4582-806D-6F62A2680E36}" Type="Ref">/Sample-changer-2/Chassis/Mod7/DI7</Property>
 	<Property Name="varPersistentID:{31E4B0A7-096B-4108-951F-F27971100EDD}" Type="Ref">/Sample-changer-2/Chassis/Mod5/AI13</Property>
@@ -33,6 +35,7 @@
 	<Property Name="varPersistentID:{3E3B95B6-02AA-4B10-A136-113CB866F74F}" Type="Ref">/Sample-changer-2/Chassis/Mod7/DI30</Property>
 	<Property Name="varPersistentID:{40ECDEC7-AB3A-4867-88D9-68A370E6E40C}" Type="Ref">/Sample-changer-2/Chassis/Mod8/DO2</Property>
 	<Property Name="varPersistentID:{413CBB38-63A4-4895-8CE1-191853E505A6}" Type="Ref">/Sample-changer-2/Chassis/Mod7/DI20</Property>
+	<Property Name="varPersistentID:{42D5359D-AD5A-4911-99E1-360ADF3D91C7}" Type="Ref">/Sample-changer-2/SC2 shared var.lvlib/SC2 Random Change</Property>
 	<Property Name="varPersistentID:{43A190E0-63F7-43A5-BFC4-C608E9D08AF8}" Type="Ref">/Sample-changer-2/Chassis/Mod7/DI31</Property>
 	<Property Name="varPersistentID:{445A603E-4728-473E-B325-62C13ADCBE33}" Type="Ref">/Sample-changer-2/Chassis/Mod6/DIO29</Property>
 	<Property Name="varPersistentID:{44D3EEE4-659F-44E1-BFF1-A6DD30908972}" Type="Ref">/Sample-changer-2/Chassis/Mod4/AO11</Property>
@@ -40,22 +43,28 @@
 	<Property Name="varPersistentID:{4885CC60-390E-428C-80B7-63EA61D32E37}" Type="Ref">/Sample-changer-2/Chassis/Mod7/DI10</Property>
 	<Property Name="varPersistentID:{4A7C0AF5-DBA0-44B3-9B10-F9CEC1599747}" Type="Ref">/Sample-changer-2/Chassis/Mod6/DIO20</Property>
 	<Property Name="varPersistentID:{4C63259E-5EA7-4707-9CAE-539C2490D7E3}" Type="Ref">/Sample-changer-2/Chassis/Mod7/DI3</Property>
+	<Property Name="varPersistentID:{4CF7BC76-BCA3-471B-8081-B602E56579E1}" Type="Ref">/My Computer/SC2 Monitor shared var.lvlib/Current Sample</Property>
 	<Property Name="varPersistentID:{4D0521E0-7CCB-4328-B0CB-807A52BD3521}" Type="Ref">/Sample-changer-2/Chassis/Mod6/DIO25</Property>
-	<Property Name="varPersistentID:{4E98ACED-A5D7-4B71-87C9-D5DC8346759D}" Type="Ref">/Sample-changer-2/SC2 shared var.lvlib/Current Sample</Property>
+	<Property Name="varPersistentID:{4D81A2D3-20FC-4FEE-9422-EA906D4787F2}" Type="Ref">/My Computer/SC2 Monitor shared var.lvlib/Start Sample Change</Property>
+	<Property Name="varPersistentID:{4E98ACED-A5D7-4B71-87C9-D5DC8346759D}" Type="Ref">/Sample-changer-2/SC2 shared var.lvlib/SC2 Current Sample</Property>
 	<Property Name="varPersistentID:{527B6D1E-2BAA-4BAF-8691-7CABAA81F186}" Type="Ref">/Sample-changer-2/Chassis/Mod7/DI1</Property>
 	<Property Name="varPersistentID:{528DE195-A290-405A-B4CE-66B4DB01EEC6}" Type="Ref">/Sample-changer-2/Chassis/Mod7/DI23</Property>
 	<Property Name="varPersistentID:{55059101-2C32-4A7B-A3EA-777449C6F83D}" Type="Ref">/Sample-changer-2/Chassis/Mod5/AI5</Property>
 	<Property Name="varPersistentID:{55266E4B-4E30-45D4-B18C-347F4E5F7583}" Type="Ref">/Sample-changer-2/Chassis/Mod7/DI26</Property>
 	<Property Name="varPersistentID:{55FA81BE-8A8C-4683-85FB-4ECF6F2657BA}" Type="Ref">/Sample-changer-2/Chassis/Mod6/DIO18</Property>
+	<Property Name="varPersistentID:{5722830D-A0C4-424A-B729-6AE6B88B7F7F}" Type="Ref">/My Computer/SC2 Monitor shared var.lvlib/Change Complete</Property>
 	<Property Name="varPersistentID:{59572683-B2BA-400A-A2E3-39E031CACA4B}" Type="Ref">/Sample-changer-2/Chassis/Mod5/AI10</Property>
+	<Property Name="varPersistentID:{597CE033-B348-4E61-B0D1-7CBDB7D25463}" Type="Ref">/Sample-changer-2/SC2 shared var.lvlib/SC2 Start Sample Change</Property>
+	<Property Name="varPersistentID:{5A63563E-9A9B-40F7-B639-EAB551513021}" Type="Ref">/My Computer/SC2 Monitor shared var.lvlib/Encoder Position</Property>
 	<Property Name="varPersistentID:{5BA53EFC-96FA-40B2-ADB3-287DF418F4B3}" Type="Ref">/Sample-changer-2/Chassis/Mod6/DIO11</Property>
 	<Property Name="varPersistentID:{5F2CC8F1-8B43-423F-8588-26686DD1B396}" Type="Ref">/Sample-changer-2/Chassis/Mod6/DIO14</Property>
 	<Property Name="varPersistentID:{5F3822F9-75F4-4223-9B60-1DEC271523BB}" Type="Ref">/Sample-changer-2/Chassis/Mod8/DO7</Property>
 	<Property Name="varPersistentID:{608D378B-C7CC-459F-AF76-FD8814D3EBF1}" Type="Ref">/Sample-changer-2/Chassis/Mod6/DIO10</Property>
-	<Property Name="varPersistentID:{65DC6185-81CA-491E-894E-0A86205015FC}" Type="Ref">/Sample-changer-2/SC2 shared var.lvlib/Converted Encoder</Property>
+	<Property Name="varPersistentID:{65DC6185-81CA-491E-894E-0A86205015FC}" Type="Ref">/Sample-changer-2/SC2 shared var.lvlib/SC2 Converted Encoder</Property>
 	<Property Name="varPersistentID:{6601201C-2AD5-45F9-B593-446A567B1B1F}" Type="Ref">/Sample-changer-2/Chassis/Mod7/DI8</Property>
 	<Property Name="varPersistentID:{691851E6-1A3F-43E2-825B-F8577BA58D4D}" Type="Ref">/Sample-changer-2/Chassis/Mod4/AO7</Property>
 	<Property Name="varPersistentID:{6AB14E50-7EB2-4C44-B7D0-3257F5611199}" Type="Ref">/Sample-changer-2/Chassis/Mod7/DI11</Property>
+	<Property Name="varPersistentID:{70E16704-DBA5-419E-8E03-193C2EE74886}" Type="Ref">/My Computer/SC2 Monitor shared var.lvlib/Random Change</Property>
 	<Property Name="varPersistentID:{71422E56-E9CE-494D-80A3-8651582B938C}" Type="Ref">/Sample-changer-2/Chassis/Mod6/DIO9</Property>
 	<Property Name="varPersistentID:{74B9FE31-660C-4A63-9E3F-2DAE15526AA4}" Type="Ref">/Sample-changer-2/Chassis/Mod6/DIO16</Property>
 	<Property Name="varPersistentID:{756E9142-DA5B-40CD-B1C4-2DDE8D84C665}" Type="Ref">/Sample-changer-2/Chassis/Mod8/DO1</Property>
@@ -79,15 +88,16 @@
 	<Property Name="varPersistentID:{8E8164DD-47D3-46AE-98A8-4A141F8720B7}" Type="Ref">/Sample-changer-2/Chassis/Mod7/DI19</Property>
 	<Property Name="varPersistentID:{9260F7C8-FD10-45C0-87E5-004D455FC7AC}" Type="Ref">/Sample-changer-2/Chassis/Mod6/DIO30</Property>
 	<Property Name="varPersistentID:{92953454-DDAB-4F21-BAAF-619EBB58BE63}" Type="Ref">/Sample-changer-2/Chassis/Mod6/DIO15</Property>
-	<Property Name="varPersistentID:{94237F2F-9F26-437B-9DBF-4AF4FA486E04}" Type="Ref">/Sample-changer-2/SC2 shared var.lvlib/Encoder Offset</Property>
-	<Property Name="varPersistentID:{945A78C4-0AB8-486C-BF72-EF696FD44BDE}" Type="Ref">/Sample-changer-2/SC2 shared var.lvlib/Start Rotation</Property>
+	<Property Name="varPersistentID:{94237F2F-9F26-437B-9DBF-4AF4FA486E04}" Type="Ref">/Sample-changer-2/SC2 shared var.lvlib/SC2 Encoder Offset</Property>
+	<Property Name="varPersistentID:{94792064-0094-41AA-A40A-BCDEA21C6652}" Type="Ref">/My Computer/SC2 Monitor shared var.lvlib/Motor Done</Property>
 	<Property Name="varPersistentID:{95E636F5-0CA1-4C0A-988A-EEE7475251A0}" Type="Ref">/Sample-changer-2/Chassis/Mod5/AI6</Property>
 	<Property Name="varPersistentID:{9699412C-599B-49DC-A765-98F381B0E464}" Type="Ref">/Sample-changer-2/Chassis/Mod5/AI17</Property>
 	<Property Name="varPersistentID:{96C5908E-2907-4DE9-93D8-60B3F7810254}" Type="Ref">/Sample-changer-2/Chassis/Mod5/AI9</Property>
+	<Property Name="varPersistentID:{977DF333-2818-4394-A9D3-61D852DB75F4}" Type="Ref">/My Computer/SC2 Monitor shared var.lvlib/Encoder Offset</Property>
+	<Property Name="varPersistentID:{984448EA-0943-4244-B63E-1DD0B39FBA4F}" Type="Ref">/My Computer/SC2 Monitor shared var.lvlib/Motor Status</Property>
 	<Property Name="varPersistentID:{9857A918-4961-4588-A676-A34B1D7EB2F1}" Type="Ref">/Sample-changer-2/Chassis/Mod5/AI22</Property>
 	<Property Name="varPersistentID:{98C944C2-5B39-477D-AC77-2F1B01409E03}" Type="Ref">/Sample-changer-2/Chassis/Mod4/AO15</Property>
 	<Property Name="varPersistentID:{9AEB12AE-229E-49E9-AA31-3195F03D9323}" Type="Ref">/Sample-changer-2/Chassis/Mod5/AI16</Property>
-	<Property Name="varPersistentID:{9B664162-CEF4-40F0-884B-A41919D3FCFD}" Type="Ref">/Sample-changer-2/SC2 shared var.lvlib/position</Property>
 	<Property Name="varPersistentID:{9EB12066-A78C-4C92-8C6B-425B7156F67C}" Type="Ref">/Sample-changer-2/Chassis/Mod6/DIO23</Property>
 	<Property Name="varPersistentID:{9F7B5AF7-3905-4072-8F9F-D9B32ECD54E7}" Type="Ref">/Sample-changer-2/Chassis/Mod4/AO14</Property>
 	<Property Name="varPersistentID:{A053120F-08B0-43AD-B328-3867D4A77E5B}" Type="Ref">/Sample-changer-2/Chassis/Mod5/AI1</Property>
@@ -95,8 +105,9 @@
 	<Property Name="varPersistentID:{A57C2535-9ED8-4B0A-B8E8-CC8C5D855642}" Type="Ref">/Sample-changer-2/Chassis/Mod5/AI28</Property>
 	<Property Name="varPersistentID:{A5F08763-ED8F-427E-8A7B-765D97F8C3CE}" Type="Ref">/Sample-changer-2/Chassis/Mod6/DIO4</Property>
 	<Property Name="varPersistentID:{AB463D44-3AB7-4CC9-83C8-D58AD2D026D7}" Type="Ref">/Sample-changer-2/Chassis/Mod6/DIO21</Property>
+	<Property Name="varPersistentID:{B080BBFF-CDA3-449D-88B4-AA6363022486}" Type="Ref">/Sample-changer-2/SC2 shared var.lvlib/SC2 Motor status</Property>
 	<Property Name="varPersistentID:{B222E5FD-F129-477D-9B02-70A935856238}" Type="Ref">/Sample-changer-2/Chassis/Mod5/AI23</Property>
-	<Property Name="varPersistentID:{B7948274-6C15-435A-B2AD-0E6DB87C7BAA}" Type="Ref">/Sample-changer-2/SC2 shared var.lvlib/Requested Sample</Property>
+	<Property Name="varPersistentID:{B7948274-6C15-435A-B2AD-0E6DB87C7BAA}" Type="Ref">/Sample-changer-2/SC2 shared var.lvlib/SC2 Requested Sample</Property>
 	<Property Name="varPersistentID:{B7E562E7-7350-4DFC-B25B-2CB31BF1417E}" Type="Ref">/Sample-changer-2/Chassis/Mod8/DO5</Property>
 	<Property Name="varPersistentID:{B7EC4221-A694-4766-8FB6-1E68E38086EB}" Type="Ref">/Sample-changer-2/Chassis/Mod8/DO0</Property>
 	<Property Name="varPersistentID:{BB145322-B24E-495C-8DA8-E3C4E7ECBBF1}" Type="Ref">/Sample-changer-2/Chassis/Mod5/AI0</Property>
@@ -105,14 +116,14 @@
 	<Property Name="varPersistentID:{BD0A6EE6-B592-4E0E-BA91-34F96833D070}" Type="Ref">/Sample-changer-2/Chassis/Mod6/DIO27</Property>
 	<Property Name="varPersistentID:{BE4BFCFB-91F7-413A-B360-8113FB9BD8B5}" Type="Ref">/Sample-changer-2/Chassis/Mod4/AO0</Property>
 	<Property Name="varPersistentID:{C2F49946-FEF5-4A03-AF65-CCF34FA10825}" Type="Ref">/Sample-changer-2/Chassis/Mod5/AI15</Property>
-	<Property Name="varPersistentID:{C32E6E18-269B-427A-8E56-64061982A291}" Type="Ref">/Sample-changer-2/SC2 shared var.lvlib/Raw Encoder</Property>
+	<Property Name="varPersistentID:{C32E6E18-269B-427A-8E56-64061982A291}" Type="Ref">/Sample-changer-2/SC2 shared var.lvlib/SC2 Raw Encoder</Property>
 	<Property Name="varPersistentID:{C5476310-9D1A-4296-9FAB-D9F6CE83725B}" Type="Ref">/Sample-changer-2/Chassis/Mod6/DIO19</Property>
 	<Property Name="varPersistentID:{C565F999-256E-4884-AED7-5B6ECD1FCF1D}" Type="Ref">/Sample-changer-2/Chassis/Mod7/DI17</Property>
 	<Property Name="varPersistentID:{C6A8C8AA-A7F2-4040-A68D-2C4807D880B9}" Type="Ref">/Sample-changer-2/Chassis/Mod7/DI4</Property>
 	<Property Name="varPersistentID:{C6FA38E2-D252-4672-BF05-E7E09B81352C}" Type="Ref">/Sample-changer-2/Chassis/Mod7/DI16</Property>
 	<Property Name="varPersistentID:{CAE87DFB-384B-4FDB-9FD2-77D53DD71E8A}" Type="Ref">/Sample-changer-2/Chassis/Mod7/DI9</Property>
 	<Property Name="varPersistentID:{CC49D7D8-50C3-4B32-A1C0-753C43FF3FEE}" Type="Ref">/Sample-changer-2/Chassis/Mod7/DI0</Property>
-	<Property Name="varPersistentID:{CC85A67E-564F-42EB-9663-630D5494F3CA}" Type="Ref">/Sample-changer-2/SC2 shared var.lvlib/Encoder Position</Property>
+	<Property Name="varPersistentID:{CC85A67E-564F-42EB-9663-630D5494F3CA}" Type="Ref">/Sample-changer-2/SC2 shared var.lvlib/SC2 Encoder Position</Property>
 	<Property Name="varPersistentID:{CD114730-EB59-4180-8BBB-1A5EFA150BCD}" Type="Ref">/Sample-changer-2/SC2 shared var.lvlib/SC2 State Control</Property>
 	<Property Name="varPersistentID:{CD8756F5-E7C3-443B-9FA0-839336771037}" Type="Ref">/Sample-changer-2/Chassis/Mod8/DO4</Property>
 	<Property Name="varPersistentID:{CF25D113-A229-4021-B204-9A8A100E887B}" Type="Ref">/Sample-changer-2/Chassis/Mod7/DI21</Property>
@@ -120,6 +131,7 @@
 	<Property Name="varPersistentID:{D92397ED-74B7-45D7-8EAB-FD12D8520C9A}" Type="Ref">/Sample-changer-2/Chassis/Mod7/DI27</Property>
 	<Property Name="varPersistentID:{D9679F93-D7B7-4BC0-AB48-4E65FF5E5B99}" Type="Ref">/Sample-changer-2/Chassis/Mod7/DI13</Property>
 	<Property Name="varPersistentID:{DA9B31A9-B44E-4D65-B07B-240DD9A6A6FC}" Type="Ref">/Sample-changer-2/Chassis/Mod7/DI14</Property>
+	<Property Name="varPersistentID:{DB0DF1F6-89FC-4280-B157-25FF555F6694}" Type="Ref">/My Computer/SC2 Monitor shared var.lvlib/Converted Encoder</Property>
 	<Property Name="varPersistentID:{E0992B61-9E69-41F6-AC90-9B5598AD05AD}" Type="Ref">/Sample-changer-2/Chassis/Mod6/DIO6</Property>
 	<Property Name="varPersistentID:{E0FBB738-76D5-4689-A808-CD04479843EB}" Type="Ref">/Sample-changer-2/Chassis/Mod7/DI28</Property>
 	<Property Name="varPersistentID:{E1948706-BDF2-4348-B81B-AF48FAFDB65C}" Type="Ref">/Sample-changer-2/Chassis/Mod4/AO13</Property>
@@ -134,6 +146,8 @@
 	<Property Name="varPersistentID:{F41DDD13-2DC4-4AE6-AC33-C0F0BCDC4F56}" Type="Ref">/Sample-changer-2/Chassis/Mod5/AI14</Property>
 	<Property Name="varPersistentID:{F695E9B8-02A1-444C-A271-1F97E4421C3A}" Type="Ref">/Sample-changer-2/Chassis/Mod6/DIO17</Property>
 	<Property Name="varPersistentID:{F6A2E523-9F79-40A4-BEDB-3241E28ACD2F}" Type="Ref">/Sample-changer-2/Chassis/Mod4/AO12</Property>
+	<Property Name="varPersistentID:{FCB3FEE8-A3D0-47DD-801C-58DCBE2ADCF8}" Type="Ref">/My Computer/SC2 Monitor shared var.lvlib/Raw Encoder</Property>
+	<Property Name="varPersistentID:{FE502A7A-6DE5-466D-B05C-851D93DD9CAB}" Type="Ref">/My Computer/SC2 Monitor shared var.lvlib/Requested Sample</Property>
 	<Property Name="varPersistentID:{FED7320B-C4B9-493C-84E5-AD05E959D456}" Type="Ref">/Sample-changer-2/Chassis/Mod8/DO6</Property>
 	<Item Name="My Computer" Type="My Computer">
 		<Property Name="IOScan.Faults" Type="Str"></Property>
@@ -153,11 +167,68 @@
 		<Property Name="server.vi.callsEnabled" Type="Bool">true</Property>
 		<Property Name="server.vi.propertiesEnabled" Type="Bool">true</Property>
 		<Property Name="specify.custom.address" Type="Bool">false</Property>
+		<Item Name="Interface states.ctl" Type="VI" URL="../Interface states.ctl"/>
 		<Item Name="SC2 Host.vi" Type="VI" URL="../SC2 Host.vi"/>
+		<Item Name="SC2 Monitor shared var.lvlib" Type="Library" URL="../SC2 Monitor shared var.lvlib"/>
+		<Item Name="SCB icon 01.ico" Type="Document" URL="../../../icons/SCB icon 01.ico"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="SC2 states.ctl" Type="VI" URL="../SC2 states.ctl"/>
 		</Item>
-		<Item Name="Build Specifications" Type="Build"/>
+		<Item Name="Build Specifications" Type="Build">
+			<Item Name="Sample Changer B Monitor" Type="EXE">
+				<Property Name="App_copyErrors" Type="Bool">true</Property>
+				<Property Name="App_INI_aliasGUID" Type="Str">{E2A386B6-63B7-4E32-BDDC-A2276F3FF605}</Property>
+				<Property Name="App_INI_GUID" Type="Str">{15717293-4572-485A-8F3D-CD907A4D6543}</Property>
+				<Property Name="App_serverConfig.httpPort" Type="Int">8002</Property>
+				<Property Name="Bld_buildCacheID" Type="Str">{1D8A7C77-48C2-4D89-9223-5639672AF655}</Property>
+				<Property Name="Bld_buildSpecName" Type="Str">Sample Changer B Monitor</Property>
+				<Property Name="Bld_excludeInlineSubVIs" Type="Bool">true</Property>
+				<Property Name="Bld_excludeLibraryItems" Type="Bool">true</Property>
+				<Property Name="Bld_excludePolymorphicVIs" Type="Bool">true</Property>
+				<Property Name="Bld_localDestDir" Type="Path">../builds</Property>
+				<Property Name="Bld_localDestDirType" Type="Str">relativeToProject</Property>
+				<Property Name="Bld_modifyLibraryFile" Type="Bool">true</Property>
+				<Property Name="Bld_previewCacheID" Type="Str">{4C04DC72-39B1-4C18-B631-714E1077CA1E}</Property>
+				<Property Name="Bld_version.minor" Type="Int">2</Property>
+				<Property Name="Destination[0].destName" Type="Str">SCB_Monitor.exe</Property>
+				<Property Name="Destination[0].path" Type="Path">../builds/SCB_Monitor.exe</Property>
+				<Property Name="Destination[0].path.type" Type="Str">relativeToProject</Property>
+				<Property Name="Destination[0].preserveHierarchy" Type="Bool">true</Property>
+				<Property Name="Destination[0].type" Type="Str">App</Property>
+				<Property Name="Destination[1].destName" Type="Str">Support Directory</Property>
+				<Property Name="Destination[1].path" Type="Path">../builds/data</Property>
+				<Property Name="Destination[1].path.type" Type="Str">relativeToProject</Property>
+				<Property Name="DestinationCount" Type="Int">2</Property>
+				<Property Name="Exe_iconItemID" Type="Ref">/My Computer/SCB icon 01.ico</Property>
+				<Property Name="Exe_Vardep[0].LibDeploy" Type="Bool">true</Property>
+				<Property Name="Exe_Vardep[0].LibItemID" Type="Ref">/Sample-changer-2/SC2 shared var.lvlib</Property>
+				<Property Name="Exe_VardepDeployAtStartup" Type="Bool">true</Property>
+				<Property Name="Exe_VardepLibItemCount" Type="Int">1</Property>
+				<Property Name="Source[0].itemID" Type="Str">{4BD520C8-6D3C-4060-9AF7-7E284808275D}</Property>
+				<Property Name="Source[0].type" Type="Str">Container</Property>
+				<Property Name="Source[1].destinationIndex" Type="Int">0</Property>
+				<Property Name="Source[1].itemID" Type="Ref">/My Computer/SC2 Host.vi</Property>
+				<Property Name="Source[1].sourceInclusion" Type="Str">TopLevel</Property>
+				<Property Name="Source[1].type" Type="Str">VI</Property>
+				<Property Name="Source[2].destinationIndex" Type="Int">0</Property>
+				<Property Name="Source[2].itemID" Type="Ref">/My Computer/Interface states.ctl</Property>
+				<Property Name="Source[2].sourceInclusion" Type="Str">Include</Property>
+				<Property Name="Source[2].type" Type="Str">VI</Property>
+				<Property Name="Source[3].destinationIndex" Type="Int">0</Property>
+				<Property Name="Source[3].itemID" Type="Ref">/My Computer/SC2 Monitor shared var.lvlib</Property>
+				<Property Name="Source[3].Library.allowMissingMembers" Type="Bool">true</Property>
+				<Property Name="Source[3].sourceInclusion" Type="Str">Include</Property>
+				<Property Name="Source[3].type" Type="Str">Library</Property>
+				<Property Name="SourceCount" Type="Int">4</Property>
+				<Property Name="TgtF_companyName" Type="Str">Purdue University</Property>
+				<Property Name="TgtF_fileDescription" Type="Str">Sample Changer B Monitor</Property>
+				<Property Name="TgtF_internalName" Type="Str">Sample Changer B Monitor</Property>
+				<Property Name="TgtF_legalCopyright" Type="Str">Copyright © 2016 Purdue University</Property>
+				<Property Name="TgtF_productName" Type="Str">Sample Changer B Monitor</Property>
+				<Property Name="TgtF_targetfileGUID" Type="Str">{9757CE0E-6DDE-482F-BB7B-804B21E9620E}</Property>
+				<Property Name="TgtF_targetfileName" Type="Str">SCB_Monitor.exe</Property>
+			</Item>
+		</Item>
 	</Item>
 	<Item Name="Sample-changer-2" Type="RT CompactRIO">
 		<Property Name="alias.name" Type="Str">Sample-changer-2</Property>
@@ -186,7 +257,7 @@
 		<Property Name="target.RTTarget.ApplicationPath" Type="Path">/c/ni-rt/startup/startup.rtexe</Property>
 		<Property Name="target.RTTarget.EnableFileSharing" Type="Bool">true</Property>
 		<Property Name="target.RTTarget.IPAccess" Type="Str">+*</Property>
-		<Property Name="target.RTTarget.LaunchAppAtBoot" Type="Bool">false</Property>
+		<Property Name="target.RTTarget.LaunchAppAtBoot" Type="Bool">true</Property>
 		<Property Name="target.RTTarget.VIPath" Type="Path">/c/ni-rt/startup</Property>
 		<Property Name="target.server.app.propertiesEnabled" Type="Bool">true</Property>
 		<Property Name="target.server.control.propertiesEnabled" Type="Bool">true</Property>
@@ -2251,14 +2322,79 @@ AddOutputFilter chunkFilter
 			<Property Name="resourceID:0" Type="Str">{CB054AE7-55B8-4774-9B05-A4A985BD9C96}</Property>
 			<Property Name="softmotionID:0" Type="Str">{C89C22D6-09D8-451c-B54B-BE98A931F881}</Property>
 		</Item>
+		<Item Name="Encoder-Decoder.vi" Type="VI" URL="../Encoder-Decoder.vi"/>
 		<Item Name="Sample-Encoder conversion.vi" Type="VI" URL="../Sample-Encoder conversion.vi"/>
-		<Item Name="SC RT.vi" Type="VI" URL="../SC RT.vi">
+		<Item Name="SC2 RT.vi" Type="VI" URL="../SC2 RT.vi">
 			<Item Name="Straight-Line Move 1" Type="IIO Function Block"/>
 		</Item>
 		<Item Name="SC2 shared var.lvlib" Type="Library" URL="../SC2 shared var.lvlib"/>
 		<Item Name="Dependencies" Type="Dependencies">
+			<Item Name="vi.lib" Type="Folder">
+				<Item Name="Clear All Faults.vi" Type="VI" URL="/&lt;vilib&gt;/NIScanEngine/faults/Clear All Faults.vi"/>
+				<Item Name="Error Cluster From Error Code.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Error Cluster From Error Code.vi"/>
+				<Item Name="IOV engine refnum from target address.vi" Type="VI" URL="/&lt;vilib&gt;/NIScanEngine/ScanEngine/IOV engine refnum from target address.vi"/>
+				<Item Name="nisyscfg.lvlib" Type="Library" URL="/&lt;vilib&gt;/nisyscfg/nisyscfg.lvlib"/>
+				<Item Name="Set Scan Engine Mode.vi" Type="VI" URL="/&lt;vilib&gt;/NIScanEngine/ScanEngine/Set Scan Engine Mode.vi"/>
+				<Item Name="Trim Whitespace.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Trim Whitespace.vi"/>
+				<Item Name="whitespace.ctl" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/whitespace.ctl"/>
+			</Item>
+			<Item Name="Encoder bit cluster.ctl" Type="VI" URL="../Encoder bit cluster.ctl"/>
 			<Item Name="SC2 states.ctl" Type="VI" URL="../SC2 states.ctl"/>
 		</Item>
-		<Item Name="Build Specifications" Type="Build"/>
+		<Item Name="Build Specifications" Type="Build">
+			<Item Name="Sample Changer B" Type="{69A947D5-514E-4E75-818E-69657C0547D8}">
+				<Property Name="App_copyErrors" Type="Bool">true</Property>
+				<Property Name="App_INI_aliasGUID" Type="Str">{20CB26C4-CE5E-498A-9F08-B085722D565C}</Property>
+				<Property Name="App_INI_GUID" Type="Str">{6E9CB877-A0E5-4029-861F-7BF74498AD05}</Property>
+				<Property Name="App_serverConfig.httpPort" Type="Int">8002</Property>
+				<Property Name="Bld_buildCacheID" Type="Str">{BBB7D740-ED0A-438E-AFC5-52A46F5F728F}</Property>
+				<Property Name="Bld_buildSpecName" Type="Str">Sample Changer B</Property>
+				<Property Name="Bld_excludeInlineSubVIs" Type="Bool">true</Property>
+				<Property Name="Bld_excludeLibraryItems" Type="Bool">true</Property>
+				<Property Name="Bld_excludePolymorphicVIs" Type="Bool">true</Property>
+				<Property Name="Bld_localDestDir" Type="Path">../builds/NI_AB_PROJECTNAME/NI_AB_TARGETNAME/Sample Changer B</Property>
+				<Property Name="Bld_localDestDirType" Type="Str">relativeToCommon</Property>
+				<Property Name="Bld_modifyLibraryFile" Type="Bool">true</Property>
+				<Property Name="Bld_previewCacheID" Type="Str">{C25DAC40-1517-4500-BE7A-D521529FA34A}</Property>
+				<Property Name="Bld_targetDestDir" Type="Path">/c/ni-rt/startup</Property>
+				<Property Name="Bld_version.major" Type="Int">1</Property>
+				<Property Name="Destination[0].destName" Type="Str">startup.rtexe</Property>
+				<Property Name="Destination[0].path" Type="Path">/c/ni-rt/startup/startup.rtexe</Property>
+				<Property Name="Destination[0].path.type" Type="Str">&lt;none&gt;</Property>
+				<Property Name="Destination[0].preserveHierarchy" Type="Bool">true</Property>
+				<Property Name="Destination[0].type" Type="Str">App</Property>
+				<Property Name="Destination[1].destName" Type="Str">Support Directory</Property>
+				<Property Name="Destination[1].path" Type="Path">/c/ni-rt/startup/data</Property>
+				<Property Name="Destination[1].path.type" Type="Str">&lt;none&gt;</Property>
+				<Property Name="DestinationCount" Type="Int">2</Property>
+				<Property Name="Source[0].itemID" Type="Str">{9764F72D-2923-4107-9785-511358CCEA37}</Property>
+				<Property Name="Source[0].type" Type="Str">Container</Property>
+				<Property Name="Source[1].destinationIndex" Type="Int">0</Property>
+				<Property Name="Source[1].itemID" Type="Ref">/Sample-changer-2/Encoder-Decoder.vi</Property>
+				<Property Name="Source[1].sourceInclusion" Type="Str">Include</Property>
+				<Property Name="Source[1].type" Type="Str">VI</Property>
+				<Property Name="Source[2].destinationIndex" Type="Int">0</Property>
+				<Property Name="Source[2].itemID" Type="Ref">/Sample-changer-2/SC2 RT.vi</Property>
+				<Property Name="Source[2].sourceInclusion" Type="Str">TopLevel</Property>
+				<Property Name="Source[2].type" Type="Str">VI</Property>
+				<Property Name="Source[3].destinationIndex" Type="Int">0</Property>
+				<Property Name="Source[3].itemID" Type="Ref">/Sample-changer-2/Sample-Encoder conversion.vi</Property>
+				<Property Name="Source[3].sourceInclusion" Type="Str">Include</Property>
+				<Property Name="Source[3].type" Type="Str">VI</Property>
+				<Property Name="Source[4].destinationIndex" Type="Int">0</Property>
+				<Property Name="Source[4].itemID" Type="Ref">/Sample-changer-2/SC2 shared var.lvlib</Property>
+				<Property Name="Source[4].Library.allowMissingMembers" Type="Bool">true</Property>
+				<Property Name="Source[4].sourceInclusion" Type="Str">Include</Property>
+				<Property Name="Source[4].type" Type="Str">Library</Property>
+				<Property Name="SourceCount" Type="Int">5</Property>
+				<Property Name="TgtF_companyName" Type="Str">Purdue University</Property>
+				<Property Name="TgtF_fileDescription" Type="Str">Sample Changer B</Property>
+				<Property Name="TgtF_internalName" Type="Str">Sample Changer B</Property>
+				<Property Name="TgtF_legalCopyright" Type="Str">Copyright © 2016 Purdue University</Property>
+				<Property Name="TgtF_productName" Type="Str">Sample Changer B</Property>
+				<Property Name="TgtF_targetfileGUID" Type="Str">{E5765D40-D751-49CE-A13F-D3E4787971EB}</Property>
+				<Property Name="TgtF_targetfileName" Type="Str">startup.rtexe</Property>
+			</Item>
+		</Item>
 	</Item>
 </Project>
