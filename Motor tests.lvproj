@@ -4,128 +4,6 @@
 	<Property Name="NI.LV.All.SourceOnly" Type="Bool">false</Property>
 	<Property Name="NI.Project.Description" Type="Str"></Property>
 	<Property Name="SMProvider.SMVersion" Type="Int">201310</Property>
-<<<<<<< HEAD
-	<Property Name="varPersistentID:{03D119E8-A702-4F43-84BC-4608E0DBA084}" Type="Ref">/Sample-changer-2/Chassis/Mod5/AI10</Property>
-	<Property Name="varPersistentID:{08F96BF1-E22B-448A-A9A3-C31D79D7028A}" Type="Ref">/Sample-changer-2/Chassis/Mod7/DI15</Property>
-	<Property Name="varPersistentID:{0BF4396C-C707-4D23-ADA7-598AC25B6113}" Type="Ref">/Sample-changer-2/Chassis/Mod6/DIO9</Property>
-	<Property Name="varPersistentID:{0D73740D-10F0-4B94-B40F-29FC95ADB14C}" Type="Ref">/Sample-changer-2/Chassis/Mod7/DI29</Property>
-	<Property Name="varPersistentID:{0DDE54AE-E103-46CC-A304-3388E945722E}" Type="Ref">/Sample-changer-2/Chassis/Mod5/AI19</Property>
-	<Property Name="varPersistentID:{10740B41-DC6C-4E8B-BDA6-CDE9ED9A39F1}" Type="Ref">/Sample-changer-2/Chassis/Mod4/AO4</Property>
-	<Property Name="varPersistentID:{139A90E3-45A7-4B6C-B140-AC48164AE8C8}" Type="Ref">/Sample-changer-2/Chassis/Mod5/AI23</Property>
-	<Property Name="varPersistentID:{1493B29F-40A5-4E9A-A81C-D790BC1DEC38}" Type="Ref">/Sample-changer-2/Chassis/Mod7/DI2</Property>
-	<Property Name="varPersistentID:{15842E29-0944-4B95-8B2A-6FBA32841984}" Type="Ref">/Sample-changer-2/Chassis/Mod5/AI6</Property>
-	<Property Name="varPersistentID:{1628E8D8-68A4-4AD6-9CF2-895B5848E33C}" Type="Ref">/Sample-changer-2/Chassis/Mod5/AI13</Property>
-	<Property Name="varPersistentID:{18B5589C-20EC-49D0-BB80-97C50074860A}" Type="Ref">/Sample-changer-2/Chassis/Mod7/DI5</Property>
-	<Property Name="varPersistentID:{1DEB76AB-05B4-47BA-9D37-C002B3D0C9EC}" Type="Ref">/Sample-changer-2/Chassis/Mod7/DI28</Property>
-	<Property Name="varPersistentID:{1DF26581-C00C-4382-B726-E050B89AEB90}" Type="Ref">/Sample-changer-2/Chassis/Mod8/DO0</Property>
-	<Property Name="varPersistentID:{23171EAB-9F2B-432C-A2B6-BD515E151112}" Type="Ref">/Sample-changer-2/Chassis/Mod8/DO4</Property>
-	<Property Name="varPersistentID:{2A217E97-275F-4D5C-A945-66CD5AFC7B25}" Type="Ref">/Sample-changer-2/Chassis/Mod5/AI5</Property>
-	<Property Name="varPersistentID:{2A82B933-6554-48BE-B390-20398E45334B}" Type="Ref">/Sample-changer-2/Chassis/Mod5/AI31</Property>
-	<Property Name="varPersistentID:{31EDB80D-EEA9-4EE0-86FC-5A7F4C8ABEF8}" Type="Ref">/Sample-changer-2/Chassis/Mod5/AI3</Property>
-	<Property Name="varPersistentID:{329D9AE7-D4AC-4A61-9312-A51762F83430}" Type="Ref">/Sample-changer-2/Chassis/Mod6/DIO22</Property>
-	<Property Name="varPersistentID:{32C8CC53-2C51-49F7-A8FC-AC57AB21313F}" Type="Ref">/Sample-changer-2/Chassis/Mod6/DIO25</Property>
-	<Property Name="varPersistentID:{355181A2-22C1-4B4C-8E7B-9211E6430966}" Type="Ref">/Sample-changer-2/Chassis/Mod6/DIO13</Property>
-	<Property Name="varPersistentID:{35AC132E-1CC6-4C53-85BC-4B839FB6D1DB}" Type="Ref">/Sample-changer-2/Chassis/Mod4/AO15</Property>
-	<Property Name="varPersistentID:{35C674A6-A290-4D8D-BFA5-F7F0B06A162A}" Type="Ref">/Sample-changer-2/Chassis/Mod4/AO8</Property>
-	<Property Name="varPersistentID:{391342FA-80BC-4C65-8495-A22EA2EA62DD}" Type="Ref">/Sample-changer-2/Chassis/Mod4/AO11</Property>
-	<Property Name="varPersistentID:{3B138A9D-BAD8-42D3-AA59-38F416051C5A}" Type="Ref">/Sample-changer-2/Chassis/Mod5/AI2</Property>
-	<Property Name="varPersistentID:{3B2D36C3-0DCD-4EB7-9295-B11CB6089B1B}" Type="Ref">/Sample-changer-2/Chassis/Mod4/AO2</Property>
-	<Property Name="varPersistentID:{3CDE21B7-F770-42B9-8E35-FCF911638140}" Type="Ref">/Sample-changer-2/Chassis/Mod5/AI16</Property>
-	<Property Name="varPersistentID:{3EE8F455-568B-4E29-AFBE-A36FC4691DAC}" Type="Ref">/Sample-changer-2/Chassis/Mod8/DO1</Property>
-	<Property Name="varPersistentID:{406597DD-AEAF-4338-859F-ADDF2D3291FE}" Type="Ref">/Sample-changer-2/Chassis/Mod7/DI22</Property>
-	<Property Name="varPersistentID:{44694CAA-D422-4D56-A827-B4118715802C}" Type="Ref">/Sample-changer-2/Chassis/Mod6/DIO23</Property>
-	<Property Name="varPersistentID:{48F8BA22-8C6B-4C35-B664-B172FDEF115E}" Type="Ref">/Sample-changer-2/Chassis/Mod5/AI7</Property>
-	<Property Name="varPersistentID:{4914EB2D-96CE-4D61-9B5D-79F24EEAE14C}" Type="Ref">/Sample-changer-2/Chassis/Mod4/AO0</Property>
-	<Property Name="varPersistentID:{4A617223-A2FA-4D0E-A20C-DD9534A3EA6C}" Type="Ref">/Sample-changer-2/Chassis/Mod5/AI4</Property>
-	<Property Name="varPersistentID:{4CDDFC61-9E50-4323-81FC-0FF235497856}" Type="Ref">/Sample-changer-2/Chassis/Mod5/AI30</Property>
-	<Property Name="varPersistentID:{502F46C6-576F-4F36-8D17-61A97A1BBBDA}" Type="Ref">/Sample-changer-2/Chassis/Mod7/DI4</Property>
-	<Property Name="varPersistentID:{51C384AF-C75D-451F-B0C0-A985E1A3B7F9}" Type="Ref">/Sample-changer-2/Chassis/Mod7/DI25</Property>
-	<Property Name="varPersistentID:{542D7597-3BDA-46E5-88DB-32879B0FF686}" Type="Ref">/Sample-changer-2/Chassis/Mod6/DIO18</Property>
-	<Property Name="varPersistentID:{558CE1FA-9A4B-451F-AE9D-E7684158CF90}" Type="Ref">/Sample-changer-2/Chassis/Mod7/DI18</Property>
-	<Property Name="varPersistentID:{56E94C75-7342-44B6-995C-15A0D3775332}" Type="Ref">/Sample-changer-2/Chassis/Mod7/DI26</Property>
-	<Property Name="varPersistentID:{61B38F61-80CE-453D-9439-08935BDC96D3}" Type="Ref">/Sample-changer-2/Chassis/Mod6/DIO16</Property>
-	<Property Name="varPersistentID:{622ACAFB-7844-4A9E-8AB3-94C20B1563E9}" Type="Ref">/Sample-changer-2/Chassis/Mod6/DIO20</Property>
-	<Property Name="varPersistentID:{628B353A-7FDA-42BC-909A-334CC035327C}" Type="Ref">/Sample-changer-2/Chassis/Mod8/DO2</Property>
-	<Property Name="varPersistentID:{63C17DA0-CD5F-41DB-A663-29DD3520671E}" Type="Ref">/Sample-changer-2/Chassis/Mod7/DI6</Property>
-	<Property Name="varPersistentID:{64CD84DE-4120-461F-B08F-3A5868B6F132}" Type="Ref">/Sample-changer-2/Chassis/Mod5/AI18</Property>
-	<Property Name="varPersistentID:{6799ED10-2CD3-4F66-B199-48BFC8C5285D}" Type="Ref">/Sample-changer-2/Chassis/Mod8/DO6</Property>
-	<Property Name="varPersistentID:{68C50C70-7769-4202-9B41-72CC5CB628CD}" Type="Ref">/Sample-changer-2/Chassis/Mod5/AI9</Property>
-	<Property Name="varPersistentID:{696904D3-A2BF-4C4A-A38B-D0CB1112B4DF}" Type="Ref">/Sample-changer-2/Chassis/Mod4/AO1</Property>
-	<Property Name="varPersistentID:{6D6BD378-5667-4023-8F8C-81C41AAE183B}" Type="Ref">/Sample-changer-2/Chassis/Mod5/AI27</Property>
-	<Property Name="varPersistentID:{6D6FF1DD-A3A8-4FDB-A147-B89F24EE106C}" Type="Ref">/Sample-changer-2/Chassis/Mod5/AI22</Property>
-	<Property Name="varPersistentID:{6DD9D83F-79C6-4C89-A0FC-FC6C5D66F7EE}" Type="Ref">/Sample-changer-2/Chassis/Mod8/DO7</Property>
-	<Property Name="varPersistentID:{7224615C-F482-4A81-AB73-BC6E08752DA8}" Type="Ref">/Sample-changer-2/Chassis/Mod5/AI26</Property>
-	<Property Name="varPersistentID:{77CA5DBD-97FC-4309-8920-4D949A927D62}" Type="Ref">/Sample-changer-2/Chassis/Mod4/AO7</Property>
-	<Property Name="varPersistentID:{784992E3-A5D0-40C2-96F3-87FFFA6F2692}" Type="Ref">/Sample-changer-2/Chassis/Mod6/DIO10</Property>
-	<Property Name="varPersistentID:{786E303E-4174-4A71-A291-F761F41DB296}" Type="Ref">/Sample-changer-2/Chassis/Mod4/AO14</Property>
-	<Property Name="varPersistentID:{7B700CAB-E82B-4D45-AAB3-E56C0418F818}" Type="Ref">/Sample-changer-2/Chassis/Mod7/DI10</Property>
-	<Property Name="varPersistentID:{7CF89DF0-2A61-4523-820D-8B8BACD8BBDE}" Type="Ref">/Sample-changer-2/Chassis/Mod6/DIO8</Property>
-	<Property Name="varPersistentID:{7F56DF2C-90C2-4802-AF9F-6D28B2B39358}" Type="Ref">/Sample-changer-2/Chassis/Mod6/DIO29</Property>
-	<Property Name="varPersistentID:{813970FF-3894-4E4F-B801-7F71D7A45C72}" Type="Ref">/Sample-changer-2/Chassis/Mod6/DIO15</Property>
-	<Property Name="varPersistentID:{820026A1-78F5-4DCF-8E5C-99B990284079}" Type="Ref">/Sample-changer-2/Chassis/Mod6/DIO30</Property>
-	<Property Name="varPersistentID:{8AD8D440-4D17-4B40-8D53-67E8BF2A707A}" Type="Ref">/Sample-changer-2/Chassis/Mod4/AO12</Property>
-	<Property Name="varPersistentID:{8B990352-C979-4924-8920-AE70D5335870}" Type="Ref">/Sample-changer-2/Chassis/Mod4/AO5</Property>
-	<Property Name="varPersistentID:{8C366482-6931-4FDB-83B4-EB878B0FF077}" Type="Ref">/Sample-changer-2/Chassis/Mod5/AI1</Property>
-	<Property Name="varPersistentID:{8CE6ED82-E788-4576-9738-C91BAC9BEBAC}" Type="Ref">/Sample-changer-2/Chassis/Mod6/DIO26</Property>
-	<Property Name="varPersistentID:{91068767-D49E-4DE0-8BA6-6481A61B2FD8}" Type="Ref">/Sample-changer-2/Chassis/Mod5/AI29</Property>
-	<Property Name="varPersistentID:{927DBB58-655E-48FD-BE56-7F170B1D80B5}" Type="Ref">/Sample-changer-2/Chassis/Mod6/DIO27</Property>
-	<Property Name="varPersistentID:{94213053-C3B0-476D-ADBB-3ECBDC1D34B7}" Type="Ref">/Sample-changer-2/Chassis/Mod4/AO9</Property>
-	<Property Name="varPersistentID:{94ACAAE1-767A-4F5E-9BBF-9B2FC6469B46}" Type="Ref">/Sample-changer-2/Chassis/Mod6/DIO24</Property>
-	<Property Name="varPersistentID:{9B5DC019-0F79-4FD7-90E1-260247C057C4}" Type="Ref">/Sample-changer-2/Chassis/Mod6/DIO17</Property>
-	<Property Name="varPersistentID:{9BC8F3C8-BD46-4382-AE08-C6F08F35E3C2}" Type="Ref">/Sample-changer-2/Chassis/Mod5/AI24</Property>
-	<Property Name="varPersistentID:{9CBA87DF-C127-40FE-8689-BDC3011A6696}" Type="Ref">/Sample-changer-2/Chassis/Mod6/DIO11</Property>
-	<Property Name="varPersistentID:{9DF6B9DB-1EFC-4204-B333-F781F356FBF2}" Type="Ref">/Sample-changer-2/Chassis/Mod6/DIO21</Property>
-	<Property Name="varPersistentID:{A442C394-3AD8-4B9E-94A2-F7DACE4DE1E2}" Type="Ref">/Sample-changer-2/Chassis/Mod5/AI0</Property>
-	<Property Name="varPersistentID:{AA9DD2F4-738A-4217-AAB8-62A5CDD2F790}" Type="Ref">/Sample-changer-2/Chassis/Mod6/DIO28</Property>
-	<Property Name="varPersistentID:{AAE1851B-2B0F-4A5A-8957-1B45DBDB6647}" Type="Ref">/Sample-changer-2/Chassis/Mod4/AO10</Property>
-	<Property Name="varPersistentID:{AB6712E6-A7EA-45DE-9F7C-131F91BE2751}" Type="Ref">/Sample-changer-2/Chassis/Mod7/DI7</Property>
-	<Property Name="varPersistentID:{AB7E4198-606D-4607-9EDA-89975229AA30}" Type="Ref">/Sample-changer-2/Chassis/Mod7/DI23</Property>
-	<Property Name="varPersistentID:{ABB648B9-BEF7-41F1-B851-F75A71512AE9}" Type="Ref">/Sample-changer-2/Chassis/Mod6/DIO1</Property>
-	<Property Name="varPersistentID:{AD7E3C56-09C1-481F-8B98-90ECC3CFDE6B}" Type="Ref">/Sample-changer-2/Chassis/Mod6/DIO5</Property>
-	<Property Name="varPersistentID:{AD9A1F1A-6E28-49AB-8809-A0F2F4AD1E47}" Type="Ref">/Sample-changer-2/Chassis/Mod8/DO5</Property>
-	<Property Name="varPersistentID:{ADDF41DA-DAB5-43A7-B9E9-B487A43C715E}" Type="Ref">/Sample-changer-2/Chassis/Mod5/AI15</Property>
-	<Property Name="varPersistentID:{AFD3DE8E-0636-42E9-8BE2-958B3377F7BF}" Type="Ref">/Sample-changer-2/Chassis/Mod5/AI14</Property>
-	<Property Name="varPersistentID:{B08444D8-2018-4328-9FA9-EA4D44A0BF20}" Type="Ref">/Sample-changer-2/Chassis/Mod5/AI21</Property>
-	<Property Name="varPersistentID:{B5319833-B707-4CAA-94DA-44EA3D8B3EFB}" Type="Ref">/Sample-changer-2/Chassis/Mod5/AI28</Property>
-	<Property Name="varPersistentID:{B681AF3A-0E18-4CFE-9988-C24C1B36ADF9}" Type="Ref">/Sample-changer-2/Chassis/Mod7/DI13</Property>
-	<Property Name="varPersistentID:{B9748603-D19F-4B64-8F8D-D89226A2B75F}" Type="Ref">/Sample-changer-2/Chassis/Mod7/DI9</Property>
-	<Property Name="varPersistentID:{B98DFD4E-E9D3-40F2-B215-61D6E64BC232}" Type="Ref">/Sample-changer-2/Chassis/Mod5/AI25</Property>
-	<Property Name="varPersistentID:{BC62F056-A2F9-4D11-A1A1-76C92820C3E0}" Type="Ref">/Sample-changer-2/Chassis/Mod4/AO3</Property>
-	<Property Name="varPersistentID:{C28AFF44-4B9B-4479-9198-8E27E78DF878}" Type="Ref">/Sample-changer-2/Chassis/Mod7/DI8</Property>
-	<Property Name="varPersistentID:{C9720264-9891-499A-80BE-C0E98A72B72A}" Type="Ref">/Sample-changer-2/Chassis/Mod7/DI17</Property>
-	<Property Name="varPersistentID:{CF8EBF54-3D4B-46FE-BAE6-91DEDDC3093D}" Type="Ref">/Sample-changer-2/Chassis/Mod8/DO3</Property>
-	<Property Name="varPersistentID:{D019457C-4312-4EB6-969E-09C41E07E8BA}" Type="Ref">/Sample-changer-2/Chassis/Mod6/DIO12</Property>
-	<Property Name="varPersistentID:{D0DB884E-2A67-4686-8CCB-B94E536E5E96}" Type="Ref">/Sample-changer-2/Chassis/Mod7/DI14</Property>
-	<Property Name="varPersistentID:{D1B11AEF-2B66-4231-8B4C-D09A37672B55}" Type="Ref">/Sample-changer-2/Chassis/Mod6/DIO19</Property>
-	<Property Name="varPersistentID:{D4A4FB95-A083-41A8-80DA-06E4160CBEC0}" Type="Ref">/Sample-changer-2/Chassis/Mod6/DIO6</Property>
-	<Property Name="varPersistentID:{D4D3E60F-980F-4478-AB57-FF0EAD5478D0}" Type="Ref">/Sample-changer-2/Chassis/Mod7/DI1</Property>
-	<Property Name="varPersistentID:{D4E1D490-61A9-4B05-94F4-7E8C07C19E9A}" Type="Ref">/Sample-changer-2/Chassis/Mod7/DI3</Property>
-	<Property Name="varPersistentID:{D6065964-2A44-4042-9654-B81E2FC6976E}" Type="Ref">/Sample-changer-2/Chassis/Mod7/DI24</Property>
-	<Property Name="varPersistentID:{D7926323-282E-42EA-A0CA-345EDCE04FB7}" Type="Ref">/Sample-changer-2/Chassis/Mod4/AO13</Property>
-	<Property Name="varPersistentID:{DAEB2739-2586-4539-BC97-7137FD73AB1C}" Type="Ref">/Sample-changer-2/Chassis/Mod6/DIO4</Property>
-	<Property Name="varPersistentID:{DB60E48D-490A-4581-8F13-3CB014105D2C}" Type="Ref">/Sample-changer-2/Chassis/Mod7/DI30</Property>
-	<Property Name="varPersistentID:{DBA55318-990C-4DDF-8BEB-78002D92DD53}" Type="Ref">/Sample-changer-2/Chassis/Mod5/AI17</Property>
-	<Property Name="varPersistentID:{DC857FC0-064D-48D2-9B60-56C14FEEC289}" Type="Ref">/Sample-changer-2/Chassis/Mod7/DI19</Property>
-	<Property Name="varPersistentID:{DC988D65-81DF-4B02-B2C8-5FBC85AAC726}" Type="Ref">/Sample-changer-2/Chassis/Mod5/AI20</Property>
-	<Property Name="varPersistentID:{DF61759D-495A-4319-AE43-6CC368A65B68}" Type="Ref">/Sample-changer-2/Chassis/Mod5/AI8</Property>
-	<Property Name="varPersistentID:{E54B1703-6CA4-4C66-8D11-DED9BB4CCB19}" Type="Ref">/Sample-changer-2/Chassis/Mod6/DIO31</Property>
-	<Property Name="varPersistentID:{E7BD118A-5180-4A73-97AA-3E0D55705795}" Type="Ref">/Sample-changer-2/Chassis/Mod7/DI27</Property>
-	<Property Name="varPersistentID:{E9C91BAF-F183-4936-A8E8-202F0E0CAE1B}" Type="Ref">/Sample-changer-2/Chassis/Mod7/DI31</Property>
-	<Property Name="varPersistentID:{EA070D8A-C7D4-4053-9890-BAC8F9422E1A}" Type="Ref">/Sample-changer-2/Chassis/Mod7/DI16</Property>
-	<Property Name="varPersistentID:{EABBD352-0928-4085-8774-DC14AE937016}" Type="Ref">/Sample-changer-2/Chassis/Mod7/DI21</Property>
-	<Property Name="varPersistentID:{EBEE104B-009E-4BBA-8EA1-66DDBEA7E093}" Type="Ref">/Sample-changer-2/Chassis/Mod5/AI11</Property>
-	<Property Name="varPersistentID:{EC2D8805-0080-4643-A583-1EB38657E214}" Type="Ref">/Sample-changer-2/Chassis/Mod6/DIO14</Property>
-	<Property Name="varPersistentID:{EC711478-373B-44CB-BD2F-EA05EBF71CFE}" Type="Ref">/Sample-changer-2/Chassis/Mod6/DIO3</Property>
-	<Property Name="varPersistentID:{ECEE9866-9E21-45E5-B641-E69F746DB8C7}" Type="Ref">/Sample-changer-2/Chassis/Mod6/DIO0</Property>
-	<Property Name="varPersistentID:{EEFF2A0F-7F7D-4DB6-8F76-D59344692394}" Type="Ref">/Sample-changer-2/Chassis/Mod7/DI11</Property>
-	<Property Name="varPersistentID:{F00B2CDD-ACB6-4084-871E-42553061B8CD}" Type="Ref">/Sample-changer-2/Chassis/Mod7/DI12</Property>
-	<Property Name="varPersistentID:{F3C17FBA-E948-43FD-938C-4929534616FC}" Type="Ref">/Sample-changer-2/Chassis/Mod4/AO6</Property>
-	<Property Name="varPersistentID:{F4336EE7-AB70-452C-927C-19E2EB61C5BA}" Type="Ref">/Sample-changer-2/Chassis/Mod6/DIO7</Property>
-	<Property Name="varPersistentID:{F7AA7BAD-4367-4FCF-B945-24259C838CEB}" Type="Ref">/Sample-changer-2/Chassis/Mod7/DI20</Property>
-	<Property Name="varPersistentID:{F961C699-0B66-4CC1-AC0F-C8CD72AA00A6}" Type="Ref">/Sample-changer-2/Chassis/Mod7/DI0</Property>
-	<Property Name="varPersistentID:{F9F50091-B978-47BA-9FEC-E86088279FB9}" Type="Ref">/Sample-changer-2/Chassis/Mod5/AI12</Property>
-	<Property Name="varPersistentID:{FCD48FD9-220C-44B9-89B7-3780BF74793D}" Type="Ref">/Sample-changer-2/Chassis/Mod6/DIO2</Property>
-=======
 	<Property Name="varPersistentID:{01B4D5E1-43D7-417C-B239-F058AC6891AA}" Type="Ref">/Sample-changer-2/SC2 shared var.lvlib/SC2 Change Complete</Property>
 	<Property Name="varPersistentID:{0CEC9B24-065D-4AD5-87E8-4720D8916882}" Type="Ref">/Sample-changer-2/Chassis/Mod6/DIO24</Property>
 	<Property Name="varPersistentID:{0D75BFC8-8A55-4BA9-8D78-3ED400D3A7F3}" Type="Ref">/Sample-changer-2/Chassis/Mod7/DI2</Property>
@@ -272,7 +150,6 @@
 	<Property Name="varPersistentID:{FE502A7A-6DE5-466D-B05C-851D93DD9CAB}" Type="Ref">/My Computer/SC2 Monitor shared var.lvlib/Requested Sample</Property>
 	<Property Name="varPersistentID:{FED7320B-C4B9-493C-84E5-AD05E959D456}" Type="Ref">/Sample-changer-2/Chassis/Mod8/DO6</Property>
 	<Property Name="varPersistentID:{FF0671FD-94BF-49F7-9BC8-B2C8B1AF3407}" Type="Ref">/Sample-changer-2/SC2 shared var.lvlib/SC2 Encoder radius</Property>
->>>>>>> rotate
 	<Item Name="My Computer" Type="My Computer">
 		<Property Name="IOScan.Faults" Type="Str"></Property>
 		<Property Name="IOScan.NetVarPeriod" Type="UInt">100</Property>
@@ -357,31 +234,27 @@
 	<Item Name="Sample-changer-2" Type="RT CompactRIO">
 		<Property Name="alias.name" Type="Str">Sample-changer-2</Property>
 		<Property Name="alias.value" Type="Str">192.168.1.154</Property>
-		<Property Name="CCSymbols" Type="Str">OS,VxWorks;CPU,PowerPC;DeviceCode,7459;TARGET_TYPE,RT;</Property>
+		<Property Name="CCSymbols" Type="Str">TARGET_TYPE,RT;OS,VxWorks;CPU,PowerPC;DeviceCode,7459;</Property>
 		<Property Name="crio.ControllerPID" Type="Str">7459</Property>
 		<Property Name="host.ResponsivenessCheckEnabled" Type="Bool">true</Property>
 		<Property Name="host.ResponsivenessCheckPingDelay" Type="UInt">5000</Property>
 		<Property Name="host.ResponsivenessCheckPingTimeout" Type="UInt">1000</Property>
 		<Property Name="host.TargetCPUID" Type="UInt">2</Property>
 		<Property Name="host.TargetOSID" Type="UInt">14</Property>
-		<Property Name="mathScriptPath" Type="Str">D:\Users\wymanm\Documents\LabVIEW Data</Property>
 		<Property Name="target.cleanupVisa" Type="Bool">false</Property>
-		<Property Name="target.Deployment_DownloadInstallerPath" Type="Path"></Property>
-		<Property Name="target.Deployment_SilentInstallation" Type="Bool">false</Property>
 		<Property Name="target.FPProtocolGlobals_ControlTimeLimit" Type="Int">300</Property>
 		<Property Name="target.getDefault-&gt;WebServer.Port" Type="Int">80</Property>
 		<Property Name="target.getDefault-&gt;WebServer.Timeout" Type="Int">60</Property>
-		<Property Name="target.IOScan.Faults" Type="Str">1.0,0;</Property>
+		<Property Name="target.IOScan.Faults" Type="Str"></Property>
 		<Property Name="target.IOScan.NetVarPeriod" Type="UInt">100</Property>
 		<Property Name="target.IOScan.NetWatchdogEnabled" Type="Bool">false</Property>
 		<Property Name="target.IOScan.Period" Type="UInt">10000</Property>
 		<Property Name="target.IOScan.PowerupMode" Type="UInt">0</Property>
 		<Property Name="target.IOScan.Priority" Type="UInt">0</Property>
 		<Property Name="target.IOScan.ReportModeConflict" Type="Bool">true</Property>
-		<Property Name="target.IOScan.StartEngineOnDeploy" Type="Bool">false</Property>
 		<Property Name="target.IsRemotePanelSupported" Type="Bool">true</Property>
 		<Property Name="target.RTCPULoadMonitoringEnabled" Type="Bool">true</Property>
-		<Property Name="target.RTDebugWebServerHTTPPort" Type="UInt">8001</Property>
+		<Property Name="target.RTDebugWebServerHTTPPort" Type="Int">8001</Property>
 		<Property Name="target.RTTarget.ApplicationPath" Type="Path">/c/ni-rt/startup/startup.rtexe</Property>
 		<Property Name="target.RTTarget.EnableFileSharing" Type="Bool">true</Property>
 		<Property Name="target.RTTarget.IPAccess" Type="Str">+*</Property>
@@ -393,40 +266,38 @@
 		<Property Name="target.server.tcp.enabled" Type="Bool">false</Property>
 		<Property Name="target.server.tcp.paranoid" Type="Bool">true</Property>
 		<Property Name="target.server.tcp.port" Type="Int">3363</Property>
-		<Property Name="target.server.tcp.serviceName" Type="Str"></Property>
+		<Property Name="target.server.tcp.serviceName" Type="Str">Main Application Instance/VI Server</Property>
 		<Property Name="target.server.tcp.serviceName.default" Type="Str">Main Application Instance/VI Server</Property>
 		<Property Name="target.server.vi.access" Type="Str">+*</Property>
 		<Property Name="target.server.vi.callsEnabled" Type="Bool">true</Property>
 		<Property Name="target.server.vi.propertiesEnabled" Type="Bool">true</Property>
-		<Property Name="target.server.viscripting.showScriptingOperationsInContextHelp" Type="Bool">false</Property>
-		<Property Name="target.server.viscripting.showScriptingOperationsInEditor" Type="Bool">false</Property>
-		<Property Name="target.WebServer.Config" Type="Str"># Web server configuration file.
-# Generated by LabVIEW 15.0.1f1
-# 6/3/2016 8:39:04 AM
+		<Property Name="target.WebServer.Config" Type="Str">Listen 8000
 
-#
-# Global Directives
-#
-NI.AddLVRouteVars
+NI.ServerName default
+DocumentRoot "$LVSERVER_DOCROOT"
 TypesConfig "$LVSERVER_CONFIGROOT/mime.types"
-LimitWorkers 10
+DirectoryIndex index.htm
+WorkerLimit 10
+InactivityTimeout 60
+
 LoadModulePath "$LVSERVER_MODULEPATHS"
 LoadModule LVAuth lvauthmodule
 LoadModule LVRFP lvrfpmodule
-Listen 8000
 
 #
-# Directives that apply to the default server
+# Pipeline Definition
 #
-NI.ServerName default
-DocumentRoot "$LVSERVER_DOCROOT"
-InactivityTimeout 60
+
 SetConnector netConnector
+
 AddHandler LVAuth
 AddHandler LVRFP
+
 AddHandler fileHandler ""
+
 AddOutputFilter chunkFilter
-DirectoryIndex index.htm
+
+
 </Property>
 		<Property Name="target.WebServer.Enabled" Type="Bool">false</Property>
 		<Property Name="target.WebServer.LogEnabled" Type="Bool">false</Property>
@@ -445,18 +316,10 @@ DirectoryIndex index.htm
 			<Property Name="axis.SMVersion" Type="Int">201310</Property>
 			<Property Name="axisSetup.activeOnModeTransition:0" Type="Bool">true</Property>
 			<Property Name="deviceID:0" Type="Int">9512</Property>
-<<<<<<< HEAD
-			<Property Name="interactivePanel.targetPosition:0" Type="Dbl">-50000</Property>
-			<Property Name="limit.forward.enable:0" Type="Bool">false</Property>
-			<Property Name="limit.reverse.enable:0" Type="Bool">false</Property>
-			<Property Name="resource.type:0" Type="Int">10551297</Property>
-			<Property Name="resourceID:0" Type="Str">{2904D7C3-B77C-4977-A116-66A94BE317BE}</Property>
-=======
 			<Property Name="limit.forward.enable:0" Type="Bool">false</Property>
 			<Property Name="limit.reverse.enable:0" Type="Bool">false</Property>
 			<Property Name="resource.type:0" Type="Int">10551297</Property>
 			<Property Name="resourceID:0" Type="Str">{A96D5F14-DDA0-4AE8-9330-A247C0DAECD1}</Property>
->>>>>>> rotate
 			<Property Name="softmotionID:0" Type="Str">{C89C22D6-09D8-451c-B54B-BE98A931F881}</Property>
 			<Property Name="vendorID:0" Type="Int">4243</Property>
 		</Item>
@@ -2457,11 +2320,7 @@ DirectoryIndex index.htm
 			<Property Name="axes:0:0" Type="Str">Axis 1</Property>
 			<Property Name="axes:0:Size" Type="UInt">1</Property>
 			<Property Name="resource.type:0" Type="Int">10551313</Property>
-<<<<<<< HEAD
-			<Property Name="resourceID:0" Type="Str">{7337EA8A-9074-45A3-B56E-C91C1A692C92}</Property>
-=======
 			<Property Name="resourceID:0" Type="Str">{CB054AE7-55B8-4774-9B05-A4A985BD9C96}</Property>
->>>>>>> rotate
 			<Property Name="softmotionID:0" Type="Str">{C89C22D6-09D8-451c-B54B-BE98A931F881}</Property>
 		</Item>
 		<Item Name="Encoder-Decoder.vi" Type="VI" URL="../Encoder-Decoder.vi"/>
@@ -2469,10 +2328,6 @@ DirectoryIndex index.htm
 		<Item Name="SC2 RT.vi" Type="VI" URL="../SC2 RT.vi">
 			<Item Name="Straight-Line Move 1" Type="IIO Function Block"/>
 		</Item>
-<<<<<<< HEAD
-		<Item Name="Dependencies" Type="Dependencies"/>
-		<Item Name="Build Specifications" Type="Build"/>
-=======
 		<Item Name="SC2 shared var.lvlib" Type="Library" URL="../SC2 shared var.lvlib"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
@@ -2542,6 +2397,5 @@ DirectoryIndex index.htm
 				<Property Name="TgtF_targetfileName" Type="Str">startup.rtexe</Property>
 			</Item>
 		</Item>
->>>>>>> rotate
 	</Item>
 </Project>
