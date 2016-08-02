@@ -1,5 +1,8 @@
 [My Computer]
 My Computer="localhost"
 
+[RT CompactRIO Target]
+RT CompactRIO Target="192.168.1.95"
+
 [Sample-changer-2]
 Sample-changer-2="192.168.1.154"

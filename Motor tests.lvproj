@@ -4,152 +4,152 @@
 	<Property Name="NI.LV.All.SourceOnly" Type="Bool">false</Property>
 	<Property Name="NI.Project.Description" Type="Str"></Property>
 	<Property Name="SMProvider.SMVersion" Type="Int">201310</Property>
-	<Property Name="varPersistentID:{01B4D5E1-43D7-417C-B239-F058AC6891AA}" Type="Ref">/Sample-changer-2/SC2 shared var.lvlib/SC2 Change Complete</Property>
-	<Property Name="varPersistentID:{0CEC9B24-065D-4AD5-87E8-4720D8916882}" Type="Ref">/Sample-changer-2/Chassis/Mod6/DIO24</Property>
-	<Property Name="varPersistentID:{0D75BFC8-8A55-4BA9-8D78-3ED400D3A7F3}" Type="Ref">/Sample-changer-2/Chassis/Mod7/DI2</Property>
-	<Property Name="varPersistentID:{13710E2D-B0C2-42E1-BB8C-339C6C63F568}" Type="Ref">/Sample-changer-2/Chassis/Mod6/DIO0</Property>
-	<Property Name="varPersistentID:{15FABBEA-8D84-4E80-873E-03DBC62CFC75}" Type="Ref">/Sample-changer-2/Chassis/Mod6/DIO26</Property>
-	<Property Name="varPersistentID:{17C400A1-9653-4919-8A06-B6FA6362B076}" Type="Ref">/Sample-changer-2/Chassis/Mod6/DIO8</Property>
-	<Property Name="varPersistentID:{18D0B626-B209-4F72-99E0-870ACB2EB32B}" Type="Ref">/Sample-changer-2/Chassis/Mod4/AO3</Property>
-	<Property Name="varPersistentID:{27BB1210-9AC8-4991-8D3C-43B7CC8B57D0}" Type="Ref">/Sample-changer-2/Chassis/Mod6/DIO22</Property>
-	<Property Name="varPersistentID:{29C1EC05-E778-4C88-83D6-8112E06979F6}" Type="Ref">/Sample-changer-2/Chassis/Mod4/AO8</Property>
-	<Property Name="varPersistentID:{2AA49EA5-20D9-4327-8F63-43C820187EDA}" Type="Ref">/Sample-changer-2/Chassis/Mod7/DI29</Property>
-	<Property Name="varPersistentID:{2B52D420-C40D-48A4-B8EF-982B470C4B19}" Type="Ref">/Sample-changer-2/Chassis/Mod5/AI12</Property>
-	<Property Name="varPersistentID:{2CB1D0E1-1699-4733-8A5C-C987879FC966}" Type="Ref">/Sample-changer-2/Chassis/Mod4/AO1</Property>
-	<Property Name="varPersistentID:{2CB8402F-4640-40FC-B473-E0059327FD26}" Type="Ref">/My Computer/SC2 Monitor shared var.lvlib/Current State</Property>
-	<Property Name="varPersistentID:{2D96326E-1FBD-4E25-8567-7BFAD6EA43F5}" Type="Ref">/Sample-changer-2/Chassis/Mod5/AI29</Property>
-	<Property Name="varPersistentID:{302E5441-4FE7-4582-806D-6F62A2680E36}" Type="Ref">/Sample-changer-2/Chassis/Mod7/DI7</Property>
-	<Property Name="varPersistentID:{31E4B0A7-096B-4108-951F-F27971100EDD}" Type="Ref">/Sample-changer-2/Chassis/Mod5/AI13</Property>
-	<Property Name="varPersistentID:{33102A6F-11E5-46C0-A42D-01E4DD119184}" Type="Ref">/Sample-changer-2/Chassis/Mod7/DI18</Property>
-	<Property Name="varPersistentID:{34DC11FC-D503-4FEA-AE1C-75695B3F3042}" Type="Ref">/Sample-changer-2/Chassis/Mod4/AO6</Property>
-	<Property Name="varPersistentID:{34F96339-7362-45AF-BF7C-A00B688978EC}" Type="Ref">/Sample-changer-2/Chassis/Mod4/AO4</Property>
-	<Property Name="varPersistentID:{368BA8CC-57FC-4CBD-AD97-F28ED1BB8342}" Type="Ref">/Sample-changer-2/Chassis/Mod5/AI31</Property>
-	<Property Name="varPersistentID:{370D4B69-2EE8-44B5-98E1-79A55B2316A7}" Type="Ref">/Sample-changer-2/Chassis/Mod6/DIO12</Property>
-	<Property Name="varPersistentID:{3739F6E0-0BAD-4DF4-B5AE-95FE62BA3907}" Type="Ref">/Sample-changer-2/Chassis/Mod4/AO2</Property>
-	<Property Name="varPersistentID:{37720246-D152-4D24-8CF6-62AC28D51918}" Type="Ref">/Sample-changer-2/Chassis/Mod8/DO3</Property>
-	<Property Name="varPersistentID:{3A0E64A7-FC8E-43AB-B42B-6B7B5BA62513}" Type="Ref">/Sample-changer-2/Chassis/Mod4/AO9</Property>
-	<Property Name="varPersistentID:{3C31E013-843E-4406-BC6B-660F271C7590}" Type="Ref">/Sample-changer-2/Chassis/Mod5/AI4</Property>
-	<Property Name="varPersistentID:{3C3ADCB5-0680-49FE-9253-D237B87A2C46}" Type="Ref">/Sample-changer-2/Chassis/Mod7/DI5</Property>
-	<Property Name="varPersistentID:{3C606C92-3E02-487D-9223-233F5D657491}" Type="Ref">/Sample-changer-2/Chassis/Mod7/DI15</Property>
-	<Property Name="varPersistentID:{3E3B95B6-02AA-4B10-A136-113CB866F74F}" Type="Ref">/Sample-changer-2/Chassis/Mod7/DI30</Property>
-	<Property Name="varPersistentID:{3ECC87AE-8394-4B64-9897-E91D5904931A}" Type="Ref">/My Computer/SC2 Monitor shared var.lvlib/Encoder Radius</Property>
-	<Property Name="varPersistentID:{40ECDEC7-AB3A-4867-88D9-68A370E6E40C}" Type="Ref">/Sample-changer-2/Chassis/Mod8/DO2</Property>
-	<Property Name="varPersistentID:{413CBB38-63A4-4895-8CE1-191853E505A6}" Type="Ref">/Sample-changer-2/Chassis/Mod7/DI20</Property>
-	<Property Name="varPersistentID:{42D5359D-AD5A-4911-99E1-360ADF3D91C7}" Type="Ref">/Sample-changer-2/SC2 shared var.lvlib/SC2 Random Change</Property>
-	<Property Name="varPersistentID:{43A190E0-63F7-43A5-BFC4-C608E9D08AF8}" Type="Ref">/Sample-changer-2/Chassis/Mod7/DI31</Property>
-	<Property Name="varPersistentID:{445A603E-4728-473E-B325-62C13ADCBE33}" Type="Ref">/Sample-changer-2/Chassis/Mod6/DIO29</Property>
-	<Property Name="varPersistentID:{44D3EEE4-659F-44E1-BFF1-A6DD30908972}" Type="Ref">/Sample-changer-2/Chassis/Mod4/AO11</Property>
-	<Property Name="varPersistentID:{452D942A-1180-4010-878A-8EFAA2E13E02}" Type="Ref">/Sample-changer-2/Chassis/Mod5/AI20</Property>
-	<Property Name="varPersistentID:{4885CC60-390E-428C-80B7-63EA61D32E37}" Type="Ref">/Sample-changer-2/Chassis/Mod7/DI10</Property>
-	<Property Name="varPersistentID:{4A7C0AF5-DBA0-44B3-9B10-F9CEC1599747}" Type="Ref">/Sample-changer-2/Chassis/Mod6/DIO20</Property>
-	<Property Name="varPersistentID:{4C63259E-5EA7-4707-9CAE-539C2490D7E3}" Type="Ref">/Sample-changer-2/Chassis/Mod7/DI3</Property>
-	<Property Name="varPersistentID:{4CF7BC76-BCA3-471B-8081-B602E56579E1}" Type="Ref">/My Computer/SC2 Monitor shared var.lvlib/Current Sample</Property>
-	<Property Name="varPersistentID:{4D0521E0-7CCB-4328-B0CB-807A52BD3521}" Type="Ref">/Sample-changer-2/Chassis/Mod6/DIO25</Property>
-	<Property Name="varPersistentID:{4D81A2D3-20FC-4FEE-9422-EA906D4787F2}" Type="Ref">/My Computer/SC2 Monitor shared var.lvlib/Start Sample Change</Property>
-	<Property Name="varPersistentID:{4E98ACED-A5D7-4B71-87C9-D5DC8346759D}" Type="Ref">/Sample-changer-2/SC2 shared var.lvlib/SC2 Current Sample</Property>
-	<Property Name="varPersistentID:{527B6D1E-2BAA-4BAF-8691-7CABAA81F186}" Type="Ref">/Sample-changer-2/Chassis/Mod7/DI1</Property>
-	<Property Name="varPersistentID:{528DE195-A290-405A-B4CE-66B4DB01EEC6}" Type="Ref">/Sample-changer-2/Chassis/Mod7/DI23</Property>
-	<Property Name="varPersistentID:{55059101-2C32-4A7B-A3EA-777449C6F83D}" Type="Ref">/Sample-changer-2/Chassis/Mod5/AI5</Property>
-	<Property Name="varPersistentID:{55266E4B-4E30-45D4-B18C-347F4E5F7583}" Type="Ref">/Sample-changer-2/Chassis/Mod7/DI26</Property>
-	<Property Name="varPersistentID:{55FA81BE-8A8C-4683-85FB-4ECF6F2657BA}" Type="Ref">/Sample-changer-2/Chassis/Mod6/DIO18</Property>
-	<Property Name="varPersistentID:{5722830D-A0C4-424A-B729-6AE6B88B7F7F}" Type="Ref">/My Computer/SC2 Monitor shared var.lvlib/Change Complete</Property>
-	<Property Name="varPersistentID:{59572683-B2BA-400A-A2E3-39E031CACA4B}" Type="Ref">/Sample-changer-2/Chassis/Mod5/AI10</Property>
-	<Property Name="varPersistentID:{597CE033-B348-4E61-B0D1-7CBDB7D25463}" Type="Ref">/Sample-changer-2/SC2 shared var.lvlib/SC2 Start Sample Change</Property>
-	<Property Name="varPersistentID:{5A63563E-9A9B-40F7-B639-EAB551513021}" Type="Ref">/My Computer/SC2 Monitor shared var.lvlib/Encoder Position</Property>
-	<Property Name="varPersistentID:{5BA53EFC-96FA-40B2-ADB3-287DF418F4B3}" Type="Ref">/Sample-changer-2/Chassis/Mod6/DIO11</Property>
-	<Property Name="varPersistentID:{5F2CC8F1-8B43-423F-8588-26686DD1B396}" Type="Ref">/Sample-changer-2/Chassis/Mod6/DIO14</Property>
-	<Property Name="varPersistentID:{5F3822F9-75F4-4223-9B60-1DEC271523BB}" Type="Ref">/Sample-changer-2/Chassis/Mod8/DO7</Property>
-	<Property Name="varPersistentID:{608D378B-C7CC-459F-AF76-FD8814D3EBF1}" Type="Ref">/Sample-changer-2/Chassis/Mod6/DIO10</Property>
-	<Property Name="varPersistentID:{65DC6185-81CA-491E-894E-0A86205015FC}" Type="Ref">/Sample-changer-2/SC2 shared var.lvlib/SC2 Converted Encoder</Property>
-	<Property Name="varPersistentID:{6601201C-2AD5-45F9-B593-446A567B1B1F}" Type="Ref">/Sample-changer-2/Chassis/Mod7/DI8</Property>
-	<Property Name="varPersistentID:{691851E6-1A3F-43E2-825B-F8577BA58D4D}" Type="Ref">/Sample-changer-2/Chassis/Mod4/AO7</Property>
-	<Property Name="varPersistentID:{6AB14E50-7EB2-4C44-B7D0-3257F5611199}" Type="Ref">/Sample-changer-2/Chassis/Mod7/DI11</Property>
-	<Property Name="varPersistentID:{70E16704-DBA5-419E-8E03-193C2EE74886}" Type="Ref">/My Computer/SC2 Monitor shared var.lvlib/Random Change</Property>
-	<Property Name="varPersistentID:{71422E56-E9CE-494D-80A3-8651582B938C}" Type="Ref">/Sample-changer-2/Chassis/Mod6/DIO9</Property>
-	<Property Name="varPersistentID:{74B9FE31-660C-4A63-9E3F-2DAE15526AA4}" Type="Ref">/Sample-changer-2/Chassis/Mod6/DIO16</Property>
-	<Property Name="varPersistentID:{756E9142-DA5B-40CD-B1C4-2DDE8D84C665}" Type="Ref">/Sample-changer-2/Chassis/Mod8/DO1</Property>
-	<Property Name="varPersistentID:{759CE07A-1B5D-403D-9226-35B563890063}" Type="Ref">/Sample-changer-2/Chassis/Mod5/AI7</Property>
-	<Property Name="varPersistentID:{76F8757A-C715-4720-8EAD-7603AE863A56}" Type="Ref">/Sample-changer-2/Chassis/Mod5/AI19</Property>
-	<Property Name="varPersistentID:{77CEE574-67BE-4687-9DF8-80D5A193F9A4}" Type="Ref">/Sample-changer-2/Chassis/Mod5/AI3</Property>
-	<Property Name="varPersistentID:{77D124BF-1300-4B74-9B06-6E58A9DB7D51}" Type="Ref">/Sample-changer-2/Chassis/Mod7/DI6</Property>
-	<Property Name="varPersistentID:{7A3BDDB5-8F80-4E26-AABD-527546E18283}" Type="Ref">/Sample-changer-2/Chassis/Mod7/DI25</Property>
-	<Property Name="varPersistentID:{7A985ADA-DAA8-43D6-A7C5-3F5639B4083E}" Type="Ref">/Sample-changer-2/Chassis/Mod5/AI11</Property>
-	<Property Name="varPersistentID:{7BFAD41F-ABF2-4A34-B8B6-6DC19C873E19}" Type="Ref">/Sample-changer-2/Chassis/Mod5/AI2</Property>
-	<Property Name="varPersistentID:{7C31CF8A-357A-44E2-9180-1E22EE4C9CD2}" Type="Ref">/Sample-changer-2/Chassis/Mod6/DIO3</Property>
-	<Property Name="varPersistentID:{7D4AF438-569D-4DAE-9A83-F60013393653}" Type="Ref">/Sample-changer-2/Chassis/Mod7/DI24</Property>
-	<Property Name="varPersistentID:{7D51A468-F40F-4518-BFE6-0B51AB81E9EB}" Type="Ref">/Sample-changer-2/Chassis/Mod6/DIO28</Property>
-	<Property Name="varPersistentID:{7E9C7894-D3BC-433D-BD68-1A477AA5B741}" Type="Ref">/My Computer/SC2 Monitor shared var.lvlib/Encoder Destination</Property>
-	<Property Name="varPersistentID:{805FC278-BCDC-4239-A4A4-09B85894183A}" Type="Ref">/Sample-changer-2/Chassis/Mod6/DIO7</Property>
-	<Property Name="varPersistentID:{80BD5053-AFC9-44F4-A768-D59B055AEF1E}" Type="Ref">/Sample-changer-2/SC2 shared var.lvlib/SC2 Current State</Property>
-	<Property Name="varPersistentID:{810A75A8-DD27-4591-979D-2413F0ADC7B2}" Type="Ref">/Sample-changer-2/Chassis/Mod6/DIO2</Property>
-	<Property Name="varPersistentID:{8127AEE4-4E7F-4119-B347-6049B99BE9E3}" Type="Ref">/Sample-changer-2/Chassis/Mod5/AI8</Property>
-	<Property Name="varPersistentID:{85E7D3AE-6A8D-4F2D-927D-5A5D6533F75D}" Type="Ref">/Sample-changer-2/Chassis/Mod6/DIO5</Property>
-	<Property Name="varPersistentID:{88B70C9C-EEE6-4547-9ABD-4CBE42752EE1}" Type="Ref">/Sample-changer-2/Chassis/Mod5/AI26</Property>
-	<Property Name="varPersistentID:{8BFE11E6-A849-4B92-8BD4-79EFD4BDE580}" Type="Ref">/Sample-changer-2/Chassis/Mod5/AI30</Property>
-	<Property Name="varPersistentID:{8E8164DD-47D3-46AE-98A8-4A141F8720B7}" Type="Ref">/Sample-changer-2/Chassis/Mod7/DI19</Property>
-	<Property Name="varPersistentID:{9260F7C8-FD10-45C0-87E5-004D455FC7AC}" Type="Ref">/Sample-changer-2/Chassis/Mod6/DIO30</Property>
-	<Property Name="varPersistentID:{92953454-DDAB-4F21-BAAF-619EBB58BE63}" Type="Ref">/Sample-changer-2/Chassis/Mod6/DIO15</Property>
-	<Property Name="varPersistentID:{94237F2F-9F26-437B-9DBF-4AF4FA486E04}" Type="Ref">/Sample-changer-2/SC2 shared var.lvlib/SC2 Encoder Offset</Property>
-	<Property Name="varPersistentID:{95E636F5-0CA1-4C0A-988A-EEE7475251A0}" Type="Ref">/Sample-changer-2/Chassis/Mod5/AI6</Property>
-	<Property Name="varPersistentID:{9699412C-599B-49DC-A765-98F381B0E464}" Type="Ref">/Sample-changer-2/Chassis/Mod5/AI17</Property>
-	<Property Name="varPersistentID:{96C5908E-2907-4DE9-93D8-60B3F7810254}" Type="Ref">/Sample-changer-2/Chassis/Mod5/AI9</Property>
-	<Property Name="varPersistentID:{977DF333-2818-4394-A9D3-61D852DB75F4}" Type="Ref">/My Computer/SC2 Monitor shared var.lvlib/Encoder Offset</Property>
-	<Property Name="varPersistentID:{984448EA-0943-4244-B63E-1DD0B39FBA4F}" Type="Ref">/My Computer/SC2 Monitor shared var.lvlib/Motor Status</Property>
-	<Property Name="varPersistentID:{9857A918-4961-4588-A676-A34B1D7EB2F1}" Type="Ref">/Sample-changer-2/Chassis/Mod5/AI22</Property>
-	<Property Name="varPersistentID:{98C944C2-5B39-477D-AC77-2F1B01409E03}" Type="Ref">/Sample-changer-2/Chassis/Mod4/AO15</Property>
-	<Property Name="varPersistentID:{99CB2E4B-7DA2-457E-A476-A0E2F895B531}" Type="Ref">/Sample-changer-2/SC2 shared var.lvlib/SC2 Encoder destination</Property>
-	<Property Name="varPersistentID:{9AEB12AE-229E-49E9-AA31-3195F03D9323}" Type="Ref">/Sample-changer-2/Chassis/Mod5/AI16</Property>
-	<Property Name="varPersistentID:{9EB12066-A78C-4C92-8C6B-425B7156F67C}" Type="Ref">/Sample-changer-2/Chassis/Mod6/DIO23</Property>
-	<Property Name="varPersistentID:{9F7B5AF7-3905-4072-8F9F-D9B32ECD54E7}" Type="Ref">/Sample-changer-2/Chassis/Mod4/AO14</Property>
-	<Property Name="varPersistentID:{A053120F-08B0-43AD-B328-3867D4A77E5B}" Type="Ref">/Sample-changer-2/Chassis/Mod5/AI1</Property>
-	<Property Name="varPersistentID:{A0D43235-FFB0-4745-B1F6-7A048A80426B}" Type="Ref">/Sample-changer-2/Chassis/Mod5/AI21</Property>
-	<Property Name="varPersistentID:{A57C2535-9ED8-4B0A-B8E8-CC8C5D855642}" Type="Ref">/Sample-changer-2/Chassis/Mod5/AI28</Property>
-	<Property Name="varPersistentID:{A5F08763-ED8F-427E-8A7B-765D97F8C3CE}" Type="Ref">/Sample-changer-2/Chassis/Mod6/DIO4</Property>
-	<Property Name="varPersistentID:{AB463D44-3AB7-4CC9-83C8-D58AD2D026D7}" Type="Ref">/Sample-changer-2/Chassis/Mod6/DIO21</Property>
-	<Property Name="varPersistentID:{B080BBFF-CDA3-449D-88B4-AA6363022486}" Type="Ref">/Sample-changer-2/SC2 shared var.lvlib/SC2 Motor status</Property>
-	<Property Name="varPersistentID:{B222E5FD-F129-477D-9B02-70A935856238}" Type="Ref">/Sample-changer-2/Chassis/Mod5/AI23</Property>
-	<Property Name="varPersistentID:{B7948274-6C15-435A-B2AD-0E6DB87C7BAA}" Type="Ref">/Sample-changer-2/SC2 shared var.lvlib/SC2 Requested Sample</Property>
-	<Property Name="varPersistentID:{B7E562E7-7350-4DFC-B25B-2CB31BF1417E}" Type="Ref">/Sample-changer-2/Chassis/Mod8/DO5</Property>
-	<Property Name="varPersistentID:{B7EC4221-A694-4766-8FB6-1E68E38086EB}" Type="Ref">/Sample-changer-2/Chassis/Mod8/DO0</Property>
-	<Property Name="varPersistentID:{BB145322-B24E-495C-8DA8-E3C4E7ECBBF1}" Type="Ref">/Sample-changer-2/Chassis/Mod5/AI0</Property>
-	<Property Name="varPersistentID:{BBAA8574-7A38-4780-AEB1-ACE4577FC818}" Type="Ref">/Sample-changer-2/Chassis/Mod6/DIO31</Property>
-	<Property Name="varPersistentID:{BCF88EBC-23F3-4ABF-AB7C-E4E109DB7940}" Type="Ref">/Sample-changer-2/Chassis/Mod4/AO5</Property>
-	<Property Name="varPersistentID:{BD0A6EE6-B592-4E0E-BA91-34F96833D070}" Type="Ref">/Sample-changer-2/Chassis/Mod6/DIO27</Property>
-	<Property Name="varPersistentID:{BE4BFCFB-91F7-413A-B360-8113FB9BD8B5}" Type="Ref">/Sample-changer-2/Chassis/Mod4/AO0</Property>
-	<Property Name="varPersistentID:{C2F49946-FEF5-4A03-AF65-CCF34FA10825}" Type="Ref">/Sample-changer-2/Chassis/Mod5/AI15</Property>
-	<Property Name="varPersistentID:{C32E6E18-269B-427A-8E56-64061982A291}" Type="Ref">/Sample-changer-2/SC2 shared var.lvlib/SC2 Raw Encoder</Property>
-	<Property Name="varPersistentID:{C5476310-9D1A-4296-9FAB-D9F6CE83725B}" Type="Ref">/Sample-changer-2/Chassis/Mod6/DIO19</Property>
-	<Property Name="varPersistentID:{C565F999-256E-4884-AED7-5B6ECD1FCF1D}" Type="Ref">/Sample-changer-2/Chassis/Mod7/DI17</Property>
-	<Property Name="varPersistentID:{C6A8C8AA-A7F2-4040-A68D-2C4807D880B9}" Type="Ref">/Sample-changer-2/Chassis/Mod7/DI4</Property>
-	<Property Name="varPersistentID:{C6FA38E2-D252-4672-BF05-E7E09B81352C}" Type="Ref">/Sample-changer-2/Chassis/Mod7/DI16</Property>
-	<Property Name="varPersistentID:{CAE87DFB-384B-4FDB-9FD2-77D53DD71E8A}" Type="Ref">/Sample-changer-2/Chassis/Mod7/DI9</Property>
-	<Property Name="varPersistentID:{CC49D7D8-50C3-4B32-A1C0-753C43FF3FEE}" Type="Ref">/Sample-changer-2/Chassis/Mod7/DI0</Property>
-	<Property Name="varPersistentID:{CC85A67E-564F-42EB-9663-630D5494F3CA}" Type="Ref">/Sample-changer-2/SC2 shared var.lvlib/SC2 Encoder Position</Property>
-	<Property Name="varPersistentID:{CD8756F5-E7C3-443B-9FA0-839336771037}" Type="Ref">/Sample-changer-2/Chassis/Mod8/DO4</Property>
-	<Property Name="varPersistentID:{CF25D113-A229-4021-B204-9A8A100E887B}" Type="Ref">/Sample-changer-2/Chassis/Mod7/DI21</Property>
-	<Property Name="varPersistentID:{D1DB0193-96CF-467E-9BD9-B824B53675B3}" Type="Ref">/Sample-changer-2/Chassis/Mod6/DIO1</Property>
-	<Property Name="varPersistentID:{D92397ED-74B7-45D7-8EAB-FD12D8520C9A}" Type="Ref">/Sample-changer-2/Chassis/Mod7/DI27</Property>
-	<Property Name="varPersistentID:{D9679F93-D7B7-4BC0-AB48-4E65FF5E5B99}" Type="Ref">/Sample-changer-2/Chassis/Mod7/DI13</Property>
-	<Property Name="varPersistentID:{DA9B31A9-B44E-4D65-B07B-240DD9A6A6FC}" Type="Ref">/Sample-changer-2/Chassis/Mod7/DI14</Property>
-	<Property Name="varPersistentID:{DB0DF1F6-89FC-4280-B157-25FF555F6694}" Type="Ref">/My Computer/SC2 Monitor shared var.lvlib/Converted Encoder</Property>
-	<Property Name="varPersistentID:{E0992B61-9E69-41F6-AC90-9B5598AD05AD}" Type="Ref">/Sample-changer-2/Chassis/Mod6/DIO6</Property>
-	<Property Name="varPersistentID:{E0FBB738-76D5-4689-A808-CD04479843EB}" Type="Ref">/Sample-changer-2/Chassis/Mod7/DI28</Property>
-	<Property Name="varPersistentID:{E1948706-BDF2-4348-B81B-AF48FAFDB65C}" Type="Ref">/Sample-changer-2/Chassis/Mod4/AO13</Property>
-	<Property Name="varPersistentID:{E3C2B892-3277-4358-A6A5-749E7C27B18A}" Type="Ref">/Sample-changer-2/Chassis/Mod5/AI25</Property>
-	<Property Name="varPersistentID:{E6076D98-043D-4CC3-A7B6-8DE3D1A225F5}" Type="Ref">/Sample-changer-2/Chassis/Mod7/DI12</Property>
-	<Property Name="varPersistentID:{E8ACC7BA-4403-49E8-A654-A607C02AF0B3}" Type="Ref">/Sample-changer-2/Chassis/Mod6/DIO13</Property>
-	<Property Name="varPersistentID:{EC4C53E1-12F0-4F57-83F3-8994F371A700}" Type="Ref">/Sample-changer-2/Chassis/Mod5/AI24</Property>
-	<Property Name="varPersistentID:{EE1A4292-307D-4114-B43E-433B906AC328}" Type="Ref">/Sample-changer-2/Chassis/Mod5/AI27</Property>
-	<Property Name="varPersistentID:{EF5A55B7-896C-4868-AC09-EEE2838B9CAB}" Type="Ref">/Sample-changer-2/Chassis/Mod4/AO10</Property>
-	<Property Name="varPersistentID:{F3F95899-1E3B-4209-ACF4-518C6D48EB8E}" Type="Ref">/Sample-changer-2/Chassis/Mod7/DI22</Property>
-	<Property Name="varPersistentID:{F405AB48-E559-4293-8A59-A34C4066D89D}" Type="Ref">/Sample-changer-2/Chassis/Mod5/AI18</Property>
-	<Property Name="varPersistentID:{F41DDD13-2DC4-4AE6-AC33-C0F0BCDC4F56}" Type="Ref">/Sample-changer-2/Chassis/Mod5/AI14</Property>
-	<Property Name="varPersistentID:{F695E9B8-02A1-444C-A271-1F97E4421C3A}" Type="Ref">/Sample-changer-2/Chassis/Mod6/DIO17</Property>
-	<Property Name="varPersistentID:{F6A2E523-9F79-40A4-BEDB-3241E28ACD2F}" Type="Ref">/Sample-changer-2/Chassis/Mod4/AO12</Property>
-	<Property Name="varPersistentID:{FCB3FEE8-A3D0-47DD-801C-58DCBE2ADCF8}" Type="Ref">/My Computer/SC2 Monitor shared var.lvlib/Raw Encoder</Property>
-	<Property Name="varPersistentID:{FE502A7A-6DE5-466D-B05C-851D93DD9CAB}" Type="Ref">/My Computer/SC2 Monitor shared var.lvlib/Requested Sample</Property>
-	<Property Name="varPersistentID:{FED7320B-C4B9-493C-84E5-AD05E959D456}" Type="Ref">/Sample-changer-2/Chassis/Mod8/DO6</Property>
-	<Property Name="varPersistentID:{FF0671FD-94BF-49F7-9BC8-B2C8B1AF3407}" Type="Ref">/Sample-changer-2/SC2 shared var.lvlib/SC2 Encoder radius</Property>
+	<Property Name="varPersistentID:{0099961A-9608-435B-AA2D-314C7D0C0766}" Type="Ref">/RT CompactRIO Target/Chassis/Mod5/DO6</Property>
+	<Property Name="varPersistentID:{0458872E-0296-454A-98E3-ED310D895872}" Type="Ref">/RT CompactRIO Target/Chassis/Mod6/DIO12</Property>
+	<Property Name="varPersistentID:{0A651724-1485-4E6F-9803-5E562BA12EDB}" Type="Ref">/RT CompactRIO Target/Chassis/Mod5/DO2</Property>
+	<Property Name="varPersistentID:{0B25CBE6-794F-4525-BAC9-0622ADD1B12F}" Type="Ref">/RT CompactRIO Target/Chassis/Mod4/AO12</Property>
+	<Property Name="varPersistentID:{0BEB6A00-6753-49D7-8635-FB8CB5B7E053}" Type="Ref">/RT CompactRIO Target/Chassis/Mod7/DI5</Property>
+	<Property Name="varPersistentID:{0D3C0390-FBB3-4574-8E6E-8523FF72A61D}" Type="Ref">/RT CompactRIO Target/Chassis/Mod7/DI6</Property>
+	<Property Name="varPersistentID:{0DE145F4-F782-4CA3-827D-EC98A650DA81}" Type="Ref">/RT CompactRIO Target/Chassis/Mod3/AI22</Property>
+	<Property Name="varPersistentID:{125B2990-0AB1-49F3-ADC0-AF3FF0B1B876}" Type="Ref">/RT CompactRIO Target/Chassis/Mod4/AO2</Property>
+	<Property Name="varPersistentID:{1275728B-7177-46C6-B8DF-ADF29C02507A}" Type="Ref">/RT CompactRIO Target/Chassis/Mod7/DI12</Property>
+	<Property Name="varPersistentID:{14AFCF3E-2E32-4EE9-86F5-86C5576A3B94}" Type="Ref">/RT CompactRIO Target/Chassis/Mod3/AI3</Property>
+	<Property Name="varPersistentID:{14C284F2-03DE-4CA8-B430-03A42CCE04C5}" Type="Ref">/RT CompactRIO Target/Chassis/Mod7/DI30</Property>
+	<Property Name="varPersistentID:{153ACDFB-3372-49A2-BBCD-C8F9FF2D3552}" Type="Ref">/RT CompactRIO Target/Chassis/Mod6/DIO28</Property>
+	<Property Name="varPersistentID:{16B6D098-A4AF-49A2-A997-254F8D31FD9A}" Type="Ref">/RT CompactRIO Target/Chassis/Mod7/DI31</Property>
+	<Property Name="varPersistentID:{1717E9DB-AA09-4C24-944A-BA7D5CF94A9E}" Type="Ref">/RT CompactRIO Target/Chassis/Mod7/DI18</Property>
+	<Property Name="varPersistentID:{17223095-98D1-4176-A7BF-EC605B5ABFE0}" Type="Ref">/RT CompactRIO Target/Chassis/Mod7/DI2</Property>
+	<Property Name="varPersistentID:{1C2AD4EA-9CF5-4D51-8FB7-CDC4160F273A}" Type="Ref">/RT CompactRIO Target/Chassis/Mod7/DI23</Property>
+	<Property Name="varPersistentID:{1DD137A0-6BD2-4590-BE56-D5783303AAFE}" Type="Ref">/RT CompactRIO Target/Chassis/Mod6/DIO5</Property>
+	<Property Name="varPersistentID:{1EF5031E-E9E1-4CB2-9B5E-884BCC329164}" Type="Ref">/RT CompactRIO Target/Chassis/Mod3/AI24</Property>
+	<Property Name="varPersistentID:{2199F4F6-61FA-4A78-BDBA-B2C0FEDD42C8}" Type="Ref">/RT CompactRIO Target/Chassis/Mod3/AI1</Property>
+	<Property Name="varPersistentID:{21D7A11D-61B3-46A6-BC6E-9D48F1D82162}" Type="Ref">/RT CompactRIO Target/Chassis/Mod4/AO0</Property>
+	<Property Name="varPersistentID:{2394C81A-16D7-4A9F-8921-20BBEAA22225}" Type="Ref">/RT CompactRIO Target/Chassis/Mod3/AI2</Property>
+	<Property Name="varPersistentID:{242EF3C6-AA7C-4857-98B2-8A9DAEDF1A8A}" Type="Ref">/RT CompactRIO Target/Chassis/Mod6/DIO18</Property>
+	<Property Name="varPersistentID:{25D04F10-B13A-4F08-B13E-B240E02A4D13}" Type="Ref">/RT CompactRIO Target/Chassis/Mod5/DO7</Property>
+	<Property Name="varPersistentID:{2B9B9A8C-8EFD-4593-89AB-4A156E345CD2}" Type="Ref">/RT CompactRIO Target/Chassis/Mod3/AI28</Property>
+	<Property Name="varPersistentID:{2CB8402F-4640-40FC-B473-E0059327FD26}" Type="Ref">/My Computer/SCB Monitor shared var.lvlib/Current State</Property>
+	<Property Name="varPersistentID:{2F8BF7D5-E841-4011-BB3A-5179F5004DC0}" Type="Ref">/RT CompactRIO Target/Chassis/Mod5/DO0</Property>
+	<Property Name="varPersistentID:{32E3F881-1C03-4437-B273-49EC375D0D07}" Type="Ref">/RT CompactRIO Target/SCB shared var.lvlib/SCB Encoder destination</Property>
+	<Property Name="varPersistentID:{33AECF64-D20E-4CA0-90EF-A5FF2A07F430}" Type="Ref">/RT CompactRIO Target/Chassis/Mod3/AI7</Property>
+	<Property Name="varPersistentID:{3A736607-9CB2-4FE6-8C14-A04E6979E8BA}" Type="Ref">/RT CompactRIO Target/Chassis/Mod3/AI11</Property>
+	<Property Name="varPersistentID:{3ABEF78D-06B7-416A-9363-9F699D18E098}" Type="Ref">/RT CompactRIO Target/Chassis/Mod7/DI22</Property>
+	<Property Name="varPersistentID:{3B19FF9B-2DE3-4665-B9B8-DFF703474C7E}" Type="Ref">/RT CompactRIO Target/Chassis/Mod6/DIO21</Property>
+	<Property Name="varPersistentID:{3ECC87AE-8394-4B64-9897-E91D5904931A}" Type="Ref">/My Computer/SCB Monitor shared var.lvlib/Encoder Radius</Property>
+	<Property Name="varPersistentID:{407C7D8A-DC70-4A46-A00B-C3B4A13B06A1}" Type="Ref">/RT CompactRIO Target/Chassis/Mod7/DI24</Property>
+	<Property Name="varPersistentID:{40D18920-64E2-43E2-8E3C-DC0457330CDD}" Type="Ref">/RT CompactRIO Target/Chassis/Mod3/AI15</Property>
+	<Property Name="varPersistentID:{40D75EA7-6798-4568-958C-EB18139C4DA2}" Type="Ref">/RT CompactRIO Target/Chassis/Mod4/AO10</Property>
+	<Property Name="varPersistentID:{435CEE30-6A6C-4ACC-97AE-836ED695004D}" Type="Ref">/RT CompactRIO Target/Chassis/Mod3/AI27</Property>
+	<Property Name="varPersistentID:{455289BD-79B2-491A-814E-90E3AA7027A3}" Type="Ref">/RT CompactRIO Target/Chassis/Mod4/AO9</Property>
+	<Property Name="varPersistentID:{48C237E0-21AE-4E61-9BC0-40574BA4C159}" Type="Ref">/RT CompactRIO Target/Chassis/Mod6/DIO25</Property>
+	<Property Name="varPersistentID:{49C8ADAB-874B-4465-AED3-3713C481C13A}" Type="Ref">/RT CompactRIO Target/Chassis/Mod7/DI10</Property>
+	<Property Name="varPersistentID:{4CF7BC76-BCA3-471B-8081-B602E56579E1}" Type="Ref">/My Computer/SCB Monitor shared var.lvlib/Current Sample</Property>
+	<Property Name="varPersistentID:{4D4DBBF2-7326-43E0-B4F5-4A86F0DB591E}" Type="Ref">/RT CompactRIO Target/Chassis/Mod6/DIO24</Property>
+	<Property Name="varPersistentID:{4D81A2D3-20FC-4FEE-9422-EA906D4787F2}" Type="Ref">/My Computer/SCB Monitor shared var.lvlib/Start Sample Change</Property>
+	<Property Name="varPersistentID:{4F4E7FCD-1FE6-4BE3-977C-0FA6987C4CE5}" Type="Ref">/RT CompactRIO Target/SCB shared var.lvlib/SCB Converted Encoder</Property>
+	<Property Name="varPersistentID:{50354585-16DA-423E-89B0-F6DA6F901641}" Type="Ref">/RT CompactRIO Target/Chassis/Mod7/DI29</Property>
+	<Property Name="varPersistentID:{55F954E3-9FE4-4B33-B15D-B82CF41A00A2}" Type="Ref">/RT CompactRIO Target/Chassis/Mod3/AI9</Property>
+	<Property Name="varPersistentID:{5722830D-A0C4-424A-B729-6AE6B88B7F7F}" Type="Ref">/My Computer/SCB Monitor shared var.lvlib/Change Complete</Property>
+	<Property Name="varPersistentID:{58A8B265-8617-4E43-82EE-5D36D977EBFC}" Type="Ref">/RT CompactRIO Target/Chassis/Mod3/AI29</Property>
+	<Property Name="varPersistentID:{58CE062F-803D-4452-A471-7F9052B1B8D7}" Type="Ref">/RT CompactRIO Target/Chassis/Mod7/DI28</Property>
+	<Property Name="varPersistentID:{5A63563E-9A9B-40F7-B639-EAB551513021}" Type="Ref">/My Computer/SCB Monitor shared var.lvlib/Encoder Position</Property>
+	<Property Name="varPersistentID:{5F0D051E-4D4E-4B44-B33D-10EC8993D0B3}" Type="Ref">/RT CompactRIO Target/Chassis/Mod7/DI9</Property>
+	<Property Name="varPersistentID:{5F54190D-24A0-4972-AFE0-56B526F70A80}" Type="Ref">/RT CompactRIO Target/Chassis/Mod6/DIO16</Property>
+	<Property Name="varPersistentID:{602D1CB0-58A5-4E41-A792-662AF3B75521}" Type="Ref">/RT CompactRIO Target/Chassis/Mod4/AO15</Property>
+	<Property Name="varPersistentID:{6255A82C-3E5C-4EE2-9AD8-AC2A7553CDFA}" Type="Ref">/RT CompactRIO Target/Chassis/Mod7/DI19</Property>
+	<Property Name="varPersistentID:{6315DD6C-E3C7-4790-A63F-4FBC768059D6}" Type="Ref">/RT CompactRIO Target/Chassis/Mod3/AI31</Property>
+	<Property Name="varPersistentID:{6B5EEEC1-91A4-4B85-875A-396068077E0B}" Type="Ref">/RT CompactRIO Target/SCB shared var.lvlib/SCB Motor status</Property>
+	<Property Name="varPersistentID:{6D347326-B02B-45EB-9F8D-5FD5427AD8D0}" Type="Ref">/RT CompactRIO Target/Chassis/Mod6/DIO10</Property>
+	<Property Name="varPersistentID:{6D509565-C40D-41E7-9EF6-BE9B6C03BDDA}" Type="Ref">/RT CompactRIO Target/Chassis/Mod3/AI12</Property>
+	<Property Name="varPersistentID:{70E16704-DBA5-419E-8E03-193C2EE74886}" Type="Ref">/My Computer/SCB Monitor shared var.lvlib/Random Change</Property>
+	<Property Name="varPersistentID:{73ECD3C3-D4C2-428B-A855-9539499114BA}" Type="Ref">/RT CompactRIO Target/SCB shared var.lvlib/SCB Encoder Offset</Property>
+	<Property Name="varPersistentID:{74C9EB0D-C786-4312-BDB7-235A557FD93D}" Type="Ref">/RT CompactRIO Target/Chassis/Mod3/AI21</Property>
+	<Property Name="varPersistentID:{765E521B-6692-48D9-8718-6EED210C42E3}" Type="Ref">/RT CompactRIO Target/Chassis/Mod6/DIO27</Property>
+	<Property Name="varPersistentID:{776C5BB4-EF11-4A4C-85F2-636982EBDBFC}" Type="Ref">/RT CompactRIO Target/Chassis/Mod7/DI17</Property>
+	<Property Name="varPersistentID:{77F9677D-17D3-4E9B-A78A-76F9E5E956C6}" Type="Ref">/RT CompactRIO Target/Chassis/Mod3/AI8</Property>
+	<Property Name="varPersistentID:{7B236CC2-5E96-48F7-8736-3136C33F4A90}" Type="Ref">/RT CompactRIO Target/Chassis/Mod6/DIO30</Property>
+	<Property Name="varPersistentID:{7B256641-4068-4DA8-9564-E4513CFD3BEC}" Type="Ref">/RT CompactRIO Target/Chassis/Mod6/DIO6</Property>
+	<Property Name="varPersistentID:{7CAB8F2A-00A1-4C52-8A26-62E6CA65B5C3}" Type="Ref">/RT CompactRIO Target/Chassis/Mod6/DIO9</Property>
+	<Property Name="varPersistentID:{7CECF2CD-7463-424C-B9DC-B13FBC29FC25}" Type="Ref">/RT CompactRIO Target/Chassis/Mod6/DIO1</Property>
+	<Property Name="varPersistentID:{7D417059-67C7-451A-985F-B128C80F54F5}" Type="Ref">/RT CompactRIO Target/SCB shared var.lvlib/SCB Encoder radius</Property>
+	<Property Name="varPersistentID:{7D752CF1-2BE5-4102-85F5-38CAE13B303A}" Type="Ref">/RT CompactRIO Target/Chassis/Mod4/AO8</Property>
+	<Property Name="varPersistentID:{7DEDAC91-543B-4D0D-AE31-5494C9C73BE9}" Type="Ref">/RT CompactRIO Target/Chassis/Mod7/DI16</Property>
+	<Property Name="varPersistentID:{7E538EBF-2E54-483D-8AD0-32A557691BD3}" Type="Ref">/RT CompactRIO Target/Chassis/Mod5/DO1</Property>
+	<Property Name="varPersistentID:{7E9C7894-D3BC-433D-BD68-1A477AA5B741}" Type="Ref">/My Computer/SCB Monitor shared var.lvlib/Encoder Destination</Property>
+	<Property Name="varPersistentID:{7EB9CA67-761D-4606-BFB2-BE2E5422E36A}" Type="Ref">/RT CompactRIO Target/Chassis/Mod3/AI18</Property>
+	<Property Name="varPersistentID:{7FC927EA-D8C5-4036-95FA-65BC3EEDF8A1}" Type="Ref">/RT CompactRIO Target/Chassis/Mod3/AI4</Property>
+	<Property Name="varPersistentID:{835BD19C-3C40-4B6B-B98F-42183867C959}" Type="Ref">/RT CompactRIO Target/Chassis/Mod7/DI20</Property>
+	<Property Name="varPersistentID:{87272F3B-FC3F-4B97-A3F7-63C11A624920}" Type="Ref">/RT CompactRIO Target/Chassis/Mod3/AI23</Property>
+	<Property Name="varPersistentID:{8885D3FB-4BCC-456B-91A0-0322D04A715C}" Type="Ref">/RT CompactRIO Target/SCB shared var.lvlib/SCB Change Complete</Property>
+	<Property Name="varPersistentID:{88A31F5B-5234-4D9E-9E46-4060E3BA7C60}" Type="Ref">/RT CompactRIO Target/Chassis/Mod4/AO3</Property>
+	<Property Name="varPersistentID:{8AA87F98-94BF-4101-A71F-26410492DFC4}" Type="Ref">/RT CompactRIO Target/Chassis/Mod6/DIO2</Property>
+	<Property Name="varPersistentID:{8AFE6B6E-875B-42AF-AA5C-E3786CDF2B46}" Type="Ref">/RT CompactRIO Target/SCB shared var.lvlib/SCB Random Change</Property>
+	<Property Name="varPersistentID:{91C826A4-19D9-44A8-B0CB-FB32337847E3}" Type="Ref">/RT CompactRIO Target/Chassis/Mod6/DIO7</Property>
+	<Property Name="varPersistentID:{9252989E-9221-4FA6-8C8F-0E35A57E3D18}" Type="Ref">/RT CompactRIO Target/Chassis/Mod7/DI1</Property>
+	<Property Name="varPersistentID:{947ADBBF-C80F-4B53-834A-C7970AD14585}" Type="Ref">/RT CompactRIO Target/Chassis/Mod7/DI11</Property>
+	<Property Name="varPersistentID:{954C03C7-9AE1-4B60-B7C0-4EB73553303F}" Type="Ref">/RT CompactRIO Target/Chassis/Mod3/AI5</Property>
+	<Property Name="varPersistentID:{96E6DDE1-D5F5-4297-B72B-E37118845148}" Type="Ref">/RT CompactRIO Target/Chassis/Mod7/DI14</Property>
+	<Property Name="varPersistentID:{970CEBE1-84B1-4B96-8919-118042436EF1}" Type="Ref">/RT CompactRIO Target/Chassis/Mod4/AO5</Property>
+	<Property Name="varPersistentID:{977DF333-2818-4394-A9D3-61D852DB75F4}" Type="Ref">/My Computer/SCB Monitor shared var.lvlib/Encoder Offset</Property>
+	<Property Name="varPersistentID:{984448EA-0943-4244-B63E-1DD0B39FBA4F}" Type="Ref">/My Computer/SCB Monitor shared var.lvlib/Motor Status</Property>
+	<Property Name="varPersistentID:{9A0710FE-EA85-41FF-AAAC-DF9DF1C5E6E0}" Type="Ref">/RT CompactRIO Target/Chassis/Mod5/DO4</Property>
+	<Property Name="varPersistentID:{9A2950F1-1394-4FD6-B377-4FCDC839115F}" Type="Ref">/RT CompactRIO Target/SCB shared var.lvlib/SCB Requested Sample</Property>
+	<Property Name="varPersistentID:{9C4438C9-49E5-4B0A-95CF-B41C56223D1F}" Type="Ref">/RT CompactRIO Target/Chassis/Mod7/DI25</Property>
+	<Property Name="varPersistentID:{9C9D3556-70AC-46FA-B559-4D79934ED1B5}" Type="Ref">/RT CompactRIO Target/Chassis/Mod7/DI13</Property>
+	<Property Name="varPersistentID:{9D911625-6D5A-43FA-A573-095C5014FBB3}" Type="Ref">/RT CompactRIO Target/Chassis/Mod4/AO7</Property>
+	<Property Name="varPersistentID:{9EE63F6F-2F58-4E09-9ADB-EF1799B2C042}" Type="Ref">/RT CompactRIO Target/Chassis/Mod3/AI17</Property>
+	<Property Name="varPersistentID:{A1E9CBCB-22D0-41BD-9CEA-012855A0A3E5}" Type="Ref">/RT CompactRIO Target/Chassis/Mod6/DIO23</Property>
+	<Property Name="varPersistentID:{A340A0E1-5DBA-42A7-AB63-624527C53211}" Type="Ref">/RT CompactRIO Target/Chassis/Mod7/DI8</Property>
+	<Property Name="varPersistentID:{A57EB847-324F-4C6D-9B0B-97B04CB67DED}" Type="Ref">/RT CompactRIO Target/SCB shared var.lvlib/SCB Encoder Position</Property>
+	<Property Name="varPersistentID:{A58EC884-842F-44C3-9CAF-D81B70CC2763}" Type="Ref">/RT CompactRIO Target/Chassis/Mod7/DI3</Property>
+	<Property Name="varPersistentID:{A6C226F7-27CB-4D50-9CDB-FCA1C0179C70}" Type="Ref">/RT CompactRIO Target/Chassis/Mod6/DIO0</Property>
+	<Property Name="varPersistentID:{A8B85D1F-0E1A-474F-8570-72EC0E25ED96}" Type="Ref">/RT CompactRIO Target/Chassis/Mod7/DI15</Property>
+	<Property Name="varPersistentID:{A8F27CE5-FCDB-4BA6-80A1-4D7270E5C2DF}" Type="Ref">/RT CompactRIO Target/Chassis/Mod6/DIO20</Property>
+	<Property Name="varPersistentID:{AB55943E-B2B7-46A0-B479-0CEE114ACB03}" Type="Ref">/RT CompactRIO Target/Chassis/Mod3/AI14</Property>
+	<Property Name="varPersistentID:{ACCD064C-BAE1-4C86-9381-AC444C2DA91C}" Type="Ref">/RT CompactRIO Target/Chassis/Mod7/DI0</Property>
+	<Property Name="varPersistentID:{AD0D7EA6-6888-466C-B60A-A5D2E8EEFD93}" Type="Ref">/RT CompactRIO Target/Chassis/Mod6/DIO26</Property>
+	<Property Name="varPersistentID:{AD9E55FF-FB2D-465B-A14A-A791AE4CD9E7}" Type="Ref">/RT CompactRIO Target/Chassis/Mod4/AO14</Property>
+	<Property Name="varPersistentID:{B1574B58-93C0-46A8-B763-38DC9E2638FE}" Type="Ref">/RT CompactRIO Target/Chassis/Mod3/AI10</Property>
+	<Property Name="varPersistentID:{B24EF786-3540-462B-B234-F701BB87F32B}" Type="Ref">/RT CompactRIO Target/Chassis/Mod3/AI0</Property>
+	<Property Name="varPersistentID:{B2BF9259-EB61-4400-9428-496352F269A2}" Type="Ref">/RT CompactRIO Target/Chassis/Mod4/AO1</Property>
+	<Property Name="varPersistentID:{BA0B0635-4DB7-4F00-803A-F54FF3984C5C}" Type="Ref">/RT CompactRIO Target/Chassis/Mod6/DIO4</Property>
+	<Property Name="varPersistentID:{BEB5A29D-49F1-4C6A-B3F8-5BCA3744F122}" Type="Ref">/RT CompactRIO Target/Chassis/Mod3/AI20</Property>
+	<Property Name="varPersistentID:{C0EBB6FC-6928-4E4D-9874-A373C889B3D4}" Type="Ref">/RT CompactRIO Target/Chassis/Mod3/AI6</Property>
+	<Property Name="varPersistentID:{C0FF0C1D-766E-46DF-A2A0-ED95EC10E330}" Type="Ref">/RT CompactRIO Target/Chassis/Mod6/DIO11</Property>
+	<Property Name="varPersistentID:{C17676F1-A9C0-4166-B0B9-F39F585DA93F}" Type="Ref">/RT CompactRIO Target/Chassis/Mod6/DIO29</Property>
+	<Property Name="varPersistentID:{C3685F04-2DD6-4532-9BB9-B3BA797955BD}" Type="Ref">/RT CompactRIO Target/SCB shared var.lvlib/SCB Start Sample Change</Property>
+	<Property Name="varPersistentID:{C6BE1A67-E729-4D55-B3CA-F05B78D26860}" Type="Ref">/RT CompactRIO Target/Chassis/Mod3/AI16</Property>
+	<Property Name="varPersistentID:{C7EB6A0A-DD1B-479E-A761-404FE1F30A4F}" Type="Ref">/RT CompactRIO Target/Chassis/Mod6/DIO8</Property>
+	<Property Name="varPersistentID:{C9E0B064-A8DA-4007-9325-AB0C8A08622F}" Type="Ref">/RT CompactRIO Target/Chassis/Mod6/DIO15</Property>
+	<Property Name="varPersistentID:{CB201205-E48E-4B6E-9AFD-8DE90BFCED3B}" Type="Ref">/RT CompactRIO Target/Chassis/Mod3/AI19</Property>
+	<Property Name="varPersistentID:{CCC9843B-DD02-4741-8D50-9786E34FFC25}" Type="Ref">/RT CompactRIO Target/Chassis/Mod5/DO3</Property>
+	<Property Name="varPersistentID:{CCD1988D-1616-4BEA-9EA0-A985E45D4819}" Type="Ref">/RT CompactRIO Target/Chassis/Mod6/DIO19</Property>
+	<Property Name="varPersistentID:{CE1E9797-80AF-4B0A-9AD2-83EBD37165F0}" Type="Ref">/RT CompactRIO Target/Chassis/Mod6/DIO31</Property>
+	<Property Name="varPersistentID:{CFF75AA1-1198-464D-ACE4-5D5E06A0ECD7}" Type="Ref">/RT CompactRIO Target/Chassis/Mod7/DI26</Property>
+	<Property Name="varPersistentID:{D524BB4F-02FF-4AC2-BFC7-E4D9E817FB13}" Type="Ref">/RT CompactRIO Target/Chassis/Mod6/DIO22</Property>
+	<Property Name="varPersistentID:{D5370252-DA33-47FB-BC5F-FE2C5D86D6BD}" Type="Ref">/RT CompactRIO Target/SCB shared var.lvlib/SCB Raw Encoder</Property>
+	<Property Name="varPersistentID:{DA44FEF5-7E4C-47F2-B9A1-082BE5927AB0}" Type="Ref">/RT CompactRIO Target/Chassis/Mod4/AO6</Property>
+	<Property Name="varPersistentID:{DAC6200B-2A7C-464C-BBC7-6508F3003A80}" Type="Ref">/RT CompactRIO Target/Chassis/Mod3/AI30</Property>
+	<Property Name="varPersistentID:{DB0DF1F6-89FC-4280-B157-25FF555F6694}" Type="Ref">/My Computer/SCB Monitor shared var.lvlib/Converted Encoder</Property>
+	<Property Name="varPersistentID:{DF64B61D-8CCD-4841-969B-379907A56502}" Type="Ref">/RT CompactRIO Target/Chassis/Mod7/DI7</Property>
+	<Property Name="varPersistentID:{E3C30025-34C1-424F-B09B-41D9E7D2056B}" Type="Ref">/RT CompactRIO Target/Chassis/Mod3/AI26</Property>
+	<Property Name="varPersistentID:{E71C5C6C-49C8-4F37-864C-9AA9A5C8760A}" Type="Ref">/RT CompactRIO Target/Chassis/Mod7/DI27</Property>
+	<Property Name="varPersistentID:{E971AC14-9C11-401C-9C3F-A2C987B6710D}" Type="Ref">/RT CompactRIO Target/Chassis/Mod4/AO13</Property>
+	<Property Name="varPersistentID:{EA4E915D-6302-4393-8FF7-66A2BB1AE7BF}" Type="Ref">/RT CompactRIO Target/Chassis/Mod7/DI21</Property>
+	<Property Name="varPersistentID:{EC27CED0-825E-47AC-86BA-CE75B0D32019}" Type="Ref">/RT CompactRIO Target/Chassis/Mod4/AO11</Property>
+	<Property Name="varPersistentID:{EDD09163-A266-4219-BBEE-D01DC3DE350A}" Type="Ref">/RT CompactRIO Target/Chassis/Mod4/AO4</Property>
+	<Property Name="varPersistentID:{EF4D7472-9C94-4650-8114-FCA3B245ADFD}" Type="Ref">/RT CompactRIO Target/SCB shared var.lvlib/SCB Current Sample</Property>
+	<Property Name="varPersistentID:{F715D790-085E-4FC3-8B9B-2883D9060341}" Type="Ref">/RT CompactRIO Target/Chassis/Mod5/DO5</Property>
+	<Property Name="varPersistentID:{F7211263-E9CB-49CA-B3C8-37E24330F99E}" Type="Ref">/RT CompactRIO Target/Chassis/Mod6/DIO13</Property>
+	<Property Name="varPersistentID:{F7609999-2BF6-4B89-B4F1-36166E1E9292}" Type="Ref">/RT CompactRIO Target/Chassis/Mod7/DI4</Property>
+	<Property Name="varPersistentID:{F8C69120-4356-4368-9BD7-D2EFACAC3AC2}" Type="Ref">/RT CompactRIO Target/Chassis/Mod6/DIO3</Property>
+	<Property Name="varPersistentID:{F9FC2202-D149-4FE3-85A3-302F3DD4AB77}" Type="Ref">/RT CompactRIO Target/Chassis/Mod3/AI25</Property>
+	<Property Name="varPersistentID:{FCB3FEE8-A3D0-47DD-801C-58DCBE2ADCF8}" Type="Ref">/My Computer/SCB Monitor shared var.lvlib/Raw Encoder</Property>
+	<Property Name="varPersistentID:{FCE4FBB1-5406-4FCA-B10F-D1FE06478C88}" Type="Ref">/RT CompactRIO Target/Chassis/Mod3/AI13</Property>
+	<Property Name="varPersistentID:{FCEB539B-95D2-4249-8C05-454D6D098D24}" Type="Ref">/RT CompactRIO Target/Chassis/Mod6/DIO14</Property>
+	<Property Name="varPersistentID:{FE502A7A-6DE5-466D-B05C-851D93DD9CAB}" Type="Ref">/My Computer/SCB Monitor shared var.lvlib/Requested Sample</Property>
+	<Property Name="varPersistentID:{FF09C721-39F4-4925-9A89-CAB6A34551D0}" Type="Ref">/RT CompactRIO Target/SCB shared var.lvlib/SCB Current State</Property>
+	<Property Name="varPersistentID:{FF89C021-112A-4616-B7DC-7838F071BB9F}" Type="Ref">/RT CompactRIO Target/Chassis/Mod6/DIO17</Property>
 	<Item Name="My Computer" Type="My Computer">
 		<Property Name="IOScan.Faults" Type="Str"></Property>
 		<Property Name="IOScan.NetVarPeriod" Type="UInt">100</Property>
@@ -169,9 +169,9 @@
 		<Property Name="server.vi.propertiesEnabled" Type="Bool">true</Property>
 		<Property Name="specify.custom.address" Type="Bool">false</Property>
 		<Item Name="Interface states.ctl" Type="VI" URL="../Interface states.ctl"/>
-		<Item Name="SC2 Host.vi" Type="VI" URL="../SC2 Host.vi"/>
-		<Item Name="SC2 Monitor shared var.lvlib" Type="Library" URL="../SC2 Monitor shared var.lvlib"/>
+		<Item Name="SCB Host.vi" Type="VI" URL="../SCB Host.vi"/>
 		<Item Name="SCB icon 01.ico" Type="Document" URL="../../../icons/SCB icon 01.ico"/>
+		<Item Name="SCB Monitor shared var.lvlib" Type="Library" URL="../SCB Monitor shared var.lvlib"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="SC2 states.ctl" Type="VI" URL="../SC2 states.ctl"/>
 		</Item>
@@ -202,13 +202,13 @@
 				<Property Name="DestinationCount" Type="Int">2</Property>
 				<Property Name="Exe_iconItemID" Type="Ref">/My Computer/SCB icon 01.ico</Property>
 				<Property Name="Exe_Vardep[0].LibDeploy" Type="Bool">true</Property>
-				<Property Name="Exe_Vardep[0].LibItemID" Type="Ref">/My Computer/SC2 Monitor shared var.lvlib</Property>
+				<Property Name="Exe_Vardep[0].LibItemID" Type="Ref">/My Computer/SCB Monitor shared var.lvlib</Property>
 				<Property Name="Exe_VardepDeployAtStartup" Type="Bool">true</Property>
 				<Property Name="Exe_VardepLibItemCount" Type="Int">1</Property>
-				<Property Name="Source[0].itemID" Type="Str">{A23A13A8-DB79-4EE7-9298-625BD9403FE8}</Property>
+				<Property Name="Source[0].itemID" Type="Str">{2247EB78-0852-472E-89E4-0370B12EA7C8}</Property>
 				<Property Name="Source[0].type" Type="Str">Container</Property>
 				<Property Name="Source[1].destinationIndex" Type="Int">0</Property>
-				<Property Name="Source[1].itemID" Type="Ref">/My Computer/SC2 Host.vi</Property>
+				<Property Name="Source[1].itemID" Type="Ref">/My Computer/SCB Host.vi</Property>
 				<Property Name="Source[1].sourceInclusion" Type="Str">TopLevel</Property>
 				<Property Name="Source[1].type" Type="Str">VI</Property>
 				<Property Name="Source[2].destinationIndex" Type="Int">0</Property>
@@ -216,7 +216,7 @@
 				<Property Name="Source[2].sourceInclusion" Type="Str">Include</Property>
 				<Property Name="Source[2].type" Type="Str">VI</Property>
 				<Property Name="Source[3].destinationIndex" Type="Int">0</Property>
-				<Property Name="Source[3].itemID" Type="Ref">/My Computer/SC2 Monitor shared var.lvlib</Property>
+				<Property Name="Source[3].itemID" Type="Ref">/My Computer/SCB Monitor shared var.lvlib</Property>
 				<Property Name="Source[3].Library.allowMissingMembers" Type="Bool">true</Property>
 				<Property Name="Source[3].sourceInclusion" Type="Str">Include</Property>
 				<Property Name="Source[3].type" Type="Str">Library</Property>
@@ -231,16 +231,16 @@
 			</Item>
 		</Item>
 	</Item>
-	<Item Name="Sample-changer-2" Type="RT CompactRIO">
-		<Property Name="alias.name" Type="Str">Sample-changer-2</Property>
-		<Property Name="alias.value" Type="Str">192.168.1.154</Property>
-		<Property Name="CCSymbols" Type="Str">TARGET_TYPE,RT;OS,VxWorks;CPU,PowerPC;DeviceCode,7459;</Property>
-		<Property Name="crio.ControllerPID" Type="Str">7459</Property>
+	<Item Name="RT CompactRIO Target" Type="RT CompactRIO">
+		<Property Name="alias.name" Type="Str">RT CompactRIO Target</Property>
+		<Property Name="alias.value" Type="Str">192.168.1.95</Property>
+		<Property Name="CCSymbols" Type="Str">TARGET_TYPE,RT;OS,Linux;CPU,ARM;DeviceCode,7744;</Property>
+		<Property Name="crio.ControllerPID" Type="Str">7744</Property>
 		<Property Name="host.ResponsivenessCheckEnabled" Type="Bool">true</Property>
 		<Property Name="host.ResponsivenessCheckPingDelay" Type="UInt">5000</Property>
 		<Property Name="host.ResponsivenessCheckPingTimeout" Type="UInt">1000</Property>
-		<Property Name="host.TargetCPUID" Type="UInt">2</Property>
-		<Property Name="host.TargetOSID" Type="UInt">14</Property>
+		<Property Name="host.TargetCPUID" Type="UInt">8</Property>
+		<Property Name="host.TargetOSID" Type="UInt">8</Property>
 		<Property Name="target.cleanupVisa" Type="Bool">false</Property>
 		<Property Name="target.FPProtocolGlobals_ControlTimeLimit" Type="Int">300</Property>
 		<Property Name="target.getDefault-&gt;WebServer.Port" Type="Int">80</Property>
@@ -255,11 +255,11 @@
 		<Property Name="target.IsRemotePanelSupported" Type="Bool">true</Property>
 		<Property Name="target.RTCPULoadMonitoringEnabled" Type="Bool">true</Property>
 		<Property Name="target.RTDebugWebServerHTTPPort" Type="Int">8001</Property>
-		<Property Name="target.RTTarget.ApplicationPath" Type="Path">/c/ni-rt/startup/startup.rtexe</Property>
+		<Property Name="target.RTTarget.ApplicationPath" Type="Path">/home/lvuser/natinst/bin/startup.rtexe</Property>
 		<Property Name="target.RTTarget.EnableFileSharing" Type="Bool">true</Property>
 		<Property Name="target.RTTarget.IPAccess" Type="Str">+*</Property>
 		<Property Name="target.RTTarget.LaunchAppAtBoot" Type="Bool">true</Property>
-		<Property Name="target.RTTarget.VIPath" Type="Path">/c/ni-rt/startup</Property>
+		<Property Name="target.RTTarget.VIPath" Type="Path">/home/lvuser/natinst/bin</Property>
 		<Property Name="target.server.app.propertiesEnabled" Type="Bool">true</Property>
 		<Property Name="target.server.control.propertiesEnabled" Type="Bool">true</Property>
 		<Property Name="target.server.tcp.access" Type="Str">+*</Property>
@@ -309,24 +309,23 @@ AddOutputFilter chunkFilter
 		<Property Name="target.WebServer.ViAccess" Type="Str">+*</Property>
 		<Property Name="target.webservices.SecurityAPIKey" Type="Str">PqVr/ifkAQh+lVrdPIykXlFvg12GhhQFR8H9cUhphgg=:pTe9HRlQuMfJxAG6QCGq7UvoUpJzAzWGKy5SbZ+roSU=</Property>
 		<Property Name="target.webservices.ValidTimestampWindow" Type="Int">15</Property>
-		<Item Name="Axis 1" Type="Motion Axis">
+		<Item Name="Axis SCB motor" Type="Motion Axis">
 			<Property Name="axis.class:0" Type="Int">10551361</Property>
 			<Property Name="axis.mapping:0" Type="Str">Mod2 (Slot 2, NI 9512)</Property>
 			<Property Name="axis.slotNumber:0" Type="Int">2</Property>
 			<Property Name="axis.SMVersion" Type="Int">201310</Property>
 			<Property Name="axisSetup.activeOnModeTransition:0" Type="Bool">true</Property>
 			<Property Name="deviceID:0" Type="Int">9512</Property>
-			<Property Name="limit.forward.enable:0" Type="Bool">false</Property>
-			<Property Name="limit.reverse.enable:0" Type="Bool">false</Property>
+			<Property Name="interactivePanel.targetPosition:0" Type="Dbl">50000</Property>
 			<Property Name="resource.type:0" Type="Int">10551297</Property>
-			<Property Name="resourceID:0" Type="Str">{A96D5F14-DDA0-4AE8-9330-A247C0DAECD1}</Property>
+			<Property Name="resourceID:0" Type="Str">{9142C5EC-529E-42AA-B6AD-604179D42F2E}</Property>
 			<Property Name="softmotionID:0" Type="Str">{C89C22D6-09D8-451c-B54B-BE98A931F881}</Property>
 			<Property Name="vendorID:0" Type="Int">4243</Property>
 		</Item>
 		<Item Name="Chassis" Type="cRIO Chassis">
 			<Property Name="crio.ProgrammingMode" Type="Str">express</Property>
 			<Property Name="crio.ResourceID" Type="Str">RIO0</Property>
-			<Property Name="crio.Type" Type="Str">cRIO-9114</Property>
+			<Property Name="crio.Type" Type="Str">cRIO-9067</Property>
 			<Item Name="Mod2" Type="RIO C Series Module">
 				<Property Name="crio.Calibration" Type="Str">1</Property>
 				<Property Name="crio.Location" Type="Str">Slot 2</Property>
@@ -342,303 +341,6 @@ AddOutputFilter chunkFilter
 			<Item Name="Mod3" Type="RIO C Series Module">
 				<Property Name="crio.Calibration" Type="Str">1</Property>
 				<Property Name="crio.Location" Type="Str">Slot 3</Property>
-				<Property Name="crio.RequiresValidation" Type="Bool">false</Property>
-				<Property Name="crio.SDcounterSlaveChannelMask" Type="Str">0</Property>
-				<Property Name="crio.SDCounterSlaveMasterSlot" Type="Str">0</Property>
-				<Property Name="crio.SDInputFilter" Type="Str">128</Property>
-				<Property Name="crio.SupportsDynamicRes" Type="Bool">false</Property>
-				<Property Name="crio.Type" Type="Str">NI 9870</Property>
-				<Property Name="cRIOModule.DigitalIOMode" Type="Str">0</Property>
-				<Property Name="cRIOModule.EnableSpecialtyDigital" Type="Str">false</Property>
-				<Property Name="cRIOModule.kBaudRateDivider1" Type="Str">384</Property>
-				<Property Name="cRIOModule.kBaudRateDivider2" Type="Str">384</Property>
-				<Property Name="cRIOModule.kBaudRateDivider3" Type="Str">384</Property>
-				<Property Name="cRIOModule.kBaudRateDivider4" Type="Str">384</Property>
-				<Property Name="cRIOModule.kBaudRatePrescaler1" Type="Str">1</Property>
-				<Property Name="cRIOModule.kBaudRatePrescaler2" Type="Str">1</Property>
-				<Property Name="cRIOModule.kBaudRatePrescaler3" Type="Str">1</Property>
-				<Property Name="cRIOModule.kBaudRatePrescaler4" Type="Str">1</Property>
-				<Property Name="cRIOModule.kDataBits1" Type="Str">4</Property>
-				<Property Name="cRIOModule.kDataBits2" Type="Str">4</Property>
-				<Property Name="cRIOModule.kDataBits3" Type="Str">4</Property>
-				<Property Name="cRIOModule.kDataBits4" Type="Str">4</Property>
-				<Property Name="cRIOModule.kDesiredBaudRate1" Type="Str">9.600000E+3</Property>
-				<Property Name="cRIOModule.kDesiredBaudRate2" Type="Str">9.600000E+3</Property>
-				<Property Name="cRIOModule.kDesiredBaudRate3" Type="Str">9.600000E+3</Property>
-				<Property Name="cRIOModule.kDesiredBaudRate4" Type="Str">9.600000E+3</Property>
-				<Property Name="cRIOModule.kFlowControl1" Type="Str">1</Property>
-				<Property Name="cRIOModule.kFlowControl2" Type="Str">1</Property>
-				<Property Name="cRIOModule.kFlowControl3" Type="Str">1</Property>
-				<Property Name="cRIOModule.kFlowControl4" Type="Str">1</Property>
-				<Property Name="cRIOModule.kParity1" Type="Str">1</Property>
-				<Property Name="cRIOModule.kParity2" Type="Str">1</Property>
-				<Property Name="cRIOModule.kParity3" Type="Str">1</Property>
-				<Property Name="cRIOModule.kParity4" Type="Str">1</Property>
-				<Property Name="cRIOModule.kStopBits1" Type="Str">1</Property>
-				<Property Name="cRIOModule.kStopBits2" Type="Str">1</Property>
-				<Property Name="cRIOModule.kStopBits3" Type="Str">1</Property>
-				<Property Name="cRIOModule.kStopBits4" Type="Str">1</Property>
-				<Item Name="Port1" Type="RIO Subresource"/>
-				<Item Name="Port2" Type="RIO Subresource"/>
-				<Item Name="Port3" Type="RIO Subresource"/>
-				<Item Name="Port4" Type="RIO Subresource"/>
-			</Item>
-			<Item Name="Mod4" Type="RIO C Series Module">
-				<Property Name="crio.Calibration" Type="Str">1</Property>
-				<Property Name="crio.Location" Type="Str">Slot 4</Property>
-				<Property Name="crio.RequiresValidation" Type="Bool">false</Property>
-				<Property Name="crio.SDcounterSlaveChannelMask" Type="Str">0</Property>
-				<Property Name="crio.SDCounterSlaveMasterSlot" Type="Str">0</Property>
-				<Property Name="crio.SDInputFilter" Type="Str">128</Property>
-				<Property Name="crio.SupportsDynamicRes" Type="Bool">false</Property>
-				<Property Name="crio.Type" Type="Str">NI 9264</Property>
-				<Property Name="cRIOModule.DigitalIOMode" Type="Str">0</Property>
-				<Property Name="cRIOModule.EnableSpecialtyDigital" Type="Str">false</Property>
-				<Property Name="cRIOModule.HotSwapMode" Type="Str">0</Property>
-				<Item Name="AO0" Type="Variable">
-					<Property Name="featurePacks" Type="Str">Industrial</Property>
-					<Property Name="Industrial:BufferingEnabled" Type="Str">False</Property>
-					<Property Name="Industrial:ChannelIndex" Type="Str">0</Property>
-					<Property Name="Industrial:IODirection" Type="Str">Output</Property>
-					<Property Name="Industrial:IsNetworkPublished" Type="Str">True</Property>
-					<Property Name="Industrial:Mode" Type="Str">1</Property>
-					<Property Name="Industrial:PhysicalName" Type="Str">AO0</Property>
-					<Property Name="Network:BuffSize" Type="Str">50</Property>
-					<Property Name="Network:UseBinding" Type="Str">False</Property>
-					<Property Name="Network:UseBuffering" Type="Str">True</Property>
-					<Property Name="numTypedefs" Type="UInt">0</Property>
-					<Property Name="type" Type="Str">Industrial</Property>
-					<Property Name="typeDesc" Type="Bin">(1!!!"5!A!!!!!!"!!5!#A!!!1!!!!!!!!!!!!!!!!!!</Property>
-				</Item>
-				<Item Name="AO1" Type="Variable">
-					<Property Name="featurePacks" Type="Str">Industrial</Property>
-					<Property Name="Industrial:BufferingEnabled" Type="Str">False</Property>
-					<Property Name="Industrial:ChannelIndex" Type="Str">1</Property>
-					<Property Name="Industrial:IODirection" Type="Str">Output</Property>
-					<Property Name="Industrial:IsNetworkPublished" Type="Str">True</Property>
-					<Property Name="Industrial:Mode" Type="Str">1</Property>
-					<Property Name="Industrial:PhysicalName" Type="Str">AO1</Property>
-					<Property Name="Network:BuffSize" Type="Str">50</Property>
-					<Property Name="Network:UseBinding" Type="Str">False</Property>
-					<Property Name="Network:UseBuffering" Type="Str">True</Property>
-					<Property Name="numTypedefs" Type="UInt">0</Property>
-					<Property Name="type" Type="Str">Industrial</Property>
-					<Property Name="typeDesc" Type="Bin">(1!!!"5!A!!!!!!"!!5!#A!!!1!!!!!!!!!!!!!!!!!!</Property>
-				</Item>
-				<Item Name="AO2" Type="Variable">
-					<Property Name="featurePacks" Type="Str">Industrial</Property>
-					<Property Name="Industrial:BufferingEnabled" Type="Str">False</Property>
-					<Property Name="Industrial:ChannelIndex" Type="Str">2</Property>
-					<Property Name="Industrial:IODirection" Type="Str">Output</Property>
-					<Property Name="Industrial:IsNetworkPublished" Type="Str">True</Property>
-					<Property Name="Industrial:Mode" Type="Str">1</Property>
-					<Property Name="Industrial:PhysicalName" Type="Str">AO2</Property>
-					<Property Name="Network:BuffSize" Type="Str">50</Property>
-					<Property Name="Network:UseBinding" Type="Str">False</Property>
-					<Property Name="Network:UseBuffering" Type="Str">True</Property>
-					<Property Name="numTypedefs" Type="UInt">0</Property>
-					<Property Name="type" Type="Str">Industrial</Property>
-					<Property Name="typeDesc" Type="Bin">(1!!!"5!A!!!!!!"!!5!#A!!!1!!!!!!!!!!!!!!!!!!</Property>
-				</Item>
-				<Item Name="AO3" Type="Variable">
-					<Property Name="featurePacks" Type="Str">Industrial</Property>
-					<Property Name="Industrial:BufferingEnabled" Type="Str">False</Property>
-					<Property Name="Industrial:ChannelIndex" Type="Str">3</Property>
-					<Property Name="Industrial:IODirection" Type="Str">Output</Property>
-					<Property Name="Industrial:IsNetworkPublished" Type="Str">True</Property>
-					<Property Name="Industrial:Mode" Type="Str">1</Property>
-					<Property Name="Industrial:PhysicalName" Type="Str">AO3</Property>
-					<Property Name="Network:BuffSize" Type="Str">50</Property>
-					<Property Name="Network:UseBinding" Type="Str">False</Property>
-					<Property Name="Network:UseBuffering" Type="Str">True</Property>
-					<Property Name="numTypedefs" Type="UInt">0</Property>
-					<Property Name="type" Type="Str">Industrial</Property>
-					<Property Name="typeDesc" Type="Bin">(1!!!"5!A!!!!!!"!!5!#A!!!1!!!!!!!!!!!!!!!!!!</Property>
-				</Item>
-				<Item Name="AO4" Type="Variable">
-					<Property Name="featurePacks" Type="Str">Industrial</Property>
-					<Property Name="Industrial:BufferingEnabled" Type="Str">False</Property>
-					<Property Name="Industrial:ChannelIndex" Type="Str">4</Property>
-					<Property Name="Industrial:IODirection" Type="Str">Output</Property>
-					<Property Name="Industrial:IsNetworkPublished" Type="Str">True</Property>
-					<Property Name="Industrial:Mode" Type="Str">1</Property>
-					<Property Name="Industrial:PhysicalName" Type="Str">AO4</Property>
-					<Property Name="Network:BuffSize" Type="Str">50</Property>
-					<Property Name="Network:UseBinding" Type="Str">False</Property>
-					<Property Name="Network:UseBuffering" Type="Str">True</Property>
-					<Property Name="numTypedefs" Type="UInt">0</Property>
-					<Property Name="type" Type="Str">Industrial</Property>
-					<Property Name="typeDesc" Type="Bin">(1!!!"5!A!!!!!!"!!5!#A!!!1!!!!!!!!!!!!!!!!!!</Property>
-				</Item>
-				<Item Name="AO5" Type="Variable">
-					<Property Name="featurePacks" Type="Str">Industrial</Property>
-					<Property Name="Industrial:BufferingEnabled" Type="Str">False</Property>
-					<Property Name="Industrial:ChannelIndex" Type="Str">5</Property>
-					<Property Name="Industrial:IODirection" Type="Str">Output</Property>
-					<Property Name="Industrial:IsNetworkPublished" Type="Str">True</Property>
-					<Property Name="Industrial:Mode" Type="Str">1</Property>
-					<Property Name="Industrial:PhysicalName" Type="Str">AO5</Property>
-					<Property Name="Network:BuffSize" Type="Str">50</Property>
-					<Property Name="Network:UseBinding" Type="Str">False</Property>
-					<Property Name="Network:UseBuffering" Type="Str">True</Property>
-					<Property Name="numTypedefs" Type="UInt">0</Property>
-					<Property Name="type" Type="Str">Industrial</Property>
-					<Property Name="typeDesc" Type="Bin">(1!!!"5!A!!!!!!"!!5!#A!!!1!!!!!!!!!!!!!!!!!!</Property>
-				</Item>
-				<Item Name="AO6" Type="Variable">
-					<Property Name="featurePacks" Type="Str">Industrial</Property>
-					<Property Name="Industrial:BufferingEnabled" Type="Str">False</Property>
-					<Property Name="Industrial:ChannelIndex" Type="Str">6</Property>
-					<Property Name="Industrial:IODirection" Type="Str">Output</Property>
-					<Property Name="Industrial:IsNetworkPublished" Type="Str">True</Property>
-					<Property Name="Industrial:Mode" Type="Str">1</Property>
-					<Property Name="Industrial:PhysicalName" Type="Str">AO6</Property>
-					<Property Name="Network:BuffSize" Type="Str">50</Property>
-					<Property Name="Network:UseBinding" Type="Str">False</Property>
-					<Property Name="Network:UseBuffering" Type="Str">True</Property>
-					<Property Name="numTypedefs" Type="UInt">0</Property>
-					<Property Name="type" Type="Str">Industrial</Property>
-					<Property Name="typeDesc" Type="Bin">(1!!!"5!A!!!!!!"!!5!#A!!!1!!!!!!!!!!!!!!!!!!</Property>
-				</Item>
-				<Item Name="AO7" Type="Variable">
-					<Property Name="featurePacks" Type="Str">Industrial</Property>
-					<Property Name="Industrial:BufferingEnabled" Type="Str">False</Property>
-					<Property Name="Industrial:ChannelIndex" Type="Str">7</Property>
-					<Property Name="Industrial:IODirection" Type="Str">Output</Property>
-					<Property Name="Industrial:IsNetworkPublished" Type="Str">True</Property>
-					<Property Name="Industrial:Mode" Type="Str">1</Property>
-					<Property Name="Industrial:PhysicalName" Type="Str">AO7</Property>
-					<Property Name="Network:BuffSize" Type="Str">50</Property>
-					<Property Name="Network:UseBinding" Type="Str">False</Property>
-					<Property Name="Network:UseBuffering" Type="Str">True</Property>
-					<Property Name="numTypedefs" Type="UInt">0</Property>
-					<Property Name="type" Type="Str">Industrial</Property>
-					<Property Name="typeDesc" Type="Bin">(1!!!"5!A!!!!!!"!!5!#A!!!1!!!!!!!!!!!!!!!!!!</Property>
-				</Item>
-				<Item Name="AO8" Type="Variable">
-					<Property Name="featurePacks" Type="Str">Industrial</Property>
-					<Property Name="Industrial:BufferingEnabled" Type="Str">False</Property>
-					<Property Name="Industrial:ChannelIndex" Type="Str">8</Property>
-					<Property Name="Industrial:IODirection" Type="Str">Output</Property>
-					<Property Name="Industrial:IsNetworkPublished" Type="Str">True</Property>
-					<Property Name="Industrial:Mode" Type="Str">1</Property>
-					<Property Name="Industrial:PhysicalName" Type="Str">AO8</Property>
-					<Property Name="Network:BuffSize" Type="Str">50</Property>
-					<Property Name="Network:UseBinding" Type="Str">False</Property>
-					<Property Name="Network:UseBuffering" Type="Str">True</Property>
-					<Property Name="numTypedefs" Type="UInt">0</Property>
-					<Property Name="type" Type="Str">Industrial</Property>
-					<Property Name="typeDesc" Type="Bin">(1!!!"5!A!!!!!!"!!5!#A!!!1!!!!!!!!!!!!!!!!!!</Property>
-				</Item>
-				<Item Name="AO9" Type="Variable">
-					<Property Name="featurePacks" Type="Str">Industrial</Property>
-					<Property Name="Industrial:BufferingEnabled" Type="Str">False</Property>
-					<Property Name="Industrial:ChannelIndex" Type="Str">9</Property>
-					<Property Name="Industrial:IODirection" Type="Str">Output</Property>
-					<Property Name="Industrial:IsNetworkPublished" Type="Str">True</Property>
-					<Property Name="Industrial:Mode" Type="Str">1</Property>
-					<Property Name="Industrial:PhysicalName" Type="Str">AO9</Property>
-					<Property Name="Network:BuffSize" Type="Str">50</Property>
-					<Property Name="Network:UseBinding" Type="Str">False</Property>
-					<Property Name="Network:UseBuffering" Type="Str">True</Property>
-					<Property Name="numTypedefs" Type="UInt">0</Property>
-					<Property Name="type" Type="Str">Industrial</Property>
-					<Property Name="typeDesc" Type="Bin">(1!!!"5!A!!!!!!"!!5!#A!!!1!!!!!!!!!!!!!!!!!!</Property>
-				</Item>
-				<Item Name="AO10" Type="Variable">
-					<Property Name="featurePacks" Type="Str">Industrial</Property>
-					<Property Name="Industrial:BufferingEnabled" Type="Str">False</Property>
-					<Property Name="Industrial:ChannelIndex" Type="Str">10</Property>
-					<Property Name="Industrial:IODirection" Type="Str">Output</Property>
-					<Property Name="Industrial:IsNetworkPublished" Type="Str">True</Property>
-					<Property Name="Industrial:Mode" Type="Str">1</Property>
-					<Property Name="Industrial:PhysicalName" Type="Str">AO10</Property>
-					<Property Name="Network:BuffSize" Type="Str">50</Property>
-					<Property Name="Network:UseBinding" Type="Str">False</Property>
-					<Property Name="Network:UseBuffering" Type="Str">True</Property>
-					<Property Name="numTypedefs" Type="UInt">0</Property>
-					<Property Name="type" Type="Str">Industrial</Property>
-					<Property Name="typeDesc" Type="Bin">(1!!!"5!A!!!!!!"!!5!#A!!!1!!!!!!!!!!!!!!!!!!</Property>
-				</Item>
-				<Item Name="AO11" Type="Variable">
-					<Property Name="featurePacks" Type="Str">Industrial</Property>
-					<Property Name="Industrial:BufferingEnabled" Type="Str">False</Property>
-					<Property Name="Industrial:ChannelIndex" Type="Str">11</Property>
-					<Property Name="Industrial:IODirection" Type="Str">Output</Property>
-					<Property Name="Industrial:IsNetworkPublished" Type="Str">True</Property>
-					<Property Name="Industrial:Mode" Type="Str">1</Property>
-					<Property Name="Industrial:PhysicalName" Type="Str">AO11</Property>
-					<Property Name="Network:BuffSize" Type="Str">50</Property>
-					<Property Name="Network:UseBinding" Type="Str">False</Property>
-					<Property Name="Network:UseBuffering" Type="Str">True</Property>
-					<Property Name="numTypedefs" Type="UInt">0</Property>
-					<Property Name="type" Type="Str">Industrial</Property>
-					<Property Name="typeDesc" Type="Bin">(1!!!"5!A!!!!!!"!!5!#A!!!1!!!!!!!!!!!!!!!!!!</Property>
-				</Item>
-				<Item Name="AO12" Type="Variable">
-					<Property Name="featurePacks" Type="Str">Industrial</Property>
-					<Property Name="Industrial:BufferingEnabled" Type="Str">False</Property>
-					<Property Name="Industrial:ChannelIndex" Type="Str">12</Property>
-					<Property Name="Industrial:IODirection" Type="Str">Output</Property>
-					<Property Name="Industrial:IsNetworkPublished" Type="Str">True</Property>
-					<Property Name="Industrial:Mode" Type="Str">1</Property>
-					<Property Name="Industrial:PhysicalName" Type="Str">AO12</Property>
-					<Property Name="Network:BuffSize" Type="Str">50</Property>
-					<Property Name="Network:UseBinding" Type="Str">False</Property>
-					<Property Name="Network:UseBuffering" Type="Str">True</Property>
-					<Property Name="numTypedefs" Type="UInt">0</Property>
-					<Property Name="type" Type="Str">Industrial</Property>
-					<Property Name="typeDesc" Type="Bin">(1!!!"5!A!!!!!!"!!5!#A!!!1!!!!!!!!!!!!!!!!!!</Property>
-				</Item>
-				<Item Name="AO13" Type="Variable">
-					<Property Name="featurePacks" Type="Str">Industrial</Property>
-					<Property Name="Industrial:BufferingEnabled" Type="Str">False</Property>
-					<Property Name="Industrial:ChannelIndex" Type="Str">13</Property>
-					<Property Name="Industrial:IODirection" Type="Str">Output</Property>
-					<Property Name="Industrial:IsNetworkPublished" Type="Str">True</Property>
-					<Property Name="Industrial:Mode" Type="Str">1</Property>
-					<Property Name="Industrial:PhysicalName" Type="Str">AO13</Property>
-					<Property Name="Network:BuffSize" Type="Str">50</Property>
-					<Property Name="Network:UseBinding" Type="Str">False</Property>
-					<Property Name="Network:UseBuffering" Type="Str">True</Property>
-					<Property Name="numTypedefs" Type="UInt">0</Property>
-					<Property Name="type" Type="Str">Industrial</Property>
-					<Property Name="typeDesc" Type="Bin">(1!!!"5!A!!!!!!"!!5!#A!!!1!!!!!!!!!!!!!!!!!!</Property>
-				</Item>
-				<Item Name="AO14" Type="Variable">
-					<Property Name="featurePacks" Type="Str">Industrial</Property>
-					<Property Name="Industrial:BufferingEnabled" Type="Str">False</Property>
-					<Property Name="Industrial:ChannelIndex" Type="Str">14</Property>
-					<Property Name="Industrial:IODirection" Type="Str">Output</Property>
-					<Property Name="Industrial:IsNetworkPublished" Type="Str">True</Property>
-					<Property Name="Industrial:Mode" Type="Str">1</Property>
-					<Property Name="Industrial:PhysicalName" Type="Str">AO14</Property>
-					<Property Name="Network:BuffSize" Type="Str">50</Property>
-					<Property Name="Network:UseBinding" Type="Str">False</Property>
-					<Property Name="Network:UseBuffering" Type="Str">True</Property>
-					<Property Name="numTypedefs" Type="UInt">0</Property>
-					<Property Name="type" Type="Str">Industrial</Property>
-					<Property Name="typeDesc" Type="Bin">(1!!!"5!A!!!!!!"!!5!#A!!!1!!!!!!!!!!!!!!!!!!</Property>
-				</Item>
-				<Item Name="AO15" Type="Variable">
-					<Property Name="featurePacks" Type="Str">Industrial</Property>
-					<Property Name="Industrial:BufferingEnabled" Type="Str">False</Property>
-					<Property Name="Industrial:ChannelIndex" Type="Str">15</Property>
-					<Property Name="Industrial:IODirection" Type="Str">Output</Property>
-					<Property Name="Industrial:IsNetworkPublished" Type="Str">True</Property>
-					<Property Name="Industrial:Mode" Type="Str">1</Property>
-					<Property Name="Industrial:PhysicalName" Type="Str">AO15</Property>
-					<Property Name="Network:BuffSize" Type="Str">50</Property>
-					<Property Name="Network:UseBinding" Type="Str">False</Property>
-					<Property Name="Network:UseBuffering" Type="Str">True</Property>
-					<Property Name="numTypedefs" Type="UInt">0</Property>
-					<Property Name="type" Type="Str">Industrial</Property>
-					<Property Name="typeDesc" Type="Bin">(1!!!"5!A!!!!!!"!!5!#A!!!1!!!!!!!!!!!!!!!!!!</Property>
-				</Item>
-			</Item>
-			<Item Name="Mod5" Type="RIO C Series Module">
-				<Property Name="crio.Calibration" Type="Str">1</Property>
-				<Property Name="crio.Location" Type="Str">Slot 5</Property>
 				<Property Name="crio.RequiresValidation" Type="Bool">false</Property>
 				<Property Name="crio.SDcounterSlaveChannelMask" Type="Str">0</Property>
 				<Property Name="crio.SDCounterSlaveMasterSlot" Type="Str">0</Property>
@@ -1192,6 +894,394 @@ AddOutputFilter chunkFilter
 					<Property Name="numTypedefs" Type="UInt">0</Property>
 					<Property Name="type" Type="Str">Industrial</Property>
 					<Property Name="typeDesc" Type="Bin">(1!!!"5!A!!!!!!"!!5!#A!!!1!!!!!!!!!!!!!!!!!!</Property>
+				</Item>
+			</Item>
+			<Item Name="Mod4" Type="RIO C Series Module">
+				<Property Name="crio.Calibration" Type="Str">1</Property>
+				<Property Name="crio.Location" Type="Str">Slot 4</Property>
+				<Property Name="crio.RequiresValidation" Type="Bool">false</Property>
+				<Property Name="crio.SDcounterSlaveChannelMask" Type="Str">0</Property>
+				<Property Name="crio.SDCounterSlaveMasterSlot" Type="Str">0</Property>
+				<Property Name="crio.SDInputFilter" Type="Str">128</Property>
+				<Property Name="crio.SupportsDynamicRes" Type="Bool">false</Property>
+				<Property Name="crio.Type" Type="Str">NI 9264</Property>
+				<Property Name="cRIOModule.DigitalIOMode" Type="Str">0</Property>
+				<Property Name="cRIOModule.EnableSpecialtyDigital" Type="Str">false</Property>
+				<Property Name="cRIOModule.HotSwapMode" Type="Str">0</Property>
+				<Item Name="AO0" Type="Variable">
+					<Property Name="featurePacks" Type="Str">Industrial</Property>
+					<Property Name="Industrial:BufferingEnabled" Type="Str">False</Property>
+					<Property Name="Industrial:ChannelIndex" Type="Str">0</Property>
+					<Property Name="Industrial:IODirection" Type="Str">Output</Property>
+					<Property Name="Industrial:IsNetworkPublished" Type="Str">True</Property>
+					<Property Name="Industrial:Mode" Type="Str">1</Property>
+					<Property Name="Industrial:PhysicalName" Type="Str">AO0</Property>
+					<Property Name="Network:BuffSize" Type="Str">50</Property>
+					<Property Name="Network:UseBinding" Type="Str">False</Property>
+					<Property Name="Network:UseBuffering" Type="Str">True</Property>
+					<Property Name="numTypedefs" Type="UInt">0</Property>
+					<Property Name="type" Type="Str">Industrial</Property>
+					<Property Name="typeDesc" Type="Bin">(1!!!"5!A!!!!!!"!!5!#A!!!1!!!!!!!!!!!!!!!!!!</Property>
+				</Item>
+				<Item Name="AO1" Type="Variable">
+					<Property Name="featurePacks" Type="Str">Industrial</Property>
+					<Property Name="Industrial:BufferingEnabled" Type="Str">False</Property>
+					<Property Name="Industrial:ChannelIndex" Type="Str">1</Property>
+					<Property Name="Industrial:IODirection" Type="Str">Output</Property>
+					<Property Name="Industrial:IsNetworkPublished" Type="Str">True</Property>
+					<Property Name="Industrial:Mode" Type="Str">1</Property>
+					<Property Name="Industrial:PhysicalName" Type="Str">AO1</Property>
+					<Property Name="Network:BuffSize" Type="Str">50</Property>
+					<Property Name="Network:UseBinding" Type="Str">False</Property>
+					<Property Name="Network:UseBuffering" Type="Str">True</Property>
+					<Property Name="numTypedefs" Type="UInt">0</Property>
+					<Property Name="type" Type="Str">Industrial</Property>
+					<Property Name="typeDesc" Type="Bin">(1!!!"5!A!!!!!!"!!5!#A!!!1!!!!!!!!!!!!!!!!!!</Property>
+				</Item>
+				<Item Name="AO2" Type="Variable">
+					<Property Name="featurePacks" Type="Str">Industrial</Property>
+					<Property Name="Industrial:BufferingEnabled" Type="Str">False</Property>
+					<Property Name="Industrial:ChannelIndex" Type="Str">2</Property>
+					<Property Name="Industrial:IODirection" Type="Str">Output</Property>
+					<Property Name="Industrial:IsNetworkPublished" Type="Str">True</Property>
+					<Property Name="Industrial:Mode" Type="Str">1</Property>
+					<Property Name="Industrial:PhysicalName" Type="Str">AO2</Property>
+					<Property Name="Network:BuffSize" Type="Str">50</Property>
+					<Property Name="Network:UseBinding" Type="Str">False</Property>
+					<Property Name="Network:UseBuffering" Type="Str">True</Property>
+					<Property Name="numTypedefs" Type="UInt">0</Property>
+					<Property Name="type" Type="Str">Industrial</Property>
+					<Property Name="typeDesc" Type="Bin">(1!!!"5!A!!!!!!"!!5!#A!!!1!!!!!!!!!!!!!!!!!!</Property>
+				</Item>
+				<Item Name="AO3" Type="Variable">
+					<Property Name="featurePacks" Type="Str">Industrial</Property>
+					<Property Name="Industrial:BufferingEnabled" Type="Str">False</Property>
+					<Property Name="Industrial:ChannelIndex" Type="Str">3</Property>
+					<Property Name="Industrial:IODirection" Type="Str">Output</Property>
+					<Property Name="Industrial:IsNetworkPublished" Type="Str">True</Property>
+					<Property Name="Industrial:Mode" Type="Str">1</Property>
+					<Property Name="Industrial:PhysicalName" Type="Str">AO3</Property>
+					<Property Name="Network:BuffSize" Type="Str">50</Property>
+					<Property Name="Network:UseBinding" Type="Str">False</Property>
+					<Property Name="Network:UseBuffering" Type="Str">True</Property>
+					<Property Name="numTypedefs" Type="UInt">0</Property>
+					<Property Name="type" Type="Str">Industrial</Property>
+					<Property Name="typeDesc" Type="Bin">(1!!!"5!A!!!!!!"!!5!#A!!!1!!!!!!!!!!!!!!!!!!</Property>
+				</Item>
+				<Item Name="AO4" Type="Variable">
+					<Property Name="featurePacks" Type="Str">Industrial</Property>
+					<Property Name="Industrial:BufferingEnabled" Type="Str">False</Property>
+					<Property Name="Industrial:ChannelIndex" Type="Str">4</Property>
+					<Property Name="Industrial:IODirection" Type="Str">Output</Property>
+					<Property Name="Industrial:IsNetworkPublished" Type="Str">True</Property>
+					<Property Name="Industrial:Mode" Type="Str">1</Property>
+					<Property Name="Industrial:PhysicalName" Type="Str">AO4</Property>
+					<Property Name="Network:BuffSize" Type="Str">50</Property>
+					<Property Name="Network:UseBinding" Type="Str">False</Property>
+					<Property Name="Network:UseBuffering" Type="Str">True</Property>
+					<Property Name="numTypedefs" Type="UInt">0</Property>
+					<Property Name="type" Type="Str">Industrial</Property>
+					<Property Name="typeDesc" Type="Bin">(1!!!"5!A!!!!!!"!!5!#A!!!1!!!!!!!!!!!!!!!!!!</Property>
+				</Item>
+				<Item Name="AO5" Type="Variable">
+					<Property Name="featurePacks" Type="Str">Industrial</Property>
+					<Property Name="Industrial:BufferingEnabled" Type="Str">False</Property>
+					<Property Name="Industrial:ChannelIndex" Type="Str">5</Property>
+					<Property Name="Industrial:IODirection" Type="Str">Output</Property>
+					<Property Name="Industrial:IsNetworkPublished" Type="Str">True</Property>
+					<Property Name="Industrial:Mode" Type="Str">1</Property>
+					<Property Name="Industrial:PhysicalName" Type="Str">AO5</Property>
+					<Property Name="Network:BuffSize" Type="Str">50</Property>
+					<Property Name="Network:UseBinding" Type="Str">False</Property>
+					<Property Name="Network:UseBuffering" Type="Str">True</Property>
+					<Property Name="numTypedefs" Type="UInt">0</Property>
+					<Property Name="type" Type="Str">Industrial</Property>
+					<Property Name="typeDesc" Type="Bin">(1!!!"5!A!!!!!!"!!5!#A!!!1!!!!!!!!!!!!!!!!!!</Property>
+				</Item>
+				<Item Name="AO6" Type="Variable">
+					<Property Name="featurePacks" Type="Str">Industrial</Property>
+					<Property Name="Industrial:BufferingEnabled" Type="Str">False</Property>
+					<Property Name="Industrial:ChannelIndex" Type="Str">6</Property>
+					<Property Name="Industrial:IODirection" Type="Str">Output</Property>
+					<Property Name="Industrial:IsNetworkPublished" Type="Str">True</Property>
+					<Property Name="Industrial:Mode" Type="Str">1</Property>
+					<Property Name="Industrial:PhysicalName" Type="Str">AO6</Property>
+					<Property Name="Network:BuffSize" Type="Str">50</Property>
+					<Property Name="Network:UseBinding" Type="Str">False</Property>
+					<Property Name="Network:UseBuffering" Type="Str">True</Property>
+					<Property Name="numTypedefs" Type="UInt">0</Property>
+					<Property Name="type" Type="Str">Industrial</Property>
+					<Property Name="typeDesc" Type="Bin">(1!!!"5!A!!!!!!"!!5!#A!!!1!!!!!!!!!!!!!!!!!!</Property>
+				</Item>
+				<Item Name="AO7" Type="Variable">
+					<Property Name="featurePacks" Type="Str">Industrial</Property>
+					<Property Name="Industrial:BufferingEnabled" Type="Str">False</Property>
+					<Property Name="Industrial:ChannelIndex" Type="Str">7</Property>
+					<Property Name="Industrial:IODirection" Type="Str">Output</Property>
+					<Property Name="Industrial:IsNetworkPublished" Type="Str">True</Property>
+					<Property Name="Industrial:Mode" Type="Str">1</Property>
+					<Property Name="Industrial:PhysicalName" Type="Str">AO7</Property>
+					<Property Name="Network:BuffSize" Type="Str">50</Property>
+					<Property Name="Network:UseBinding" Type="Str">False</Property>
+					<Property Name="Network:UseBuffering" Type="Str">True</Property>
+					<Property Name="numTypedefs" Type="UInt">0</Property>
+					<Property Name="type" Type="Str">Industrial</Property>
+					<Property Name="typeDesc" Type="Bin">(1!!!"5!A!!!!!!"!!5!#A!!!1!!!!!!!!!!!!!!!!!!</Property>
+				</Item>
+				<Item Name="AO8" Type="Variable">
+					<Property Name="featurePacks" Type="Str">Industrial</Property>
+					<Property Name="Industrial:BufferingEnabled" Type="Str">False</Property>
+					<Property Name="Industrial:ChannelIndex" Type="Str">8</Property>
+					<Property Name="Industrial:IODirection" Type="Str">Output</Property>
+					<Property Name="Industrial:IsNetworkPublished" Type="Str">True</Property>
+					<Property Name="Industrial:Mode" Type="Str">1</Property>
+					<Property Name="Industrial:PhysicalName" Type="Str">AO8</Property>
+					<Property Name="Network:BuffSize" Type="Str">50</Property>
+					<Property Name="Network:UseBinding" Type="Str">False</Property>
+					<Property Name="Network:UseBuffering" Type="Str">True</Property>
+					<Property Name="numTypedefs" Type="UInt">0</Property>
+					<Property Name="type" Type="Str">Industrial</Property>
+					<Property Name="typeDesc" Type="Bin">(1!!!"5!A!!!!!!"!!5!#A!!!1!!!!!!!!!!!!!!!!!!</Property>
+				</Item>
+				<Item Name="AO9" Type="Variable">
+					<Property Name="featurePacks" Type="Str">Industrial</Property>
+					<Property Name="Industrial:BufferingEnabled" Type="Str">False</Property>
+					<Property Name="Industrial:ChannelIndex" Type="Str">9</Property>
+					<Property Name="Industrial:IODirection" Type="Str">Output</Property>
+					<Property Name="Industrial:IsNetworkPublished" Type="Str">True</Property>
+					<Property Name="Industrial:Mode" Type="Str">1</Property>
+					<Property Name="Industrial:PhysicalName" Type="Str">AO9</Property>
+					<Property Name="Network:BuffSize" Type="Str">50</Property>
+					<Property Name="Network:UseBinding" Type="Str">False</Property>
+					<Property Name="Network:UseBuffering" Type="Str">True</Property>
+					<Property Name="numTypedefs" Type="UInt">0</Property>
+					<Property Name="type" Type="Str">Industrial</Property>
+					<Property Name="typeDesc" Type="Bin">(1!!!"5!A!!!!!!"!!5!#A!!!1!!!!!!!!!!!!!!!!!!</Property>
+				</Item>
+				<Item Name="AO10" Type="Variable">
+					<Property Name="featurePacks" Type="Str">Industrial</Property>
+					<Property Name="Industrial:BufferingEnabled" Type="Str">False</Property>
+					<Property Name="Industrial:ChannelIndex" Type="Str">10</Property>
+					<Property Name="Industrial:IODirection" Type="Str">Output</Property>
+					<Property Name="Industrial:IsNetworkPublished" Type="Str">True</Property>
+					<Property Name="Industrial:Mode" Type="Str">1</Property>
+					<Property Name="Industrial:PhysicalName" Type="Str">AO10</Property>
+					<Property Name="Network:BuffSize" Type="Str">50</Property>
+					<Property Name="Network:UseBinding" Type="Str">False</Property>
+					<Property Name="Network:UseBuffering" Type="Str">True</Property>
+					<Property Name="numTypedefs" Type="UInt">0</Property>
+					<Property Name="type" Type="Str">Industrial</Property>
+					<Property Name="typeDesc" Type="Bin">(1!!!"5!A!!!!!!"!!5!#A!!!1!!!!!!!!!!!!!!!!!!</Property>
+				</Item>
+				<Item Name="AO11" Type="Variable">
+					<Property Name="featurePacks" Type="Str">Industrial</Property>
+					<Property Name="Industrial:BufferingEnabled" Type="Str">False</Property>
+					<Property Name="Industrial:ChannelIndex" Type="Str">11</Property>
+					<Property Name="Industrial:IODirection" Type="Str">Output</Property>
+					<Property Name="Industrial:IsNetworkPublished" Type="Str">True</Property>
+					<Property Name="Industrial:Mode" Type="Str">1</Property>
+					<Property Name="Industrial:PhysicalName" Type="Str">AO11</Property>
+					<Property Name="Network:BuffSize" Type="Str">50</Property>
+					<Property Name="Network:UseBinding" Type="Str">False</Property>
+					<Property Name="Network:UseBuffering" Type="Str">True</Property>
+					<Property Name="numTypedefs" Type="UInt">0</Property>
+					<Property Name="type" Type="Str">Industrial</Property>
+					<Property Name="typeDesc" Type="Bin">(1!!!"5!A!!!!!!"!!5!#A!!!1!!!!!!!!!!!!!!!!!!</Property>
+				</Item>
+				<Item Name="AO12" Type="Variable">
+					<Property Name="featurePacks" Type="Str">Industrial</Property>
+					<Property Name="Industrial:BufferingEnabled" Type="Str">False</Property>
+					<Property Name="Industrial:ChannelIndex" Type="Str">12</Property>
+					<Property Name="Industrial:IODirection" Type="Str">Output</Property>
+					<Property Name="Industrial:IsNetworkPublished" Type="Str">True</Property>
+					<Property Name="Industrial:Mode" Type="Str">1</Property>
+					<Property Name="Industrial:PhysicalName" Type="Str">AO12</Property>
+					<Property Name="Network:BuffSize" Type="Str">50</Property>
+					<Property Name="Network:UseBinding" Type="Str">False</Property>
+					<Property Name="Network:UseBuffering" Type="Str">True</Property>
+					<Property Name="numTypedefs" Type="UInt">0</Property>
+					<Property Name="type" Type="Str">Industrial</Property>
+					<Property Name="typeDesc" Type="Bin">(1!!!"5!A!!!!!!"!!5!#A!!!1!!!!!!!!!!!!!!!!!!</Property>
+				</Item>
+				<Item Name="AO13" Type="Variable">
+					<Property Name="featurePacks" Type="Str">Industrial</Property>
+					<Property Name="Industrial:BufferingEnabled" Type="Str">False</Property>
+					<Property Name="Industrial:ChannelIndex" Type="Str">13</Property>
+					<Property Name="Industrial:IODirection" Type="Str">Output</Property>
+					<Property Name="Industrial:IsNetworkPublished" Type="Str">True</Property>
+					<Property Name="Industrial:Mode" Type="Str">1</Property>
+					<Property Name="Industrial:PhysicalName" Type="Str">AO13</Property>
+					<Property Name="Network:BuffSize" Type="Str">50</Property>
+					<Property Name="Network:UseBinding" Type="Str">False</Property>
+					<Property Name="Network:UseBuffering" Type="Str">True</Property>
+					<Property Name="numTypedefs" Type="UInt">0</Property>
+					<Property Name="type" Type="Str">Industrial</Property>
+					<Property Name="typeDesc" Type="Bin">(1!!!"5!A!!!!!!"!!5!#A!!!1!!!!!!!!!!!!!!!!!!</Property>
+				</Item>
+				<Item Name="AO14" Type="Variable">
+					<Property Name="featurePacks" Type="Str">Industrial</Property>
+					<Property Name="Industrial:BufferingEnabled" Type="Str">False</Property>
+					<Property Name="Industrial:ChannelIndex" Type="Str">14</Property>
+					<Property Name="Industrial:IODirection" Type="Str">Output</Property>
+					<Property Name="Industrial:IsNetworkPublished" Type="Str">True</Property>
+					<Property Name="Industrial:Mode" Type="Str">1</Property>
+					<Property Name="Industrial:PhysicalName" Type="Str">AO14</Property>
+					<Property Name="Network:BuffSize" Type="Str">50</Property>
+					<Property Name="Network:UseBinding" Type="Str">False</Property>
+					<Property Name="Network:UseBuffering" Type="Str">True</Property>
+					<Property Name="numTypedefs" Type="UInt">0</Property>
+					<Property Name="type" Type="Str">Industrial</Property>
+					<Property Name="typeDesc" Type="Bin">(1!!!"5!A!!!!!!"!!5!#A!!!1!!!!!!!!!!!!!!!!!!</Property>
+				</Item>
+				<Item Name="AO15" Type="Variable">
+					<Property Name="featurePacks" Type="Str">Industrial</Property>
+					<Property Name="Industrial:BufferingEnabled" Type="Str">False</Property>
+					<Property Name="Industrial:ChannelIndex" Type="Str">15</Property>
+					<Property Name="Industrial:IODirection" Type="Str">Output</Property>
+					<Property Name="Industrial:IsNetworkPublished" Type="Str">True</Property>
+					<Property Name="Industrial:Mode" Type="Str">1</Property>
+					<Property Name="Industrial:PhysicalName" Type="Str">AO15</Property>
+					<Property Name="Network:BuffSize" Type="Str">50</Property>
+					<Property Name="Network:UseBinding" Type="Str">False</Property>
+					<Property Name="Network:UseBuffering" Type="Str">True</Property>
+					<Property Name="numTypedefs" Type="UInt">0</Property>
+					<Property Name="type" Type="Str">Industrial</Property>
+					<Property Name="typeDesc" Type="Bin">(1!!!"5!A!!!!!!"!!5!#A!!!1!!!!!!!!!!!!!!!!!!</Property>
+				</Item>
+			</Item>
+			<Item Name="Mod5" Type="RIO C Series Module">
+				<Property Name="crio.Calibration" Type="Str">1</Property>
+				<Property Name="crio.Location" Type="Str">Slot 5</Property>
+				<Property Name="crio.RequiresValidation" Type="Bool">false</Property>
+				<Property Name="crio.SDcounterSlaveChannelMask" Type="Str">0</Property>
+				<Property Name="crio.SDCounterSlaveMasterSlot" Type="Str">0</Property>
+				<Property Name="crio.SDInputFilter" Type="Str">128</Property>
+				<Property Name="crio.SupportsDynamicRes" Type="Bool">false</Property>
+				<Property Name="crio.Type" Type="Str">NI 9485</Property>
+				<Property Name="cRIOModule.DigitalIOMode" Type="Str">0</Property>
+				<Property Name="cRIOModule.DIO3_0InitialDir" Type="Str">0</Property>
+				<Property Name="cRIOModule.DIO7_4InitialDir" Type="Str">0</Property>
+				<Property Name="cRIOModule.EnableSpecialtyDigital" Type="Str">false</Property>
+				<Property Name="cRIOModule.NumSyncRegs" Type="Str">11111111</Property>
+				<Item Name="DO0" Type="Variable">
+					<Property Name="featurePacks" Type="Str">Industrial</Property>
+					<Property Name="Industrial:BufferingEnabled" Type="Str">False</Property>
+					<Property Name="Industrial:ChannelIndex" Type="Str">0</Property>
+					<Property Name="Industrial:IODirection" Type="Str">Output</Property>
+					<Property Name="Industrial:IsNetworkPublished" Type="Str">True</Property>
+					<Property Name="Industrial:Mode" Type="Str">1</Property>
+					<Property Name="Industrial:PhysicalName" Type="Str">DO0</Property>
+					<Property Name="Network:BuffSize" Type="Str">50</Property>
+					<Property Name="Network:UseBinding" Type="Str">False</Property>
+					<Property Name="Network:UseBuffering" Type="Str">True</Property>
+					<Property Name="numTypedefs" Type="UInt">0</Property>
+					<Property Name="type" Type="Str">Industrial</Property>
+					<Property Name="typeDesc" Type="Bin">&amp;1!!!"5!A!!!!!!"!!1!)1!"!!!!!!!!!!</Property>
+				</Item>
+				<Item Name="DO1" Type="Variable">
+					<Property Name="featurePacks" Type="Str">Industrial</Property>
+					<Property Name="Industrial:BufferingEnabled" Type="Str">False</Property>
+					<Property Name="Industrial:ChannelIndex" Type="Str">1</Property>
+					<Property Name="Industrial:IODirection" Type="Str">Output</Property>
+					<Property Name="Industrial:IsNetworkPublished" Type="Str">True</Property>
+					<Property Name="Industrial:Mode" Type="Str">1</Property>
+					<Property Name="Industrial:PhysicalName" Type="Str">DO1</Property>
+					<Property Name="Network:BuffSize" Type="Str">50</Property>
+					<Property Name="Network:UseBinding" Type="Str">False</Property>
+					<Property Name="Network:UseBuffering" Type="Str">True</Property>
+					<Property Name="numTypedefs" Type="UInt">0</Property>
+					<Property Name="type" Type="Str">Industrial</Property>
+					<Property Name="typeDesc" Type="Bin">&amp;1!!!"5!A!!!!!!"!!1!)1!"!!!!!!!!!!</Property>
+				</Item>
+				<Item Name="DO2" Type="Variable">
+					<Property Name="featurePacks" Type="Str">Industrial</Property>
+					<Property Name="Industrial:BufferingEnabled" Type="Str">False</Property>
+					<Property Name="Industrial:ChannelIndex" Type="Str">2</Property>
+					<Property Name="Industrial:IODirection" Type="Str">Output</Property>
+					<Property Name="Industrial:IsNetworkPublished" Type="Str">True</Property>
+					<Property Name="Industrial:Mode" Type="Str">1</Property>
+					<Property Name="Industrial:PhysicalName" Type="Str">DO2</Property>
+					<Property Name="Network:BuffSize" Type="Str">50</Property>
+					<Property Name="Network:UseBinding" Type="Str">False</Property>
+					<Property Name="Network:UseBuffering" Type="Str">True</Property>
+					<Property Name="numTypedefs" Type="UInt">0</Property>
+					<Property Name="type" Type="Str">Industrial</Property>
+					<Property Name="typeDesc" Type="Bin">&amp;1!!!"5!A!!!!!!"!!1!)1!"!!!!!!!!!!</Property>
+				</Item>
+				<Item Name="DO3" Type="Variable">
+					<Property Name="featurePacks" Type="Str">Industrial</Property>
+					<Property Name="Industrial:BufferingEnabled" Type="Str">False</Property>
+					<Property Name="Industrial:ChannelIndex" Type="Str">3</Property>
+					<Property Name="Industrial:IODirection" Type="Str">Output</Property>
+					<Property Name="Industrial:IsNetworkPublished" Type="Str">True</Property>
+					<Property Name="Industrial:Mode" Type="Str">1</Property>
+					<Property Name="Industrial:PhysicalName" Type="Str">DO3</Property>
+					<Property Name="Network:BuffSize" Type="Str">50</Property>
+					<Property Name="Network:UseBinding" Type="Str">False</Property>
+					<Property Name="Network:UseBuffering" Type="Str">True</Property>
+					<Property Name="numTypedefs" Type="UInt">0</Property>
+					<Property Name="type" Type="Str">Industrial</Property>
+					<Property Name="typeDesc" Type="Bin">&amp;1!!!"5!A!!!!!!"!!1!)1!"!!!!!!!!!!</Property>
+				</Item>
+				<Item Name="DO4" Type="Variable">
+					<Property Name="featurePacks" Type="Str">Industrial</Property>
+					<Property Name="Industrial:BufferingEnabled" Type="Str">False</Property>
+					<Property Name="Industrial:ChannelIndex" Type="Str">4</Property>
+					<Property Name="Industrial:IODirection" Type="Str">Output</Property>
+					<Property Name="Industrial:IsNetworkPublished" Type="Str">True</Property>
+					<Property Name="Industrial:Mode" Type="Str">1</Property>
+					<Property Name="Industrial:PhysicalName" Type="Str">DO4</Property>
+					<Property Name="Network:BuffSize" Type="Str">50</Property>
+					<Property Name="Network:UseBinding" Type="Str">False</Property>
+					<Property Name="Network:UseBuffering" Type="Str">True</Property>
+					<Property Name="numTypedefs" Type="UInt">0</Property>
+					<Property Name="type" Type="Str">Industrial</Property>
+					<Property Name="typeDesc" Type="Bin">&amp;1!!!"5!A!!!!!!"!!1!)1!"!!!!!!!!!!</Property>
+				</Item>
+				<Item Name="DO5" Type="Variable">
+					<Property Name="featurePacks" Type="Str">Industrial</Property>
+					<Property Name="Industrial:BufferingEnabled" Type="Str">False</Property>
+					<Property Name="Industrial:ChannelIndex" Type="Str">5</Property>
+					<Property Name="Industrial:IODirection" Type="Str">Output</Property>
+					<Property Name="Industrial:IsNetworkPublished" Type="Str">True</Property>
+					<Property Name="Industrial:Mode" Type="Str">1</Property>
+					<Property Name="Industrial:PhysicalName" Type="Str">DO5</Property>
+					<Property Name="Network:BuffSize" Type="Str">50</Property>
+					<Property Name="Network:UseBinding" Type="Str">False</Property>
+					<Property Name="Network:UseBuffering" Type="Str">True</Property>
+					<Property Name="numTypedefs" Type="UInt">0</Property>
+					<Property Name="type" Type="Str">Industrial</Property>
+					<Property Name="typeDesc" Type="Bin">&amp;1!!!"5!A!!!!!!"!!1!)1!"!!!!!!!!!!</Property>
+				</Item>
+				<Item Name="DO6" Type="Variable">
+					<Property Name="featurePacks" Type="Str">Industrial</Property>
+					<Property Name="Industrial:BufferingEnabled" Type="Str">False</Property>
+					<Property Name="Industrial:ChannelIndex" Type="Str">6</Property>
+					<Property Name="Industrial:IODirection" Type="Str">Output</Property>
+					<Property Name="Industrial:IsNetworkPublished" Type="Str">True</Property>
+					<Property Name="Industrial:Mode" Type="Str">1</Property>
+					<Property Name="Industrial:PhysicalName" Type="Str">DO6</Property>
+					<Property Name="Network:BuffSize" Type="Str">50</Property>
+					<Property Name="Network:UseBinding" Type="Str">False</Property>
+					<Property Name="Network:UseBuffering" Type="Str">True</Property>
+					<Property Name="numTypedefs" Type="UInt">0</Property>
+					<Property Name="type" Type="Str">Industrial</Property>
+					<Property Name="typeDesc" Type="Bin">&amp;1!!!"5!A!!!!!!"!!1!)1!"!!!!!!!!!!</Property>
+				</Item>
+				<Item Name="DO7" Type="Variable">
+					<Property Name="featurePacks" Type="Str">Industrial</Property>
+					<Property Name="Industrial:BufferingEnabled" Type="Str">False</Property>
+					<Property Name="Industrial:ChannelIndex" Type="Str">7</Property>
+					<Property Name="Industrial:IODirection" Type="Str">Output</Property>
+					<Property Name="Industrial:IsNetworkPublished" Type="Str">True</Property>
+					<Property Name="Industrial:Mode" Type="Str">1</Property>
+					<Property Name="Industrial:PhysicalName" Type="Str">DO7</Property>
+					<Property Name="Network:BuffSize" Type="Str">50</Property>
+					<Property Name="Network:UseBinding" Type="Str">False</Property>
+					<Property Name="Network:UseBuffering" Type="Str">True</Property>
+					<Property Name="numTypedefs" Type="UInt">0</Property>
+					<Property Name="type" Type="Str">Industrial</Property>
+					<Property Name="typeDesc" Type="Bin">&amp;1!!!"5!A!!!!!!"!!1!)1!"!!!!!!!!!!</Property>
 				</Item>
 			</Item>
 			<Item Name="Mod6" Type="RIO C Series Module">
@@ -2188,147 +2278,57 @@ AddOutputFilter chunkFilter
 				<Property Name="crio.SDCounterSlaveMasterSlot" Type="Str">0</Property>
 				<Property Name="crio.SDInputFilter" Type="Str">128</Property>
 				<Property Name="crio.SupportsDynamicRes" Type="Bool">false</Property>
-				<Property Name="crio.Type" Type="Str">NI 9485</Property>
+				<Property Name="crio.Type" Type="Str">NI 9870</Property>
 				<Property Name="cRIOModule.DigitalIOMode" Type="Str">0</Property>
-				<Property Name="cRIOModule.DIO3_0InitialDir" Type="Str">0</Property>
-				<Property Name="cRIOModule.DIO7_4InitialDir" Type="Str">0</Property>
 				<Property Name="cRIOModule.EnableSpecialtyDigital" Type="Str">false</Property>
-				<Property Name="cRIOModule.NumSyncRegs" Type="Str">11111111</Property>
-				<Item Name="DO0" Type="Variable">
-					<Property Name="featurePacks" Type="Str">Industrial</Property>
-					<Property Name="Industrial:BufferingEnabled" Type="Str">False</Property>
-					<Property Name="Industrial:ChannelIndex" Type="Str">0</Property>
-					<Property Name="Industrial:IODirection" Type="Str">Output</Property>
-					<Property Name="Industrial:IsNetworkPublished" Type="Str">True</Property>
-					<Property Name="Industrial:Mode" Type="Str">1</Property>
-					<Property Name="Industrial:PhysicalName" Type="Str">DO0</Property>
-					<Property Name="Network:BuffSize" Type="Str">50</Property>
-					<Property Name="Network:UseBinding" Type="Str">False</Property>
-					<Property Name="Network:UseBuffering" Type="Str">True</Property>
-					<Property Name="numTypedefs" Type="UInt">0</Property>
-					<Property Name="type" Type="Str">Industrial</Property>
-					<Property Name="typeDesc" Type="Bin">&amp;1!!!"5!A!!!!!!"!!1!)1!"!!!!!!!!!!</Property>
-				</Item>
-				<Item Name="DO1" Type="Variable">
-					<Property Name="featurePacks" Type="Str">Industrial</Property>
-					<Property Name="Industrial:BufferingEnabled" Type="Str">False</Property>
-					<Property Name="Industrial:ChannelIndex" Type="Str">1</Property>
-					<Property Name="Industrial:IODirection" Type="Str">Output</Property>
-					<Property Name="Industrial:IsNetworkPublished" Type="Str">True</Property>
-					<Property Name="Industrial:Mode" Type="Str">1</Property>
-					<Property Name="Industrial:PhysicalName" Type="Str">DO1</Property>
-					<Property Name="Network:BuffSize" Type="Str">50</Property>
-					<Property Name="Network:UseBinding" Type="Str">False</Property>
-					<Property Name="Network:UseBuffering" Type="Str">True</Property>
-					<Property Name="numTypedefs" Type="UInt">0</Property>
-					<Property Name="type" Type="Str">Industrial</Property>
-					<Property Name="typeDesc" Type="Bin">&amp;1!!!"5!A!!!!!!"!!1!)1!"!!!!!!!!!!</Property>
-				</Item>
-				<Item Name="DO2" Type="Variable">
-					<Property Name="featurePacks" Type="Str">Industrial</Property>
-					<Property Name="Industrial:BufferingEnabled" Type="Str">False</Property>
-					<Property Name="Industrial:ChannelIndex" Type="Str">2</Property>
-					<Property Name="Industrial:IODirection" Type="Str">Output</Property>
-					<Property Name="Industrial:IsNetworkPublished" Type="Str">True</Property>
-					<Property Name="Industrial:Mode" Type="Str">1</Property>
-					<Property Name="Industrial:PhysicalName" Type="Str">DO2</Property>
-					<Property Name="Network:BuffSize" Type="Str">50</Property>
-					<Property Name="Network:UseBinding" Type="Str">False</Property>
-					<Property Name="Network:UseBuffering" Type="Str">True</Property>
-					<Property Name="numTypedefs" Type="UInt">0</Property>
-					<Property Name="type" Type="Str">Industrial</Property>
-					<Property Name="typeDesc" Type="Bin">&amp;1!!!"5!A!!!!!!"!!1!)1!"!!!!!!!!!!</Property>
-				</Item>
-				<Item Name="DO3" Type="Variable">
-					<Property Name="featurePacks" Type="Str">Industrial</Property>
-					<Property Name="Industrial:BufferingEnabled" Type="Str">False</Property>
-					<Property Name="Industrial:ChannelIndex" Type="Str">3</Property>
-					<Property Name="Industrial:IODirection" Type="Str">Output</Property>
-					<Property Name="Industrial:IsNetworkPublished" Type="Str">True</Property>
-					<Property Name="Industrial:Mode" Type="Str">1</Property>
-					<Property Name="Industrial:PhysicalName" Type="Str">DO3</Property>
-					<Property Name="Network:BuffSize" Type="Str">50</Property>
-					<Property Name="Network:UseBinding" Type="Str">False</Property>
-					<Property Name="Network:UseBuffering" Type="Str">True</Property>
-					<Property Name="numTypedefs" Type="UInt">0</Property>
-					<Property Name="type" Type="Str">Industrial</Property>
-					<Property Name="typeDesc" Type="Bin">&amp;1!!!"5!A!!!!!!"!!1!)1!"!!!!!!!!!!</Property>
-				</Item>
-				<Item Name="DO4" Type="Variable">
-					<Property Name="featurePacks" Type="Str">Industrial</Property>
-					<Property Name="Industrial:BufferingEnabled" Type="Str">False</Property>
-					<Property Name="Industrial:ChannelIndex" Type="Str">4</Property>
-					<Property Name="Industrial:IODirection" Type="Str">Output</Property>
-					<Property Name="Industrial:IsNetworkPublished" Type="Str">True</Property>
-					<Property Name="Industrial:Mode" Type="Str">1</Property>
-					<Property Name="Industrial:PhysicalName" Type="Str">DO4</Property>
-					<Property Name="Network:BuffSize" Type="Str">50</Property>
-					<Property Name="Network:UseBinding" Type="Str">False</Property>
-					<Property Name="Network:UseBuffering" Type="Str">True</Property>
-					<Property Name="numTypedefs" Type="UInt">0</Property>
-					<Property Name="type" Type="Str">Industrial</Property>
-					<Property Name="typeDesc" Type="Bin">&amp;1!!!"5!A!!!!!!"!!1!)1!"!!!!!!!!!!</Property>
-				</Item>
-				<Item Name="DO5" Type="Variable">
-					<Property Name="featurePacks" Type="Str">Industrial</Property>
-					<Property Name="Industrial:BufferingEnabled" Type="Str">False</Property>
-					<Property Name="Industrial:ChannelIndex" Type="Str">5</Property>
-					<Property Name="Industrial:IODirection" Type="Str">Output</Property>
-					<Property Name="Industrial:IsNetworkPublished" Type="Str">True</Property>
-					<Property Name="Industrial:Mode" Type="Str">1</Property>
-					<Property Name="Industrial:PhysicalName" Type="Str">DO5</Property>
-					<Property Name="Network:BuffSize" Type="Str">50</Property>
-					<Property Name="Network:UseBinding" Type="Str">False</Property>
-					<Property Name="Network:UseBuffering" Type="Str">True</Property>
-					<Property Name="numTypedefs" Type="UInt">0</Property>
-					<Property Name="type" Type="Str">Industrial</Property>
-					<Property Name="typeDesc" Type="Bin">&amp;1!!!"5!A!!!!!!"!!1!)1!"!!!!!!!!!!</Property>
-				</Item>
-				<Item Name="DO6" Type="Variable">
-					<Property Name="featurePacks" Type="Str">Industrial</Property>
-					<Property Name="Industrial:BufferingEnabled" Type="Str">False</Property>
-					<Property Name="Industrial:ChannelIndex" Type="Str">6</Property>
-					<Property Name="Industrial:IODirection" Type="Str">Output</Property>
-					<Property Name="Industrial:IsNetworkPublished" Type="Str">True</Property>
-					<Property Name="Industrial:Mode" Type="Str">1</Property>
-					<Property Name="Industrial:PhysicalName" Type="Str">DO6</Property>
-					<Property Name="Network:BuffSize" Type="Str">50</Property>
-					<Property Name="Network:UseBinding" Type="Str">False</Property>
-					<Property Name="Network:UseBuffering" Type="Str">True</Property>
-					<Property Name="numTypedefs" Type="UInt">0</Property>
-					<Property Name="type" Type="Str">Industrial</Property>
-					<Property Name="typeDesc" Type="Bin">&amp;1!!!"5!A!!!!!!"!!1!)1!"!!!!!!!!!!</Property>
-				</Item>
-				<Item Name="DO7" Type="Variable">
-					<Property Name="featurePacks" Type="Str">Industrial</Property>
-					<Property Name="Industrial:BufferingEnabled" Type="Str">False</Property>
-					<Property Name="Industrial:ChannelIndex" Type="Str">7</Property>
-					<Property Name="Industrial:IODirection" Type="Str">Output</Property>
-					<Property Name="Industrial:IsNetworkPublished" Type="Str">True</Property>
-					<Property Name="Industrial:Mode" Type="Str">1</Property>
-					<Property Name="Industrial:PhysicalName" Type="Str">DO7</Property>
-					<Property Name="Network:BuffSize" Type="Str">50</Property>
-					<Property Name="Network:UseBinding" Type="Str">False</Property>
-					<Property Name="Network:UseBuffering" Type="Str">True</Property>
-					<Property Name="numTypedefs" Type="UInt">0</Property>
-					<Property Name="type" Type="Str">Industrial</Property>
-					<Property Name="typeDesc" Type="Bin">&amp;1!!!"5!A!!!!!!"!!1!)1!"!!!!!!!!!!</Property>
-				</Item>
+				<Property Name="cRIOModule.kBaudRateDivider1" Type="Str">384</Property>
+				<Property Name="cRIOModule.kBaudRateDivider2" Type="Str">384</Property>
+				<Property Name="cRIOModule.kBaudRateDivider3" Type="Str">384</Property>
+				<Property Name="cRIOModule.kBaudRateDivider4" Type="Str">384</Property>
+				<Property Name="cRIOModule.kBaudRatePrescaler1" Type="Str">1</Property>
+				<Property Name="cRIOModule.kBaudRatePrescaler2" Type="Str">1</Property>
+				<Property Name="cRIOModule.kBaudRatePrescaler3" Type="Str">1</Property>
+				<Property Name="cRIOModule.kBaudRatePrescaler4" Type="Str">1</Property>
+				<Property Name="cRIOModule.kDataBits1" Type="Str">4</Property>
+				<Property Name="cRIOModule.kDataBits2" Type="Str">4</Property>
+				<Property Name="cRIOModule.kDataBits3" Type="Str">4</Property>
+				<Property Name="cRIOModule.kDataBits4" Type="Str">4</Property>
+				<Property Name="cRIOModule.kDesiredBaudRate1" Type="Str">9.600000E+3</Property>
+				<Property Name="cRIOModule.kDesiredBaudRate2" Type="Str">9.600000E+3</Property>
+				<Property Name="cRIOModule.kDesiredBaudRate3" Type="Str">9.600000E+3</Property>
+				<Property Name="cRIOModule.kDesiredBaudRate4" Type="Str">9.600000E+3</Property>
+				<Property Name="cRIOModule.kFlowControl1" Type="Str">1</Property>
+				<Property Name="cRIOModule.kFlowControl2" Type="Str">1</Property>
+				<Property Name="cRIOModule.kFlowControl3" Type="Str">1</Property>
+				<Property Name="cRIOModule.kFlowControl4" Type="Str">1</Property>
+				<Property Name="cRIOModule.kParity1" Type="Str">1</Property>
+				<Property Name="cRIOModule.kParity2" Type="Str">1</Property>
+				<Property Name="cRIOModule.kParity3" Type="Str">1</Property>
+				<Property Name="cRIOModule.kParity4" Type="Str">1</Property>
+				<Property Name="cRIOModule.kStopBits1" Type="Str">1</Property>
+				<Property Name="cRIOModule.kStopBits2" Type="Str">1</Property>
+				<Property Name="cRIOModule.kStopBits3" Type="Str">1</Property>
+				<Property Name="cRIOModule.kStopBits4" Type="Str">1</Property>
+				<Item Name="Port1" Type="RIO Subresource"/>
+				<Item Name="Port2" Type="RIO Subresource"/>
+				<Item Name="Port3" Type="RIO Subresource"/>
+				<Item Name="Port4" Type="RIO Subresource"/>
 			</Item>
+			<Item Name="User-Defined Variables" Type="cRIO IO Variable Container"/>
 		</Item>
-		<Item Name="Coordinate Space 1" Type="Motion Coordinate Space">
-			<Property Name="axes:0:0" Type="Str">Axis 1</Property>
+		<Item Name="Coordinate Space SCB motor" Type="Motion Coordinate Space">
+			<Property Name="axes:0:0" Type="Str">Axis SCB motor</Property>
 			<Property Name="axes:0:Size" Type="UInt">1</Property>
 			<Property Name="resource.type:0" Type="Int">10551313</Property>
-			<Property Name="resourceID:0" Type="Str">{CB054AE7-55B8-4774-9B05-A4A985BD9C96}</Property>
+			<Property Name="resourceID:0" Type="Str">{72CFF04A-2499-4C28-8617-2DD283B37C4A}</Property>
 			<Property Name="softmotionID:0" Type="Str">{C89C22D6-09D8-451c-B54B-BE98A931F881}</Property>
 		</Item>
 		<Item Name="Encoder-Decoder.vi" Type="VI" URL="../Encoder-Decoder.vi"/>
 		<Item Name="Sample-Encoder conversion.vi" Type="VI" URL="../Sample-Encoder conversion.vi"/>
-		<Item Name="SC2 RT.vi" Type="VI" URL="../SC2 RT.vi">
+		<Item Name="SCB RT.vi" Type="VI" URL="../SCB RT.vi">
 			<Item Name="Straight-Line Move 1" Type="IIO Function Block"/>
 		</Item>
-		<Item Name="SC2 shared var.lvlib" Type="Library" URL="../SC2 shared var.lvlib"/>
+		<Item Name="SCB shared var.lvlib" Type="Library" URL="../SCB shared var.lvlib"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="Clear All Faults.vi" Type="VI" URL="/&lt;vilib&gt;/NIScanEngine/faults/Clear All Faults.vi"/>
@@ -2343,57 +2343,60 @@ AddOutputFilter chunkFilter
 			<Item Name="SC2 states.ctl" Type="VI" URL="../SC2 states.ctl"/>
 		</Item>
 		<Item Name="Build Specifications" Type="Build">
-			<Item Name="Sample Changer B" Type="{69A947D5-514E-4E75-818E-69657C0547D8}">
+			<Item Name="Sample Changer B - motor control" Type="{69A947D5-514E-4E75-818E-69657C0547D8}">
 				<Property Name="App_copyErrors" Type="Bool">true</Property>
-				<Property Name="App_INI_aliasGUID" Type="Str">{20CB26C4-CE5E-498A-9F08-B085722D565C}</Property>
-				<Property Name="App_INI_GUID" Type="Str">{6E9CB877-A0E5-4029-861F-7BF74498AD05}</Property>
+				<Property Name="App_INI_aliasGUID" Type="Str">{E15DE953-D6E9-4620-A87D-BF4F49E7A94D}</Property>
+				<Property Name="App_INI_GUID" Type="Str">{56981BBC-89EE-4BC4-BB6A-4E8EED1C8745}</Property>
 				<Property Name="App_serverConfig.httpPort" Type="Int">8002</Property>
-				<Property Name="Bld_buildCacheID" Type="Str">{BBB7D740-ED0A-438E-AFC5-52A46F5F728F}</Property>
-				<Property Name="Bld_buildSpecName" Type="Str">Sample Changer B</Property>
+				<Property Name="Bld_autoIncrement" Type="Bool">true</Property>
+				<Property Name="Bld_buildCacheID" Type="Str">{47A9AE76-9132-4778-8C27-CC67BA398DAE}</Property>
+				<Property Name="Bld_buildSpecName" Type="Str">Sample Changer B - motor control</Property>
+				<Property Name="Bld_compilerOptLevel" Type="Int">0</Property>
 				<Property Name="Bld_excludeInlineSubVIs" Type="Bool">true</Property>
 				<Property Name="Bld_excludeLibraryItems" Type="Bool">true</Property>
 				<Property Name="Bld_excludePolymorphicVIs" Type="Bool">true</Property>
-				<Property Name="Bld_localDestDir" Type="Path">../builds/NI_AB_PROJECTNAME/NI_AB_TARGETNAME/Sample Changer B</Property>
+				<Property Name="Bld_localDestDir" Type="Path">../builds/NI_AB_PROJECTNAME/NI_AB_TARGETNAME/Sample Changer B - motor control</Property>
 				<Property Name="Bld_localDestDirType" Type="Str">relativeToCommon</Property>
 				<Property Name="Bld_modifyLibraryFile" Type="Bool">true</Property>
-				<Property Name="Bld_previewCacheID" Type="Str">{C25DAC40-1517-4500-BE7A-D521529FA34A}</Property>
-				<Property Name="Bld_targetDestDir" Type="Path">/c/ni-rt/startup</Property>
+				<Property Name="Bld_previewCacheID" Type="Str">{3C5B7819-3D38-4B7E-A327-C415AA5B3E1C}</Property>
+				<Property Name="Bld_targetDestDir" Type="Path">/home/lvuser/natinst/bin</Property>
+				<Property Name="Bld_version.build" Type="Int">2</Property>
 				<Property Name="Bld_version.major" Type="Int">1</Property>
 				<Property Name="Destination[0].destName" Type="Str">startup.rtexe</Property>
-				<Property Name="Destination[0].path" Type="Path">/c/ni-rt/startup/startup.rtexe</Property>
+				<Property Name="Destination[0].path" Type="Path">/home/lvuser/natinst/bin/startup.rtexe</Property>
 				<Property Name="Destination[0].path.type" Type="Str">&lt;none&gt;</Property>
 				<Property Name="Destination[0].preserveHierarchy" Type="Bool">true</Property>
 				<Property Name="Destination[0].type" Type="Str">App</Property>
 				<Property Name="Destination[1].destName" Type="Str">Support Directory</Property>
-				<Property Name="Destination[1].path" Type="Path">/c/ni-rt/startup/data</Property>
+				<Property Name="Destination[1].path" Type="Path">/home/lvuser/natinst/bin/data</Property>
 				<Property Name="Destination[1].path.type" Type="Str">&lt;none&gt;</Property>
 				<Property Name="DestinationCount" Type="Int">2</Property>
-				<Property Name="Source[0].itemID" Type="Str">{22DCCE22-130D-4C22-8458-9C1889A974B3}</Property>
+				<Property Name="Source[0].itemID" Type="Str">{2B04C75B-CFCE-4306-8506-19BE8D2E1FED}</Property>
 				<Property Name="Source[0].type" Type="Str">Container</Property>
 				<Property Name="Source[1].destinationIndex" Type="Int">0</Property>
-				<Property Name="Source[1].itemID" Type="Ref">/Sample-changer-2/Encoder-Decoder.vi</Property>
-				<Property Name="Source[1].sourceInclusion" Type="Str">Include</Property>
+				<Property Name="Source[1].itemID" Type="Ref">/RT CompactRIO Target/SCB RT.vi</Property>
+				<Property Name="Source[1].sourceInclusion" Type="Str">TopLevel</Property>
 				<Property Name="Source[1].type" Type="Str">VI</Property>
 				<Property Name="Source[2].destinationIndex" Type="Int">0</Property>
-				<Property Name="Source[2].itemID" Type="Ref">/Sample-changer-2/SC2 RT.vi</Property>
-				<Property Name="Source[2].sourceInclusion" Type="Str">TopLevel</Property>
+				<Property Name="Source[2].itemID" Type="Ref">/RT CompactRIO Target/Encoder-Decoder.vi</Property>
+				<Property Name="Source[2].sourceInclusion" Type="Str">Include</Property>
 				<Property Name="Source[2].type" Type="Str">VI</Property>
 				<Property Name="Source[3].destinationIndex" Type="Int">0</Property>
-				<Property Name="Source[3].itemID" Type="Ref">/Sample-changer-2/Sample-Encoder conversion.vi</Property>
+				<Property Name="Source[3].itemID" Type="Ref">/RT CompactRIO Target/Sample-Encoder conversion.vi</Property>
 				<Property Name="Source[3].sourceInclusion" Type="Str">Include</Property>
 				<Property Name="Source[3].type" Type="Str">VI</Property>
 				<Property Name="Source[4].destinationIndex" Type="Int">0</Property>
-				<Property Name="Source[4].itemID" Type="Ref">/Sample-changer-2/SC2 shared var.lvlib</Property>
+				<Property Name="Source[4].itemID" Type="Ref">/RT CompactRIO Target/SCB shared var.lvlib</Property>
 				<Property Name="Source[4].Library.allowMissingMembers" Type="Bool">true</Property>
 				<Property Name="Source[4].sourceInclusion" Type="Str">Include</Property>
 				<Property Name="Source[4].type" Type="Str">Library</Property>
 				<Property Name="SourceCount" Type="Int">5</Property>
 				<Property Name="TgtF_companyName" Type="Str">Purdue University</Property>
-				<Property Name="TgtF_fileDescription" Type="Str">Sample Changer B</Property>
-				<Property Name="TgtF_internalName" Type="Str">Sample Changer B</Property>
+				<Property Name="TgtF_fileDescription" Type="Str">Sample Changer B - motor control</Property>
+				<Property Name="TgtF_internalName" Type="Str">Sample Changer B - motor control</Property>
 				<Property Name="TgtF_legalCopyright" Type="Str">Copyright © 2016 Purdue University</Property>
-				<Property Name="TgtF_productName" Type="Str">Sample Changer B</Property>
-				<Property Name="TgtF_targetfileGUID" Type="Str">{E5765D40-D751-49CE-A13F-D3E4787971EB}</Property>
+				<Property Name="TgtF_productName" Type="Str">Sample Changer B - motor control</Property>
+				<Property Name="TgtF_targetfileGUID" Type="Str">{752F2664-D90E-464A-B5B6-7C9010E0C8CE}</Property>
 				<Property Name="TgtF_targetfileName" Type="Str">startup.rtexe</Property>
 			</Item>
 		</Item>
