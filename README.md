@@ -10,3 +10,5 @@ master: latest working version
 rotate: proto-sample changer code - simply spins the wheel as directed and reads back position
 
 state-control: adds array-of-states to prepare for interlocks required for actually moving samples around
+
+crio9067: migrated code to work on NI cRIO 9067 controller/chassis.  Previous versions had been written work on NI cRIO 9024 controller/NI cRIO 9114 chassis.
