@@ -169,11 +169,13 @@
 		<Property Name="server.vi.propertiesEnabled" Type="Bool">true</Property>
 		<Property Name="specify.custom.address" Type="Bool">false</Property>
 		<Item Name="Interface states.ctl" Type="VI" URL="../Interface states.ctl"/>
+		<Item Name="Sample Changer tester.vi" Type="VI" URL="../Sample Changer tester.vi"/>
 		<Item Name="SCB Host.vi" Type="VI" URL="../SCB Host.vi"/>
 		<Item Name="SCB icon 01.ico" Type="Document" URL="../../../icons/SCB icon 01.ico"/>
 		<Item Name="SCB Monitor shared var.lvlib" Type="Library" URL="../SCB Monitor shared var.lvlib"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="SC2 states.ctl" Type="VI" URL="../SC2 states.ctl"/>
+			<Item Name="Tester-states.ctl" Type="VI" URL="../Tester-states.ctl"/>
 		</Item>
 		<Item Name="Build Specifications" Type="Build">
 			<Item Name="Sample Changer B Monitor" Type="EXE">
