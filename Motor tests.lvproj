@@ -174,6 +174,10 @@
 		<Item Name="SCB icon 01.ico" Type="Document" URL="../../../icons/SCB icon 01.ico"/>
 		<Item Name="SCB Monitor shared var.lvlib" Type="Library" URL="../SCB Monitor shared var.lvlib"/>
 		<Item Name="Dependencies" Type="Dependencies">
+			<Item Name="vi.lib" Type="Folder">
+				<Item Name="NI_AALBase.lvlib" Type="Library" URL="/&lt;vilib&gt;/Analysis/NI_AALBase.lvlib"/>
+			</Item>
+			<Item Name="lvanlys.dll" Type="Document" URL="/&lt;resource&gt;/lvanlys.dll"/>
 			<Item Name="SC2 states.ctl" Type="VI" URL="../SC2 states.ctl"/>
 			<Item Name="Tester-states.ctl" Type="VI" URL="../Tester-states.ctl"/>
 		</Item>
