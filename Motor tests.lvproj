@@ -58,6 +58,7 @@
 	<Property Name="varPersistentID:{602D1CB0-58A5-4E41-A792-662AF3B75521}" Type="Ref">/RT CompactRIO Target/Chassis/Mod4/AO15</Property>
 	<Property Name="varPersistentID:{6255A82C-3E5C-4EE2-9AD8-AC2A7553CDFA}" Type="Ref">/RT CompactRIO Target/Chassis/Mod6/DI19</Property>
 	<Property Name="varPersistentID:{6315DD6C-E3C7-4790-A63F-4FBC768059D6}" Type="Ref">/RT CompactRIO Target/Chassis/Mod3/AI31</Property>
+	<Property Name="varPersistentID:{697DCD95-47C3-466C-990F-737A54C121C1}" Type="Ref">/RT CompactRIO Target/SCB shared var.lvlib/SCB Rotation Timeout</Property>
 	<Property Name="varPersistentID:{6B5EEEC1-91A4-4B85-875A-396068077E0B}" Type="Ref">/RT CompactRIO Target/SCB shared var.lvlib/SCB Motor status</Property>
 	<Property Name="varPersistentID:{6D347326-B02B-45EB-9F8D-5FD5427AD8D0}" Type="Ref">/RT CompactRIO Target/Chassis/Mod7/DIO10</Property>
 	<Property Name="varPersistentID:{6D509565-C40D-41E7-9EF6-BE9B6C03BDDA}" Type="Ref">/RT CompactRIO Target/Chassis/Mod3/AI12</Property>
@@ -105,6 +106,7 @@
 	<Property Name="varPersistentID:{A6C226F7-27CB-4D50-9CDB-FCA1C0179C70}" Type="Ref">/RT CompactRIO Target/Chassis/Mod7/DIO0</Property>
 	<Property Name="varPersistentID:{A8B85D1F-0E1A-474F-8570-72EC0E25ED96}" Type="Ref">/RT CompactRIO Target/Chassis/Mod6/DI15</Property>
 	<Property Name="varPersistentID:{A8F27CE5-FCDB-4BA6-80A1-4D7270E5C2DF}" Type="Ref">/RT CompactRIO Target/Chassis/Mod7/DIO20</Property>
+	<Property Name="varPersistentID:{A952020C-D8F0-4ED1-BB9E-2901DBC78F21}" Type="Ref">/My Computer/SCB Monitor shared var.lvlib/Rotation Timeout</Property>
 	<Property Name="varPersistentID:{AB55943E-B2B7-46A0-B479-0CEE114ACB03}" Type="Ref">/RT CompactRIO Target/Chassis/Mod3/AI14</Property>
 	<Property Name="varPersistentID:{ACCD064C-BAE1-4C86-9381-AC444C2DA91C}" Type="Ref">/RT CompactRIO Target/Chassis/Mod6/DI0</Property>
 	<Property Name="varPersistentID:{AD0D7EA6-6888-466C-B60A-A5D2E8EEFD93}" Type="Ref">/RT CompactRIO Target/Chassis/Mod7/DIO26</Property>
