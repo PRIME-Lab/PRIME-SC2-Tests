@@ -30,6 +30,7 @@
 	<Property Name="varPersistentID:{2B9B9A8C-8EFD-4593-89AB-4A156E345CD2}" Type="Ref">/RT CompactRIO Target/Chassis/Mod3/AI28</Property>
 	<Property Name="varPersistentID:{2CB8402F-4640-40FC-B473-E0059327FD26}" Type="Ref">/My Computer/SCB Monitor shared var.lvlib/Current State</Property>
 	<Property Name="varPersistentID:{2F8BF7D5-E841-4011-BB3A-5179F5004DC0}" Type="Ref">/RT CompactRIO Target/Chassis/Mod5/DO0</Property>
+	<Property Name="varPersistentID:{310D2C76-C99B-40B0-91C7-159DDE9B6D00}" Type="Ref">/RT CompactRIO Target/SCB shared var.lvlib/SCB Target Attempts</Property>
 	<Property Name="varPersistentID:{32E3F881-1C03-4437-B273-49EC375D0D07}" Type="Ref">/RT CompactRIO Target/SCB shared var.lvlib/SCB Encoder destination</Property>
 	<Property Name="varPersistentID:{33AECF64-D20E-4CA0-90EF-A5FF2A07F430}" Type="Ref">/RT CompactRIO Target/Chassis/Mod3/AI7</Property>
 	<Property Name="varPersistentID:{3A736607-9CB2-4FE6-8C14-A04E6979E8BA}" Type="Ref">/RT CompactRIO Target/Chassis/Mod3/AI11</Property>
@@ -101,6 +102,7 @@
 	<Property Name="varPersistentID:{9EE63F6F-2F58-4E09-9ADB-EF1799B2C042}" Type="Ref">/RT CompactRIO Target/Chassis/Mod3/AI17</Property>
 	<Property Name="varPersistentID:{A1E9CBCB-22D0-41BD-9CEA-012855A0A3E5}" Type="Ref">/RT CompactRIO Target/Chassis/Mod7/DIO23</Property>
 	<Property Name="varPersistentID:{A340A0E1-5DBA-42A7-AB63-624527C53211}" Type="Ref">/RT CompactRIO Target/Chassis/Mod6/DI8</Property>
+	<Property Name="varPersistentID:{A4DB2AB7-F95F-484C-9C10-A7F9621EF753}" Type="Ref">/My Computer/SCB Monitor shared var.lvlib/Target Attempts</Property>
 	<Property Name="varPersistentID:{A57EB847-324F-4C6D-9B0B-97B04CB67DED}" Type="Ref">/RT CompactRIO Target/SCB shared var.lvlib/SCB Encoder Position</Property>
 	<Property Name="varPersistentID:{A58EC884-842F-44C3-9CAF-D81B70CC2763}" Type="Ref">/RT CompactRIO Target/Chassis/Mod6/DI3</Property>
 	<Property Name="varPersistentID:{A6C226F7-27CB-4D50-9CDB-FCA1C0179C70}" Type="Ref">/RT CompactRIO Target/Chassis/Mod7/DIO0</Property>
@@ -170,7 +172,9 @@
 		<Property Name="server.vi.callsEnabled" Type="Bool">true</Property>
 		<Property Name="server.vi.propertiesEnabled" Type="Bool">true</Property>
 		<Property Name="specify.custom.address" Type="Bool">false</Property>
+		<Item Name="4032 test loop.vi" Type="VI" URL="../4032 test loop.vi"/>
 		<Item Name="Interface states.ctl" Type="VI" URL="../Interface states.ctl"/>
+		<Item Name="Sample Changer 4032 tester.vi" Type="VI" URL="../Sample Changer 4032 tester.vi"/>
 		<Item Name="Sample Changer tester.vi" Type="VI" URL="../Sample Changer tester.vi"/>
 		<Item Name="SCB Host.vi" Type="VI" URL="../SCB Host.vi"/>
 		<Item Name="SCB icon 01.ico" Type="Document" URL="../../../icons/SCB icon 01.ico"/>
@@ -178,6 +182,11 @@
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="NI_AALBase.lvlib" Type="Library" URL="/&lt;vilib&gt;/Analysis/NI_AALBase.lvlib"/>
+				<Item Name="Write Delimited Spreadsheet (DBL).vi" Type="VI" URL="/&lt;vilib&gt;/Utility/file.llb/Write Delimited Spreadsheet (DBL).vi"/>
+				<Item Name="Write Delimited Spreadsheet (I64).vi" Type="VI" URL="/&lt;vilib&gt;/Utility/file.llb/Write Delimited Spreadsheet (I64).vi"/>
+				<Item Name="Write Delimited Spreadsheet (string).vi" Type="VI" URL="/&lt;vilib&gt;/Utility/file.llb/Write Delimited Spreadsheet (string).vi"/>
+				<Item Name="Write Delimited Spreadsheet.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/file.llb/Write Delimited Spreadsheet.vi"/>
+				<Item Name="Write Spreadsheet String.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/file.llb/Write Spreadsheet String.vi"/>
 			</Item>
 			<Item Name="lvanlys.dll" Type="Document" URL="/&lt;resource&gt;/lvanlys.dll"/>
 			<Item Name="SC2 states.ctl" Type="VI" URL="../SC2 states.ctl"/>

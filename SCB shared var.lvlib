@@ -86,7 +86,7 @@
 		<Property Name="type" Type="Str">Network</Property>
 		<Property Name="typedefName1" Type="Str">SC2 states.ctl</Property>
 		<Property Name="typedefPath1" Type="PathRel">../SC2 states.ctl</Property>
-		<Property Name="typeDesc" Type="Bin">&amp;A#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!#)B!!!!"9!A!!!!!!"!()!]1!!!!!!!!!"$F.$-C"T&gt;'&amp;U:8-O9X2M!&amp;N!&amp;A!'#GFO;82J97RJ?G5%&gt;W&amp;J&gt;!ZD;'6D;S"Q&lt;X.J&gt;'FP&lt;ARS&lt;X2B&gt;'5A&gt;WBF:7Q0=G^U982F)'.P&lt;8"M:82F#&amp;.I&gt;82E&lt;X&gt;O!!!*5U-S)(.U982F!!%!!!!!!!!!!!!!!!!</Property>
+		<Property Name="typeDesc" Type="Bin">&amp;A#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!#7EA!!!"9!A!!!!!!"!)!!]1!!!!!!!!!"$F.$-C"T&gt;'&amp;U:8-O9X2M!'F!&amp;A!(#GFO;82J97RJ?G5%&gt;W&amp;J&gt;!ZD;'6D;S"Q&lt;X.J&gt;'FP&lt;ARS&lt;X2B&gt;'5A&gt;WBF:7Q0=G^U982F)'.P&lt;8"M:82F$H*P&gt;'&amp;U:3"G97FM&gt;8*F#&amp;.I&gt;82E&lt;X&gt;O!!F41T)A=X2B&gt;'5!!1!!!!!!!!!!!!!!!!</Property>
 	</Item>
 	<Item Name="SCB Encoder destination" Type="Variable">
 		<Property Name="featurePacks" Type="Str">Network</Property>
@@ -226,5 +226,14 @@
 		<Property Name="Path" Type="Str">/Motor tests.lvproj/RT CompactRIO Target/SC2 shared var.lvlib/</Property>
 		<Property Name="type" Type="Str">Network</Property>
 		<Property Name="typeDesc" Type="Bin">&amp;A#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!B(1!!!"9!A!!!!!!"!!R!)1&gt;#&lt;W^M:7&amp;O!!%!!!!!!!!!!!!!!!</Property>
+	</Item>
+	<Item Name="SCB Target Attempts" Type="Variable">
+		<Property Name="featurePacks" Type="Str">Network</Property>
+		<Property Name="Network:BuffSize" Type="Str">50</Property>
+		<Property Name="Network:UseBinding" Type="Str">False</Property>
+		<Property Name="Network:UseBuffering" Type="Str">True</Property>
+		<Property Name="numTypedefs" Type="UInt">0</Property>
+		<Property Name="type" Type="Str">Network</Property>
+		<Property Name="typeDesc" Type="Bin">&amp;A#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!&gt;'1!!!"9!A!!!!!!"!!5!!Q!!!1!!!!!!!!!!!!!!!!!!</Property>
 	</Item>
 </Library>
