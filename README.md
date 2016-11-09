@@ -4,8 +4,17 @@ PRIME (Purdue Rare Isotope Measurement) Lab conducts AMS (accelerator mass spect
 
 The driver is communicated to through a National Instruments cRIO module (NI-9512) and motor position read back via an 14-bit encoder reporting to a NI-9403 cRIO module.
 
+##  Overview
+
+This LabVIEW code is meant to test wheel rotation algorithms for sample changer and doesn't include code for the other devices to be connected to the SCB cRIO (HV components, gate valves, rod actuation, etc).
+
+
 ## Branches
 master: latest working version
+
+dev: initial development branch
+
+crio9067: migrated from the 9024/9114 combo to the 9067 and includes full test of precision (4032)
 
 rotate: proto-sample changer code - simply spins the wheel as directed and reads back position
 
