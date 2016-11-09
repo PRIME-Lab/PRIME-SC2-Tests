@@ -1,0 +1,4 @@
+11/9/2016 2:40:35 PM	Encoder radius = 1	Rot. Timeout = 30000
+Loop Count	Sample #	Encoder Position	Move (steps)	Rotation time (ms)	Move Error	Target Attempts
+0	1	15108	15108	5265	1	0
+1	2	14851	-257	8750	0	0
