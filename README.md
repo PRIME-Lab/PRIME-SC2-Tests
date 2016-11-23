@@ -6,7 +6,7 @@ The driver is communicated to through a National Instruments cRIO module (NI-951
 
 ##  Overview
 
-This LabVIEW code is meant to test wheel rotation algorithms for sample changer and doesn't include code for the other devices to be connected to the SCB cRIO (HV components, gate valves, rod actuation, etc).
+This LabVIEW code is meant to test wheel rotation algorithms for sample changer and doesn't include code for the other devices to be connected to the SCB cRIO (HV components, gate valves, rod actuation, etc). See the SCB-Control project for full control of source section of beamline.
 
 
 ## Branches
